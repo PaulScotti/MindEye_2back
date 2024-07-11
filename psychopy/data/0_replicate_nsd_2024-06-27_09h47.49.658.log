@@ -1,0 +1,99 @@
+4.6298 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f84111379d0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137940>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-0.0039, -0.0039, -0.0039]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137700>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8411423370>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='deg', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.6298 	EXP 	window1: backgroundImage = ''
+4.6298 	EXP 	window1: backgroundFit = 'none'
+4.6300 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6303 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6324 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6330 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6750 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6751 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6757 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6762 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8411137ac0>
+4.6906 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.6906 	EXP 	window1: recordFrameIntervals = False
+4.8562 	EXP 	window1: recordFrameIntervals = True
+5.4867 	EXP 	Screen (0) actual frame rate measured at 97.48Hz
+5.4867 	EXP 	window1: recordFrameIntervals = False
+5.4880 	EXP 	window1: mouseVisible = False
+6.1888 	EXP 	replicate_nsd: status = STARTED
+6.1892 	EXP 	window1: mouseVisible = False
+6.1958 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='deg', win=Window(...), wrapWidth=15.0)
+6.1959 	EXP 	window1: mouseVisible = False
+6.2127 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([8.4, 8.4]), texRes=128.0, units='deg', win=Window(...))
+6.2129 	EXP 	window1: mouseVisible = False
+6.2168 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=3.0, name='polygon_3', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='deg', vertices=ndarray(...), win=Window(...), windingRule=None)
+6.2169 	EXP 	window1: mouseVisible = False
+6.2196 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=3.0, name='polygon', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='deg', vertices=ndarray(...), win=Window(...), windingRule=None)
+6.2197 	EXP 	window1: mouseVisible = False
+6.2209 	EXP 	Created text_cue = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=1.0, italic=False, languageStyle='LTR', name='text_cue', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='deg', win=Window(...), wrapWidth=2.0)
+6.2209 	EXP 	window1: mouseVisible = False
+6.2236 	EXP 	Created polygon_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=3.0, name='polygon_4', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='deg', vertices=ndarray(...), win=Window(...), windingRule=None)
+6.2236 	EXP 	window1: mouseVisible = False
+6.2245 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='deg', win=Window(...), wrapWidth=15.0)
+6.2246 	EXP 	window1: mouseVisible = False
+6.2483 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='waiting for scanner…', units='deg', win=Window(...), wrapWidth=15.0)
+6.2484 	EXP 	window1: mouseVisible = False
+6.2519 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([8.4, 8.4]), texRes=128.0, units='deg', win=Window(...))
+6.2520 	EXP 	window1: mouseVisible = False
+6.2553 	EXP 	Created polygon_5 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=3.0, name='polygon_5', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='deg', vertices=ndarray(...), win=Window(...), windingRule=None)
+6.2553 	EXP 	window1: mouseVisible = False
+6.2580 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=3.0, name='polygon_2', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='deg', vertices=ndarray(...), win=Window(...), windingRule=None)
+6.2581 	EXP 	window1: mouseVisible = False
+6.2590 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='deg', win=Window(...), wrapWidth=15.0)
+6.2590 	EXP 	window1: mouseVisible = False
+6.2614 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='waiting for scanner…', units='deg', win=Window(...), wrapWidth=15.0)
+0.0172 	EXP 	text_6: height = 0.5
+0.0172 	EXP 	text_6: height = 0.5
+0.0172 	EXP 	text_6: height = 0.5
+0.0172 	EXP 	text_6: text = 'Press any button to begin the practice trials.'
+0.0172 	EXP 	text_6: autoDraw = True
+3.0043 	EXP 	Imported practice_conditions_files/practice_participant0_.csv as conditions, 20 conditions, 4 params
+3.0046 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+3.0047 	EXP 	New trial (rep=0, index=0): OrderedDict([('current_image', 'practice_images/paired_image_2_1.png'), ('trial_index', 0), ('is_blank_trial', 0), ('cue', 'blank')])
+3.0433 	DATA 	Keypress: 2
+3.0456 	EXP 	text_6: autoDraw = False
+3.0456 	EXP 	image_2: image = 'practice_images/paired_image_2_1.png'
+3.0456 	EXP 	image_2: autoDraw = True
+3.0456 	EXP 	polygon_3: autoDraw = True
+6.0454 	EXP 	image_2: autoDraw = False
+7.0150 	EXP 	image_2: autoDraw = False
+7.0150 	EXP 	polygon_3: autoDraw = False
+7.0150 	EXP 	polygon: autoDraw = True
+7.5194 	EXP 	polygon: autoDraw = False
+7.5194 	EXP 	text_cue: height = 1.0
+7.5194 	EXP 	text_cue: height = 1.0
+7.5194 	EXP 	text_cue: height = 1.0
+7.5194 	EXP 	text_cue: text = 'blank'
+7.5194 	EXP 	text_cue: autoDraw = True
+8.5124 	EXP 	text_cue: autoDraw = False
+8.5124 	EXP 	polygon_4: autoDraw = True
+12.5062 	EXP 	New trial (rep=0, index=1): OrderedDict([('current_image', 'practice_images/paired_image_29_1.png'), ('trial_index', 1), ('is_blank_trial', 0), ('cue', 'giraffe')])
+12.5196 	EXP 	polygon_4: autoDraw = False
+12.5196 	EXP 	image_2: image = 'practice_images/paired_image_29_1.png'
+12.5196 	EXP 	image_2: autoDraw = True
+12.5196 	EXP 	polygon_3: autoDraw = True
+15.5249 	EXP 	image_2: autoDraw = False
+16.5151 	EXP 	image_2: autoDraw = False
+16.5151 	EXP 	polygon_3: autoDraw = False
+16.5151 	EXP 	polygon: autoDraw = True
+17.0128 	EXP 	polygon: autoDraw = False
+17.0128 	EXP 	text_cue: height = 1.0
+17.0128 	EXP 	text_cue: height = 1.0
+17.0128 	EXP 	text_cue: height = 1.0
+17.0128 	EXP 	text_cue: text = 'giraffe'
+17.0128 	EXP 	text_cue: autoDraw = True
+18.0160 	EXP 	text_cue: autoDraw = False
+18.0160 	EXP 	polygon_4: autoDraw = True
+21.7620 	DATA 	Keypress: escape
+21.8857 	EXP 	replicate_nsd: status = STOPPED
+21.8950 	EXP 	polygon_4: autoDraw = False
+21.8950 	EXP 	replicate_nsd: status = STOPPED
+21.9222 	EXP 	window1: mouseVisible = True
+21.9962 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.9963 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
