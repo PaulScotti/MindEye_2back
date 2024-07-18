@@ -1,6 +1,0 @@
-5.7980 	WARNING 	Monitor specification not found. Creating a temporary one...
-5.9802 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8524fd4820>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8524fd47c0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-0.0039, -0.0039, -0.0039]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8524fd45b0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8510b47280>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='deg', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
-5.9802 	EXP 	window1: backgroundImage = ''
-5.9802 	EXP 	window1: backgroundFit = 'none'
-5.9804 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8524fd4940>
-6.0188 	EXP 	window1: mouseVisible = True
