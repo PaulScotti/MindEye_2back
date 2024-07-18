@@ -1,3 +1,4 @@
 *.DS_Store*
+*.ipynb_checkpoints*
 *replicate_nsd_lastrun.py
 *__pycache__*
