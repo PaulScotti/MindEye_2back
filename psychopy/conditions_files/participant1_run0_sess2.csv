@@ -1,103 +1,104 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_nonshared_5720__new_york_streetscape.jpg,0,0,0,0,0,2,blank,1,"[11, 21, 35]"
-stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,1,0,0,0,2,"new
-york
-streetscape",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_919__smiling_schoolchild_portrait.jpg,0,2,0,0,0,2,"orange
+stimuli_labeled/coco_shared_519__book_on_blanket.jpg,0,0,0,0,0,2,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_99__open_stocked_refrigerator.jpg,0,1,0,0,0,2,"book
+on
+blanket",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_216__park_path_people.jpg,0,2,0,0,0,2,"open
+stocked
+refrigerator",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_544__lake_mountain_boat.jpg,0,3,0,0,0,2,"park
+path
+people",1,"[11, 21, 35]"
+stimuli_labeled/extra39__black_poodle_sitting.jpg,0,4,0,0,0,2,"lake
+mountain
+boat",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_278__cat_in_suitcase.jpg,0,5,0,0,0,2,"black
+poodle
+sitting",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_31076__black_cat_heterochromia.jpg,0,6,0,0,0,2,"cat
+in
+suitcase",1,"[11, 21, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,7,0,0,0,2,"black
+cat
+heterochromia",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_404__child_playing_frisbee.jpg,0,8,0,0,0,2,"dad
+dog
+lick
+feet",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,0,9,0,0,0,2,"child
+playing
+frisbee",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_33850__red_window_glow.jpg,0,10,0,0,0,2,"yellow
+umbrella
+woman",1,"[11, 21, 35]"
+blank.jpg,0,11,1,0,0,2,"red
+window
+glow",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_999__modern_urban_sunroom.jpg,0,12,0,0,0,2,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_730__boy_bench_cat.jpg,0,13,0,0,0,2,"modern
+urban
+sunroom",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,0,14,0,0,0,2,"boy
+bench
+cat",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_386__modern_white_bathroom.jpg,0,15,0,0,0,2,"modern
+kitchen
+cabinets",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_425__three_businessmen_walking.jpg,0,16,0,0,0,2,"modern
+white
+bathroom",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,17,0,0,0,2,"three
+businessmen
+walking",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_70590__woman_cat_couch.jpg,0,18,0,0,0,2,"yawning
+kitchen
+person",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_27905__dog_and_cat.jpg,0,19,0,0,0,2,"woman
+cat
+couch",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_620__urban_bus_scene.jpg,0,20,0,0,0,2,"dog
+and
+cat",1,"[11, 21, 35]"
+blank.jpg,0,21,1,0,0,2,"urban
+bus
+scene",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,1,22,0,0,0,2,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_781__child_holding_hairbrush.jpg,0,23,0,0,0,2,"yellow
+umbrella
+woman",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_59217__portraits_on_bed.jpg,0,24,0,0,0,2,"child
+holding
+hairbrush",1,"[11, 21, 35]"
+stimuli_labeled/album2__children_photo.jpg,0,25,0,0,0,2,"portraits
+on
+bed",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_145__bike_hydrant_doorway.jpg,0,26,0,0,0,2,"children
+photo",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_831__calm_winter_river.jpg,0,27,0,0,0,2,"bike
+hydrant
+doorway",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_8781__antique_iron_bed.jpg,0,28,0,0,0,2,"calm
+winter
+river",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_819__laptop_mouse_notebook.jpg,0,29,0,0,0,2,"antique
+iron
+bed",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,30,0,0,0,2,"laptop
+mouse
+notebook",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_143__outdoor_wine_tasting.jpg,0,31,0,0,0,2,"boat
+on
+lake",1,"[11, 21, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,32,0,0,0,2,"outdoor
+wine
+tasting",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_87__wet_dog_bathtub.jpg,0,33,0,0,0,2,"orange
 crate
 fruit
 shop",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_768__elegant_bathroom_vanity.jpg,0,3,0,0,0,2,"smiling
-schoolchild
-portrait",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_779__luggage_compartment_packed.jpg,0,4,0,0,0,2,"elegant
-bathroom
-vanity",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_59041__cats_lounging_bed.jpg,0,5,0,0,0,2,"luggage
-compartment
-packed",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_13__laptop_on_bed.jpg,0,6,0,0,0,2,"cats
-lounging
-bed",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_161__sleeping_child_smiling.jpg,0,7,0,0,0,2,"laptop
-on
-bed",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_791__historic_clock_tower.jpg,0,8,0,0,0,2,"sleeping
-child
-smiling",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_813__dogs_family_waterfront.jpg,0,9,0,0,0,2,"historic
-clock
-tower",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_59477__chinatown_street_scene.jpg,0,10,0,0,0,2,"dogs
-family
-waterfront",1,"[11, 21, 35]"
-blank.jpg,0,11,1,0,0,2,"chinatown
-street
-scene",1,"[11, 21, 35]"
-stimuli_labeled/album0__crouching_curiously.jpg,0,12,0,0,0,2,blank,1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_741__cyclists_flowers_park.jpg,0,13,0,0,0,2,"crouching
-curiously",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_220__karaoke_party_scene.jpg,0,14,0,0,0,2,"cyclists
-flowers
-park",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_23967__wooden_bench_storage.jpg,0,15,0,0,0,2,"karaoke
-party
-scene",1,"[11, 21, 35]"
-stimuli_labeled/extra39__black_poodle_sitting.jpg,0,16,0,0,0,2,"wooden
-bench
-storage",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_696__bathtub_toilet_faucet.jpg,0,17,0,0,0,2,"black
-poodle
-sitting",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_547__bedroom_bathroom_television.jpg,0,18,0,0,0,2,"bathtub
-toilet
-faucet",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_240__cat_in_suitcase.jpg,0,19,0,0,0,2,"bedroom
-bathroom
-television",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_519__book_on_blanket.jpg,0,20,0,0,0,2,"cat
-in
-suitcase",1,"[11, 21, 35]"
-blank.jpg,0,21,1,0,0,2,"book
-on
-blanket",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_928__ornate_antique_room.jpg,0,22,0,0,0,2,blank,1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_12963__old_dusty_bottle.jpg,0,23,0,0,0,2,"ornate
-antique
-room",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_37816__sleeping_dog_remote.jpg,0,24,0,0,0,2,"old
-dusty
-bottle",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_757__small_toilet_room.jpg,0,25,0,0,0,2,"sleeping
+stimuli_labeled/coco_shared_860__train_station_platform.jpg,0,34,0,0,0,2,"wet
 dog
-remote",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_806__umbrellas_rain_boots.jpg,0,26,0,0,0,2,"small
-toilet
-room",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_404__child_playing_frisbee.jpg,0,27,0,0,0,2,"umbrellas
-rain
-boots",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_783__apple_computer_setup.jpg,0,28,0,0,0,2,"child
-playing
-frisbee",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_875__dog_on_boat.jpg,0,29,0,0,0,2,"apple
-computer
-setup",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_80__teddy_bear_purplebow.jpg,0,30,0,0,0,2,"dog
-on
-boat",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_24782__kitchen_utensils_lemon.jpg,0,31,0,0,0,2,"teddy
-bear
-purplebow",1,"[11, 21, 35]"
-stimuli_labeled/extra36__dog_wearing_jacket.jpg,0,32,0,0,0,2,"kitchen
-utensils
-lemon",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_42__vintage_green_train.jpg,0,33,0,0,0,2,"dog
-wearing
-jacket",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_178__metal_scissors_closeup.jpg,0,34,0,0,0,2,"vintage
-green
-train",1,"[11, 21, 35]"
-blank.jpg,0,35,1,1,0,2,"metal
-scissors
-closeup",0,"[11, 21, 35]"
+bathtub",1,"[11, 21, 35]"
+blank.jpg,0,35,1,1,0,2,"train
+station
+platform",0,"[11, 21, 35]"

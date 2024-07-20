@@ -164,7 +164,7 @@
         <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
         <Param val="participant_conditions_file = ((&quot;conditions_files/participant&quot; + expInfo[&quot;participant&quot;]) + &quot;_.csv&quot;);&amp;#10;starting_run = Number.parseInt(expInfo[&quot;starting_run&quot;]);&amp;#10;console.log(&quot;starting_run: &quot;, starting_run);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
-        <Param val="practice_participant_conditions_file = &quot;practice_conditions_files/practice_participant&quot; + expInfo[&quot;participant&quot;] + &quot;.csv&quot;&amp;#10;&amp;#10;starting_run = int(expInfo[&quot;starting_run&quot;]) - 1&amp;#10;print(&quot;starting_run: &quot;, starting_run + 1)&amp;#10;&amp;#10;session = int(expInfo[&quot;session (1 2 or 3)&quot;]) - 1 &amp;#10;print(&quot;session (1 | 2 | 3): &quot;, session + 1)&amp;#10;&amp;#10;skip_practice = int(expInfo[&quot;skip_practice&quot;])&amp;#10;print(&quot;skip_practice: &quot;, skip_practice)&amp;#10;&amp;#10;participant_conditions_file = &quot;conditions_files/participant&quot; + expInfo[&quot;participant&quot;] + &quot;_run&quot; + str(starting_run) + &quot;_sess&quot; + str(session) + &quot;.csv&quot;" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="practice_participant_conditions_file = &quot;practice_conditions_files/practice_participant&quot; + expInfo[&quot;participant&quot;] + &quot;.csv&quot;&amp;#10;&amp;#10;participant = int(expInfo[&quot;participant&quot;])&amp;#10;print(&quot;participant: &quot;, participant)&amp;#10;&amp;#10;starting_run = int(expInfo[&quot;starting_run&quot;]) - 1&amp;#10;run = starting_run&amp;#10;print(&quot;starting_run: &quot;, starting_run + 1)&amp;#10;&amp;#10;session = int(expInfo[&quot;session (1 2 or 3)&quot;]) - 1 &amp;#10;print(&quot;session (1 | 2 | 3): &quot;, session + 1)&amp;#10;&amp;#10;skip_practice = int(expInfo[&quot;skip_practice&quot;])&amp;#10;print(&quot;skip_practice: &quot;, skip_practice)&amp;#10;&amp;#10;num_runs = 14 - starting_run&amp;#10;print(&quot;num_runs: &quot;, num_runs)&amp;#10;&amp;#10;first_cond_file = &quot;conditions_files/participant&quot; + expInfo[&quot;participant&quot;] + &quot;_run&quot; + str(run) + &quot;_sess&quot; + str(session) + &quot;.csv&quot;&amp;#10;print(&quot;starting condition file: &quot;, first_cond_file)" valType="extendedCode" updates="constant" name="Begin Routine"/>
         <Param val="Py" valType="str" updates="None" name="Code Type"/>
         <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
         <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
@@ -590,7 +590,7 @@
         <Param val="run_wait_string = &quot;&quot;" valType="extendedCode" updates="constant" name="Begin Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
         <Param val="run_wait_string = (((&quot;Good job! You succesfully responded to &quot; + &quot; out of  triaYour performance score is &quot;) + num_trials_correct.toString()) + &quot;. Please press any button when you are ready to continue.&quot;);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
-        <Param val="if is_new_run and run_num &gt;= starting_run:&amp;#10;    run_wait_string = &quot;Good job!&quot; \&amp;#10;                    &quot; Please press any button when you are ready to continue to run &quot; + str(run_num + 2) + &quot;.&quot; &amp;#10;    print(&quot;run_wait_string: &quot;, run_wait_string)" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="if is_new_run and run_num &gt;= starting_run:&amp;#10;    run_wait_string = &quot;Good job!&quot; \&amp;#10;                    &quot; Please press any button when you are ready to continue to run &quot; + str(run_num + 2) + &quot;.&quot; &amp;#10;    print(&quot;run_wait_string: &quot;, run_wait_string)&amp;#10;    run += 1&amp;#10;    print(&quot;run: &quot;, run)" valType="extendedCode" updates="constant" name="Begin Routine"/>
         <Param val="Py" valType="str" updates="None" name="Code Type"/>
         <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
         <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
@@ -1259,10 +1259,21 @@
     <LoopTerminator name="practice"/>
     <Routine name="testing_continue"/>
     <Routine name="waiting_fmri"/>
+    <LoopInitiator loopType="TrialHandler" name="loop_runs">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="None" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="num_runs" valType="num"/>
+      <Param name="name" updates="None" val="loop_runs" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
     <LoopInitiator loopType="TrialHandler" name="loop_all_images">
       <Param name="Selected rows" updates="None" val="" valType="str"/>
       <Param name="conditions" updates="None" val="None" valType="str"/>
-      <Param name="conditionsFile" updates="None" val="$participant_conditions_file" valType="file"/>
+      <Param name="conditionsFile" updates="None" val="$&quot;conditions_files/participant&quot; + expInfo[&quot;participant&quot;] + &quot;_run&quot; + str(run) + &quot;_sess&quot; + str(session) + &quot;.csv&quot;" valType="file"/>
       <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
       <Param name="isTrials" updates="None" val="True" valType="bool"/>
       <Param name="loopType" updates="None" val="sequential" valType="str"/>
@@ -1279,5 +1290,6 @@
     <Routine name="run_wait2_2"/>
     <Routine name="waiting_fmri_2"/>
     <LoopTerminator name="loop_all_images"/>
+    <LoopTerminator name="loop_runs"/>
   </Flow>
 </PsychoPy2experiment>

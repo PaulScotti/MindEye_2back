@@ -1,103 +1,103 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/extra11__happy_smiling_dog.jpg,0,0,0,0,11,1,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_29683__tiered_wooden_benches.jpg,0,1,0,0,11,1,"happy
-smiling
-dog",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_442__cozy_green_livingroom.jpg,0,2,0,0,11,1,"tiered
-wooden
-benches",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_14__highspeed_train_bridge.jpg,0,3,0,0,11,1,"cozy
-green
-livingroom",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_398__traffic_signal_structure.jpg,0,4,0,0,11,1,"highspeed
-train
-bridge",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_193__yellow_school_bus.jpg,0,5,0,0,11,1,"traffic
-signal
-structure",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_987__iconic_london_bus.jpg,0,6,0,0,11,1,"yellow
-school
-bus",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_847__man_in_suit.jpg,0,7,0,0,11,1,"iconic
-london
-bus",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_132__outdoor_night_computing.jpg,0,8,0,0,11,1,"man
+stimuli_labeled/coco_shared_622__night_traffic_intersection.jpg,0,0,0,0,11,1,blank,1,"[11, 22, 35]"
+stimuli_labeled/extra6__dog_in_snow.jpg,0,1,0,0,11,1,"night
+traffic
+intersection",1,"[11, 22, 35]"
+stimuli_labeled/extra13__man_smoking_cigarette.jpg,0,2,0,0,11,1,"dog
 in
-suit",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_570__man_eating_outdoors.jpg,0,9,0,0,11,1,"outdoor
-night
-computing",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_447__red_locomotive_approaching.jpg,0,10,0,0,11,1,"man
-eating
-outdoors",1,"[11, 22, 35]"
-blank.jpg,0,11,1,0,11,1,"red
-locomotive
-approaching",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_831__calm_winter_river.jpg,0,12,0,0,11,1,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_75__train_crossing_bridge.jpg,0,13,0,0,11,1,"calm
-winter
-river",1,"[11, 22, 35]"
-stimuli_labeled/album13__fruit_store_storefront.jpg,0,14,0,0,11,1,"train
-crossing
-bridge",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_40__person_flying_kite.jpg,0,15,0,0,11,1,"fruit
-store
-storefront",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_1050__two_cuddling_cats.jpg,0,16,0,0,11,1,"person
-flying
-kite",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_11591__occupy_oakland_sign.jpg,0,17,0,0,11,1,"two
-cuddling
-cats",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_220__karaoke_party_scene.jpg,0,18,0,0,11,1,"occupy
-oakland
-sign",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_644__ornate_clock_tower.jpg,0,19,0,0,11,1,"karaoke
-party
-scene",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_17376__woodentopped_floral_tin.jpg,0,20,0,0,11,1,"ornate
-clock
-tower",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_698__computer_classroom_setup.jpg,0,21,0,0,11,1,"woodentopped
-floral
-tin",1,"[11, 22, 35]"
-blank.jpg,0,22,1,0,11,1,"computer
-classroom
-setup",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_10648__cozy_bedroom_window.jpg,0,23,0,0,11,1,blank,1,"[11, 22, 35]"
-stimuli_labeled/extra14__orange_monolith_park.jpg,0,24,0,0,11,1,"cozy
-bedroom
-window",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_352__narrow_italian_alleyway.jpg,0,25,0,0,11,1,"orange
-monolith
-park",1,"[11, 22, 35]"
-stimuli_labeled/extra0__man_dog_stairs.jpg,0,26,0,0,11,1,"narrow
-italian
-alleyway",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_425__three_businessmen_walking.jpg,0,27,0,0,11,1,"man
-dog
-stairs",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_216__park_path_people.jpg,0,28,0,0,11,1,"three
-businessmen
-walking",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_157__computer_setup_soccer.jpg,0,29,0,0,11,1,"park
-path
-people",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_58095__book_lobster_bedding.jpg,0,30,0,0,11,1,"computer
-setup
-soccer",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_109__vintage_steam_locomotive.jpg,0,31,0,0,11,1,"book
-lobster
-bedding",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_71553__new_york_taxi.jpg,0,32,0,0,11,1,"vintage
+snow",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_930__colorful_umbrellas_gathering.jpg,0,3,0,0,11,1,"man
+smoking
+cigarette",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_40814__cat_and_dog.jpg,0,4,0,0,11,1,"colorful
+umbrellas
+gathering",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_720__urban_bike_lane.jpg,0,5,0,0,11,1,"cat
+and
+dog",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_8619__ancient_ceramic_vessel.jpg,0,6,0,0,11,1,"urban
+bike
+lane",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_109__vintage_steam_locomotive.jpg,0,7,0,0,11,1,"ancient
+ceramic
+vessel",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_940__floral_bedding_set.jpg,0,8,0,0,11,1,"vintage
 steam
 locomotive",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_448__laptop_with_stickers.jpg,0,33,0,0,11,1,"new
-york
-taxi",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_397__messy_desk_cat.jpg,0,34,0,0,11,1,"laptop
-with
-stickers",1,"[11, 22, 35]"
-blank.jpg,0,35,1,1,11,1,"messy
-desk
-cat",0,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_16244__chihuahua_near_computer.jpg,0,9,0,0,11,1,"floral
+bedding
+set",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_238__canal_boat_ride.jpg,0,10,0,0,11,1,"chihuahua
+near
+computer",1,"[11, 22, 35]"
+blank.jpg,0,11,1,0,11,1,"canal
+boat
+ride",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_372__red_dining_room.jpg,0,12,0,0,11,1,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_610__retro_gas_station.jpg,0,13,0,0,11,1,"red
+dining
+room",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,14,0,0,11,1,"retro
+gas
+station",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_745__clock_tower_spire.jpg,0,15,0,0,11,1,"woman
+walking
+telephoning",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_928__ornate_antique_room.jpg,0,16,0,0,11,1,"clock
+tower
+spire",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_37307__textured_blanket_closeup.jpg,0,17,0,0,11,1,"ornate
+antique
+room",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_867__church_clock_towers.jpg,0,18,0,0,11,1,"textured
+blanket
+closeup",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_963__high_heels_subway.jpg,0,19,0,0,11,1,"church
+clock
+towers",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,0,20,0,0,11,1,"high
+heels
+subway",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_640__colorful_beached_boats.jpg,0,21,0,0,11,1,"vintage
+red
+motorcycle",1,"[11, 22, 35]"
+blank.jpg,0,22,1,0,11,1,"colorful
+beached
+boats",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_402__bathroom_mirror_flowers.jpg,0,23,0,0,11,1,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_644__ornate_clock_tower.jpg,0,24,0,0,11,1,"bathroom
+mirror
+flowers",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_292__laptop_cat_bookshelf.jpg,0,25,0,0,11,1,"ornate
+clock
+tower",1,"[11, 22, 35]"
+stimuli_labeled/extra27__guitarist_playing_acoustic.jpg,0,26,0,0,11,1,"laptop
+cat
+bookshelf",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_730__boy_bench_cat.jpg,0,27,0,0,11,1,"guitarist
+playing
+acoustic",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_13816__yellow_taxi_pedestrian.jpg,0,28,0,0,11,1,"boy
+bench
+cat",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_60__cyclist_on_street.jpg,0,29,0,0,11,1,"yellow
+taxi
+pedestrian",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_730__boy_bench_cat.jpg,1,30,0,0,11,1,"cyclist
+on
+street",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,31,0,0,11,1,"boy
+bench
+cat",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_673__vintage_mint_bathroom.jpg,0,32,0,0,11,1,"red
+telephone
+booth",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_813__dogs_family_waterfront.jpg,0,33,0,0,11,1,"vintage
+mint
+bathroom",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_76__child_holding_flower.jpg,0,34,0,0,11,1,"dogs
+family
+waterfront",1,"[11, 22, 35]"
+blank.jpg,0,35,1,1,11,1,"child
+holding
+flower",0,"[11, 22, 35]"

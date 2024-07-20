@@ -1,103 +1,103 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_393__modern_kitchen_island.jpg,0,0,0,0,2,1,blank,1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_351__office_cubicle_workspace.jpg,0,1,0,0,2,1,"modern
-kitchen
-island",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_518__fishing_boats_harbor.jpg,0,2,0,0,2,1,"office
-cubicle
-workspace",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_52175__window_bed_tree.jpg,0,3,0,0,2,1,"fishing
-boats
-harbor",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_529__children_brushing_teeth.jpg,0,4,0,0,2,1,"window
-bed
-tree",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_110__illuminated_clock_tower.jpg,0,5,0,0,2,1,"children
-brushing
-teeth",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_22__ornate_clock_tower.jpg,0,6,0,0,2,1,"illuminated
-clock
-tower",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_10004__cats_on_bed.jpg,0,7,0,0,2,1,"ornate
-clock
-tower",1,"[8, 18, 35]"
-blank.jpg,0,8,1,0,2,1,"cats
-on
-bed",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,9,0,0,2,1,blank,1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_953__luxurious_white_kitchen.jpg,0,10,0,0,2,1,"woman
-walking
-telephoning",1,"[8, 18, 35]"
-stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,11,0,0,2,1,"luxurious
-white
-kitchen",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_64709__messy_unmade_bed.jpg,0,12,0,0,2,1,"dad
+stimuli_labeled/coco_shared_422__modern_bathroom_sink.jpg,0,0,0,0,2,1,blank,1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_685__lighthouse_rocks_boat.jpg,0,1,0,0,2,1,"modern
+bathroom
+sink",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_75__train_crossing_bridge.jpg,0,2,0,0,2,1,"lighthouse
+rocks
+boat",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_35339__painted_porcelain_vase.jpg,0,3,0,0,2,1,"train
+crossing
+bridge",1,"[8, 18, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,4,0,0,2,1,"painted
+porcelain
+vase",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_691__flowers_in_vase.jpg,0,5,0,0,2,1,"dad
 dog
 lick
 feet",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_31__laptop_on_couch.jpg,0,13,0,0,2,1,"messy
-unmade
-bed",1,"[8, 18, 35]"
-stimuli_labeled/extra49__smiling_elderly_man.jpg,0,14,0,0,2,1,"laptop
-on
-couch",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_51__yellow_fire_hydrant.jpg,0,15,0,0,2,1,"smiling
-elderly
-man",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_7156__cat_on_desk.jpg,0,16,0,0,2,1,"yellow
-fire
-hydrant",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_730__boy_bench_cat.jpg,0,17,0,0,2,1,"cat
-on
-desk",1,"[8, 18, 35]"
-blank.jpg,0,18,1,0,2,1,"boy
-bench
-cat",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_33805__busy_city_street.jpg,0,19,0,0,2,1,blank,1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_52184__umbrella_stiltwalker_street.jpg,0,20,0,0,2,1,"busy
-city
-street",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_21048__cats_on_bed.jpg,0,21,0,0,2,1,"umbrella
-stiltwalker
-street",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_873__colorful_city_buses.jpg,0,22,0,0,2,1,"cats
-on
-bed",1,"[8, 18, 35]"
-stimuli_labeled/extra29__trumpeter_in_park.jpg,0,23,0,0,2,1,"colorful
-city
-buses",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_572__towel_on_floor.jpg,0,24,0,0,2,1,"trumpeter
+stimuli_labeled/coco_nonshared_67237__hats_on_wall.jpg,0,6,0,0,2,1,"flowers
 in
-park",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_16__man_at_podium.jpg,0,25,0,0,2,1,"towel
+vase",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_38511__unmade_bed_window.jpg,0,7,0,0,2,1,"hats
 on
-floor",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_6148__bed_by_window.jpg,0,26,0,0,2,1,"man
-at
-podium",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_172__decayed_wall_clock.jpg,0,27,0,0,2,1,"bed
-by
+wall",1,"[8, 18, 35]"
+blank.jpg,0,8,1,0,2,1,"unmade
+bed
 window",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_875__dog_on_boat.jpg,0,28,0,0,2,1,"decayed
-wall
+stimuli_labeled/coco_shared_283__ancient_stone_tower.jpg,0,9,0,0,2,1,blank,1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_18435__ornate_antique_clock.jpg,0,10,0,0,2,1,"ancient
+stone
+tower",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_510__yellow_train_station.jpg,0,11,0,0,2,1,"ornate
+antique
 clock",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_408__scruffy_happy_dog.jpg,0,29,0,0,2,1,"dog
+stimuli_labeled/coco_nonshared_19557__dog_hoarding_remotes.jpg,0,12,0,0,2,1,"yellow
+train
+station",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_209__official_government_meeting.jpg,0,13,0,0,2,1,"dog
+hoarding
+remotes",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_19373__window_framing_barn.jpg,0,14,0,0,2,1,"official
+government
+meeting",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_87__wet_dog_bathtub.jpg,0,15,0,0,2,1,"window
+framing
+barn",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_60__cyclist_on_street.jpg,0,16,0,0,2,1,"wet
+dog
+bathtub",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_706__dogs_playing_outdoors.jpg,0,17,0,0,2,1,"cyclist
 on
-boat",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_65113__polkadot_dress_woman.jpg,0,30,0,0,2,1,"scruffy
-happy
+street",1,"[8, 18, 35]"
+blank.jpg,0,18,1,0,2,1,"dogs
+playing
+outdoors",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_165__london_doubledecker_bus.jpg,0,19,0,0,2,1,blank,1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_29021__dog_cat_window.jpg,0,20,0,0,2,1,"london
+doubledecker
+bus",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_110__illuminated_clock_tower.jpg,0,21,0,0,2,1,"dog
+cat
+window",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_580__scissors_marker_gel.jpg,0,22,0,0,2,1,"illuminated
+clock
+tower",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_66602__bicycle_carrying_cheese.jpg,0,23,0,0,2,1,"scissors
+marker
+gel",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_7912__cat_rocking_chair.jpg,0,24,0,0,2,1,"bicycle
+carrying
+cheese",1,"[8, 18, 35]"
+stimuli_labeled/album10__family_smiling.jpg,0,25,0,0,2,1,"cat
+rocking
+chair",1,"[8, 18, 35]"
+stimuli_labeled/extra16__man_cafe_trumpet.jpg,0,26,0,0,2,1,"family
+smiling",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_71324__political_rally_speaker.jpg,0,27,0,0,2,1,"man
+cafe
+trumpet",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_45693__sleeping_child_cat.jpg,0,28,0,0,2,1,"political
+rally
+speaker",1,"[8, 18, 35]"
+stimuli_labeled/extra46__trumpeter_playing_outdoors.jpg,0,29,0,0,2,1,"sleeping
+child
+cat",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_487__elegant_wedding_cake.jpg,0,30,0,0,2,1,"trumpeter
+playing
+outdoors",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_428__small_bathroom_interior.jpg,0,31,0,0,2,1,"elegant
+wedding
+cake",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_417__woman_on_bench.jpg,0,32,0,0,2,1,"small
+bathroom
+interior",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_41314__sleeping_cats_dog.jpg,0,33,0,0,2,1,"woman
+on
+bench",1,"[8, 18, 35]"
+stimuli_labeled/extra42__empire_state_building.jpg,0,34,0,0,2,1,"sleeping
+cats
 dog",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_319__white_tulip_bouquet.jpg,0,31,0,0,2,1,"polkadot
-dress
-woman",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_940__floral_bedding_set.jpg,0,32,0,0,2,1,"white
-tulip
-bouquet",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_52337__bookshelf_armchair_backpack.jpg,0,33,0,0,2,1,"floral
-bedding
-set",1,"[8, 18, 35]"
-stimuli_labeled/album10__family_smiling.jpg,0,34,0,0,2,1,"bookshelf
-armchair
-backpack",1,"[8, 18, 35]"
-blank.jpg,0,35,1,1,2,1,"family
-smiling",0,"[8, 18, 35]"
+blank.jpg,0,35,1,1,2,1,"empire
+state
+building",0,"[8, 18, 35]"

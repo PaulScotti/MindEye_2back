@@ -1,105 +1,102 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_325__wine_tasting_class.jpg,0,0,0,0,1,1,blank,1,"[9, 22, 35]"
-stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,1,0,0,1,1,"wine
-tasting
-class",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_66302__political_protest_sign.jpg,0,2,0,0,1,1,"dad
-dog
-lick
-feet",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_888__compact_kitchen_layout.jpg,0,3,0,0,1,1,"political
-protest
+stimuli_labeled/coco_shared_210__red_stop_sign.jpg,0,0,0,0,1,1,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_21602__people_on_terrace.jpg,0,1,0,0,1,1,"red
+stop
 sign",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_991__cyclists_crossing_intersection.jpg,0,4,0,0,1,1,"compact
-kitchen
-layout",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_26424__pink_camouflage_statue.jpg,0,5,0,0,1,1,"cyclists
-crossing
-intersection",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_434__students_studying_classroom.jpg,0,6,0,0,1,1,"pink
-camouflage
-statue",1,"[9, 22, 35]"
-stimuli_labeled/album15__family_gathering_snapshot.jpg,0,7,0,0,1,1,"students
-studying
-classroom",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_71091__sheep_by_fence.jpg,0,8,0,0,1,1,"family
-gathering
-snapshot",1,"[9, 22, 35]"
-blank.jpg,0,9,1,0,1,1,"sheep
-by
-fence",1,"[9, 22, 35]"
-stimuli_labeled/target0__dad_dog_lick_feet.jpg,1,10,0,0,1,1,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_741__cyclists_flowers_park.jpg,0,11,0,0,1,1,"dad
-dog
-lick
-feet",1,"[9, 22, 35]"
-stimuli_labeled/extra38__elderly_fruit_vendor.jpg,0,12,0,0,1,1,"cyclists
-flowers
-park",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_292__laptop_cat_bookshelf.jpg,0,13,0,0,1,1,"elderly
-fruit
-vendor",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_661__child_eating_bagel.jpg,0,14,0,0,1,1,"laptop
-cat
-bookshelf",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_286__train_station_platform.jpg,0,15,0,0,1,1,"child
-eating
-bagel",1,"[9, 22, 35]"
-stimuli_labeled/extra40__man_in_white.jpg,0,16,0,0,1,1,"train
-station
-platform",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,0,17,0,0,1,1,"man
+stimuli_labeled/coco_shared_540__white_clock_tower.jpg,0,2,0,0,1,1,"people
+on
+terrace",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_376__flowers_in_vase.jpg,0,3,0,0,1,1,"white
+clock
+tower",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_37754__person_facing_street.jpg,0,4,0,0,1,1,"flowers
 in
-white",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_76__child_holding_flower.jpg,0,18,0,0,1,1,"vintage
-red
-motorcycle",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_15445__unmade_bed_plants.jpg,0,19,0,0,1,1,"child
-holding
-flower",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_39060__bicycle_hydrant_shadow.jpg,0,20,0,0,1,1,"unmade
-bed
-plants",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_648__cozy_living_room.jpg,0,21,0,0,1,1,"bicycle
-hydrant
-shadow",1,"[9, 22, 35]"
-blank.jpg,0,22,1,0,1,1,"cozy
-living
-room",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_200__jeep_kites_beach.jpg,0,23,0,0,1,1,blank,1,"[9, 22, 35]"
-stimuli_labeled/extra21__brindle_pit_bull.jpg,0,24,0,0,1,1,"jeep
-kites
-beach",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_309__vintage_bathroom_tub.jpg,0,25,0,0,1,1,"brindle
-pit
-bull",1,"[9, 22, 35]"
-stimuli_labeled/extra38__elderly_fruit_vendor.jpg,1,26,0,0,1,1,"vintage
-bathroom
-tub",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_856__boardwalk_benches_oceanfront.jpg,0,27,0,0,1,1,"elderly
-fruit
-vendor",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_45220__nightstand_with_electronics.jpg,0,28,0,0,1,1,"boardwalk
-benches
-oceanfront",1,"[9, 22, 35]"
-stimuli_labeled/album12__mom_dad_wedding.jpg,0,29,0,0,1,1,"nightstand
-with
-electronics",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,0,30,0,0,1,1,"mom
-dad
-wedding",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_28190__hospital_recovery_room.jpg,0,31,0,0,1,1,"brick
-terraced
-houses",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_269__roses_vases_green.jpg,0,32,0,0,1,1,"hospital
+vase",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_915__childrens_outdoor_meal.jpg,0,5,0,0,1,1,"person
+facing
+street",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_480__garden_park_bench.jpg,0,6,0,0,1,1,"childrens
+outdoor
+meal",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,7,0,0,1,1,"garden
+park
+bench",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_847__man_in_suit.jpg,0,8,0,0,1,1,"urban
+stadium
+view",1,"[9, 22, 35]"
+blank.jpg,0,9,1,0,1,1,"man
+in
+suit",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_765__teddy_bear_hug.jpg,0,10,0,0,1,1,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_416__seniors_playing_videogames.jpg,0,11,0,0,1,1,"teddy
+bear
+hug",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_2967__man_reading_newspaper.jpg,0,12,0,0,1,1,"seniors
+playing
+videogames",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_160__messy_porch_furniture.jpg,0,13,0,0,1,1,"man
+reading
+newspaper",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_28190__hospital_recovery_room.jpg,0,14,0,0,1,1,"messy
+porch
+furniture",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_747__white_city_bus.jpg,0,15,0,0,1,1,"hospital
 recovery
 room",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_220__karaoke_party_scene.jpg,0,33,0,0,1,1,"roses
-vases
-green",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_25606__hospital_room_bed.jpg,0,34,0,0,1,1,"karaoke
+stimuli_labeled/coco_shared_662__train_bridge_river.jpg,0,16,0,0,1,1,"white
+city
+bus",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,17,0,0,1,1,"train
+bridge
+river",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,18,0,0,1,1,"red
+telephone
+booth",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_99__open_stocked_refrigerator.jpg,0,19,0,0,1,1,"woman
+brushing
+teeth",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_84__boats_forest_harbor.jpg,0,20,0,0,1,1,"open
+stocked
+refrigerator",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_39764__man_jumping_midair.jpg,0,21,0,0,1,1,"boats
+forest
+harbor",1,"[9, 22, 35]"
+blank.jpg,0,22,1,0,1,1,"man
+jumping
+midair",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,23,0,0,1,1,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_324__black_cat_resting.jpg,0,24,0,0,1,1,"woman
+walking
+telephoning",1,"[9, 22, 35]"
+stimuli_labeled/album9__colorful_flower_display.jpg,0,25,0,0,1,1,"black
+cat
+resting",1,"[9, 22, 35]"
+stimuli_labeled/album2__children_photo.jpg,0,26,0,0,1,1,"colorful
+flower
+display",1,"[9, 22, 35]"
+stimuli_labeled/extra20__trumpeter_playing_park.jpg,0,27,0,0,1,1,"children
+photo",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_30954__protester_airstream_sign.jpg,0,28,0,0,1,1,"trumpeter
+playing
+park",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_233__man_feeding_meter.jpg,0,29,0,0,1,1,"protester
+airstream
+sign",1,"[9, 22, 35]"
+stimuli_labeled/extra14__orange_monolith_park.jpg,0,30,0,0,1,1,"man
+feeding
+meter",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_762__dinner_party_table.jpg,0,31,0,0,1,1,"orange
+monolith
+park",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_293__pizza_outdoor_eating.jpg,0,32,0,0,1,1,"dinner
 party
-scene",1,"[9, 22, 35]"
-blank.jpg,0,35,1,1,1,1,"hospital
-room
-bed",0,"[9, 22, 35]"
+table",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_883__bathroom_vanity_mirror.jpg,0,33,0,0,1,1,"pizza
+outdoor
+eating",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_556__sleepy_cat_face.jpg,0,34,0,0,1,1,"bathroom
+vanity
+mirror",1,"[9, 22, 35]"
+blank.jpg,0,35,1,1,1,1,"sleepy
+cat
+face",0,"[9, 22, 35]"

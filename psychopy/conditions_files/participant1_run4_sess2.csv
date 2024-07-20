@@ -1,104 +1,105 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/extra10__smiling_violinist_performing.jpg,0,0,0,0,4,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_169__historic_clock_tower.jpg,0,1,0,0,4,2,"smiling
-violinist
-performing",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_68__bus_stop_advertisement.jpg,0,2,0,0,4,2,"historic
-clock
-tower",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_52__ferry_stop_sign.jpg,0,3,0,0,4,2,"bus
-stop
-advertisement",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_545__skateboarder_on_street.jpg,0,4,0,0,4,2,"ferry
-stop
-sign",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_828__vintage_steam_locomotive.jpg,0,5,0,0,4,2,"skateboarder
-on
-street",1,"[9, 20, 35]"
-stimuli_labeled/album9__colorful_flower_display.jpg,0,6,0,0,4,2,"vintage
-steam
-locomotive",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_8621__dogs_sharing_food.jpg,0,7,0,0,4,2,"colorful
-flower
-display",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_49685__urban_traffic_cylinder.jpg,0,8,0,0,4,2,"dogs
-sharing
-food",1,"[9, 20, 35]"
-blank.jpg,0,9,1,0,4,2,"urban
-traffic
-cylinder",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_4901__ancient_greek_amphora.jpg,0,10,0,0,4,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_755__orange_dutch_train.jpg,0,11,0,0,4,2,"ancient
-greek
-amphora",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_838__man_eating_sandwich.jpg,0,12,0,0,4,2,"orange
-dutch
-train",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_767__truck_towing_trailer.jpg,0,13,0,0,4,2,"man
-eating
-sandwich",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_782__computer_setup_ergonomic.jpg,0,14,0,0,4,2,"truck
-towing
-trailer",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_513__maroon_kitchen_cabinets.jpg,0,15,0,0,4,2,"computer
-setup
-ergonomic",1,"[9, 20, 35]"
-stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,16,0,0,4,2,"maroon
-kitchen
-cabinets",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_303__television_living_room.jpg,0,17,0,0,4,2,"orange
+stimuli_labeled/coco_nonshared_53593__fluffy_chihuahua_reading.jpg,0,0,0,0,4,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,1,0,0,4,2,"fluffy
+chihuahua
+reading",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_8__cat_on_car.jpg,0,2,0,0,4,2,"orange
 crate
 fruit
 shop",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_67354__dog_on_chair.jpg,0,18,0,0,4,2,"television
+stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,3,0,0,4,2,"cat
+on
+car",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_278__cat_in_suitcase.jpg,0,4,0,0,4,2,"yawning
+kitchen
+person",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_26164__child_cat_sleeping.jpg,0,5,0,0,4,2,"cat
+in
+suitcase",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_214__modern_dining_table.jpg,0,6,0,0,4,2,"child
+cat
+sleeping",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_22__ornate_clock_tower.jpg,0,7,0,0,4,2,"modern
+dining
+table",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_13631__sleeping_dogs_cuddling.jpg,0,8,0,0,4,2,"ornate
+clock
+tower",1,"[9, 20, 35]"
+blank.jpg,0,9,1,0,4,2,"sleeping
+dogs
+cuddling",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_15__cluttered_living_room.jpg,0,10,0,0,4,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_638__tricolored_corgi_dog.jpg,0,11,0,0,4,2,"cluttered
 living
 room",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_14116__woman_cat_couch.jpg,0,19,0,0,4,2,"dog
-on
-chair",1,"[9, 20, 35]"
-blank.jpg,0,20,1,0,4,2,"woman
-cat
+stimuli_labeled/coco_shared_322__white_microwave_oven.jpg,0,12,0,0,4,2,"tricolored
+corgi
+dog",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_360__yellow_fire_hydrant.jpg,0,13,0,0,4,2,"white
+microwave
+oven",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_6828__cats_hair_bed.jpg,0,14,0,0,4,2,"yellow
+fire
+hydrant",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_27116__protest_signs_displayed.jpg,0,15,0,0,4,2,"cats
+hair
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_257__subway_smartphone_users.jpg,0,16,0,0,4,2,"protest
+signs
+displayed",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_708__smiling_toddler_couch.jpg,0,17,0,0,4,2,"subway
+smartphone
+users",1,"[9, 20, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,18,0,0,4,2,"smiling
+toddler
 couch",1,"[9, 20, 35]"
-stimuli_labeled/extra35__wooden_crate_foreground.jpg,0,21,0,0,4,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_793__big_ben_london.jpg,0,22,0,0,4,2,"wooden
-crate
-foreground",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_766__cyclist_passing_church.jpg,0,23,0,0,4,2,"big
-ben
-london",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_974__laptop_desk_lamp.jpg,0,24,0,0,4,2,"cyclist
-passing
-church",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_685__lighthouse_rocks_boat.jpg,0,25,0,0,4,2,"laptop
-desk
-lamp",1,"[9, 20, 35]"
-stimuli_labeled/album16__father_daughter_embrace.jpg,0,26,0,0,4,2,"lighthouse
-rocks
-boat",1,"[9, 20, 35]"
-stimuli_labeled/album3__dad_at_store.jpg,0,27,0,0,4,2,"father
-daughter
-embrace",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_729__umbrella_underpass_solitude.jpg,0,28,0,0,4,2,"dad
-at
-store",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_23746__red_patio_umbrella.jpg,0,29,0,0,4,2,"umbrella
-underpass
-solitude",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_736__yellow_train_locomotive.jpg,0,30,0,0,4,2,"red
-patio
-umbrella",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_512__red_doubledecker_bus.jpg,0,31,0,0,4,2,"yellow
-train
+stimuli_labeled/coco_shared_725__colorful_passenger_train.jpg,0,19,0,0,4,2,"madison
+sq
+park
+trumpet",1,"[9, 20, 35]"
+blank.jpg,0,20,1,0,4,2,"colorful
+passenger
+train",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_613__solar_parking_meter.jpg,0,21,0,0,4,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/extra10__smiling_violinist_performing.jpg,0,22,0,0,4,2,"solar
+parking
+meter",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_109__vintage_steam_locomotive.jpg,0,23,0,0,4,2,"smiling
+violinist
+performing",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_7031__unmade_messy_bed.jpg,0,24,0,0,4,2,"vintage
+steam
 locomotive",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,0,32,0,0,4,2,"red
-doubledecker
-bus",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_945__red_london_bus.jpg,0,33,0,0,4,2,"modern
-kitchen
-cabinets",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,1,34,0,0,4,2,"red
-london
-bus",1,"[9, 20, 35]"
-blank.jpg,0,35,1,1,4,2,"modern
-kitchen
-cabinets",0,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_33108__folded_wooden_chairs.jpg,0,25,0,0,4,2,"unmade
+messy
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_47682__busy_chinatown_street.jpg,0,26,0,0,4,2,"folded
+wooden
+chairs",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_69134__man_cats_couch.jpg,0,27,0,0,4,2,"busy
+chinatown
+street",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_21895__person_levitating_bed.jpg,0,28,0,0,4,2,"man
+cats
+couch",1,"[9, 20, 35]"
+stimuli_labeled/extra34__statue_in_park.jpg,0,29,0,0,4,2,"person
+levitating
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_347__park_bench_pathway.jpg,0,30,0,0,4,2,"statue
+in
+park",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_826__redcoated_porters_boarding.jpg,0,31,0,0,4,2,"park
+bench
+pathway",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_692__yellow_commuter_trains.jpg,0,32,0,0,4,2,"redcoated
+porters
+boarding",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_17523__person_and_cat.jpg,0,33,0,0,4,2,"yellow
+commuter
+trains",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_729__umbrella_underpass_solitude.jpg,0,34,0,0,4,2,"person
+and
+cat",1,"[9, 20, 35]"
+blank.jpg,0,35,1,1,4,2,"umbrella
+underpass
+solitude",0,"[9, 20, 35]"

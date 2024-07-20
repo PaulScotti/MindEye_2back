@@ -1,103 +1,105 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_396__messy_coffee_table.jpg,0,0,0,0,0,1,blank,1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_15036__wooden_headboard_detail.jpg,0,1,0,0,0,1,"messy
-coffee
-table",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_756__woman_using_phone.jpg,0,2,0,0,0,1,"wooden
-headboard
-detail",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_251__red_cups_stacked.jpg,0,3,0,0,0,1,"woman
-using
-phone",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_51__yellow_fire_hydrant.jpg,0,4,0,0,0,1,"red
-cups
-stacked",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_45324__antique_bed_pillows.jpg,0,5,0,0,0,1,"yellow
-fire
-hydrant",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_654__buddhist_temple_entrance.jpg,0,6,0,0,0,1,"antique
-bed
-pillows",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_321__dog_enjoying_ride.jpg,0,7,0,0,0,1,"buddhist
-temple
-entrance",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_47938__orange_cat_sleeping.jpg,0,8,0,0,0,1,"dog
-enjoying
-ride",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_110__illuminated_clock_tower.jpg,0,9,0,0,0,1,"orange
-cat
-sleeping",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_71324__political_rally_speaker.jpg,0,10,0,0,0,1,"illuminated
-clock
-tower",1,"[11, 21, 35]"
-blank.jpg,0,11,1,0,0,1,"political
-rally
-speaker",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_590__kite_between_trees.jpg,0,12,0,0,0,1,blank,1,"[11, 21, 35]"
-stimuli_labeled/extra26__orange_container_park.jpg,0,13,0,0,0,1,"kite
-between
-trees",1,"[11, 21, 35]"
-stimuli_labeled/album14__father_daughter_portrait.jpg,0,14,0,0,0,1,"orange
-container
-park",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_157__computer_setup_soccer.jpg,0,15,0,0,0,1,"father
-daughter
-portrait",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_307__highway_road_sign.jpg,0,16,0,0,0,1,"computer
-setup
-soccer",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_45354__sunlit_window_sill.jpg,0,17,0,0,0,1,"highway
-road
-sign",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_22722__dog_under_desk.jpg,0,18,0,0,0,1,"sunlit
-window
-sill",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_9071__dog_under_desk.jpg,0,19,0,0,0,1,"dog
-under
-desk",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_65605__dog_computer_companion.jpg,0,20,0,0,0,1,"dog
-under
-desk",1,"[11, 21, 35]"
-blank.jpg,0,21,1,0,0,1,"dog
-computer
-companion",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_939__traffic_signs_balconies.jpg,0,22,0,0,0,1,blank,1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_831__calm_winter_river.jpg,0,23,0,0,0,1,"traffic
-signs
-balconies",1,"[11, 21, 35]"
-stimuli_labeled/album12__mom_dad_wedding.jpg,0,24,0,0,0,1,"calm
-winter
-river",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_437__gps_devices_flowers.jpg,0,25,0,0,0,1,"mom
-dad
-wedding",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_10156__abandoned_hospital_room.jpg,0,26,0,0,0,1,"gps
-devices
-flowers",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_31378__cat_nuzzles_dog.jpg,0,27,0,0,0,1,"abandoned
+stimuli_labeled/coco_nonshared_25606__hospital_room_bed.jpg,0,0,0,0,0,1,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_10156__abandoned_hospital_room.jpg,0,1,0,0,0,1,"hospital
+room
+bed",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_1855__cats_on_bedding.jpg,0,2,0,0,0,1,"abandoned
 hospital
 room",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_540__white_clock_tower.jpg,0,28,0,0,0,1,"cat
-nuzzles
-dog",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_871__ornate_astronomical_clock.jpg,0,29,0,0,0,1,"white
+stimuli_labeled/coco_nonshared_54479__white_lacy_pillow.jpg,0,3,0,0,0,1,"cats
+on
+bedding",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_824__crowded_beach_umbrellas.jpg,0,4,0,0,0,1,"white
+lacy
+pillow",1,"[11, 21, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,5,0,0,0,1,"crowded
+beach
+umbrellas",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_37234__cats_on_bed.jpg,0,6,0,0,0,1,"dad
+dog
+lick
+feet",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_485__vintage_yamaha_motorcycles.jpg,0,7,0,0,0,1,"cats
+on
+bed",1,"[11, 21, 35]"
+stimuli_labeled/album1__dad_smiling.jpg,0,8,0,0,0,1,"vintage
+yamaha
+motorcycles",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_854__rusty_river_boat.jpg,0,9,0,0,0,1,"dad
+smiling",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_670__black_cruiser_motorcycle.jpg,0,10,0,0,0,1,"rusty
+river
+boat",1,"[11, 21, 35]"
+blank.jpg,0,11,1,0,0,1,"black
+cruiser
+motorcycle",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_519__book_on_blanket.jpg,0,12,0,0,0,1,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_38249__cat_face_closeup.jpg,0,13,0,0,0,1,"book
+on
+blanket",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_890__dog_in_window.jpg,0,14,0,0,0,1,"cat
+face
+closeup",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_732__child_flying_kite.jpg,0,15,0,0,0,1,"dog
+in
+window",1,"[11, 21, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,16,0,0,0,1,"child
+flying
+kite",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_9209__pets_sleeping_together.jpg,0,17,0,0,0,1,"madison
+sq
+park
+trumpet",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_552__birds_in_flight.jpg,0,18,0,0,0,1,"pets
+sleeping
+together",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_920__laptop_computer_workspace.jpg,0,19,0,0,0,1,"birds
+in
+flight",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_2909__rolling_pins_globes.jpg,0,20,0,0,0,1,"laptop
+computer
+workspace",1,"[11, 21, 35]"
+blank.jpg,0,21,1,0,0,1,"rolling
+pins
+globes",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_107__boats_on_dock.jpg,0,22,0,0,0,1,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_21546__two_blackandwhite_cats.jpg,0,23,0,0,0,1,"boats
+on
+dock",1,"[11, 21, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,24,0,0,0,1,"two
+blackandwhite
+cats",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_309__vintage_bathroom_tub.jpg,0,25,0,0,0,1,"orange
+crate
+fruit
+shop",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_78__kitchen_window_sailboat.jpg,0,26,0,0,0,1,"vintage
+bathroom
+tub",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_31898__dog_cat_cuddling.jpg,0,27,0,0,0,1,"kitchen
+window
+sailboat",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_9071__dog_under_desk.jpg,0,28,0,0,0,1,"dog
+cat
+cuddling",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_791__historic_clock_tower.jpg,0,29,0,0,0,1,"dog
+under
+desk",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_14116__woman_cat_couch.jpg,0,30,0,0,0,1,"historic
 clock
 tower",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_257__subway_smartphone_users.jpg,0,30,0,0,0,1,"ornate
-astronomical
-clock",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_648__cozy_living_room.jpg,0,31,0,0,0,1,"subway
-smartphone
-users",1,"[11, 21, 35]"
-stimuli_labeled/extra5__sun_hat_turtle.jpg,0,32,0,0,0,1,"cozy
-living
-room",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_922__seagull_post_lighthouse.jpg,0,33,0,0,0,1,"sun
-hat
-turtle",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_39__boats_on_lake.jpg,0,34,0,0,0,1,"seagull
-post
-lighthouse",1,"[11, 21, 35]"
-blank.jpg,0,35,1,1,0,1,"boats
-on
-lake",0,"[11, 21, 35]"
+stimuli_labeled/extra7__sealing_cardboard_box.jpg,0,31,0,0,0,1,"woman
+cat
+couch",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_22722__dog_under_desk.jpg,0,32,0,0,0,1,"sealing
+cardboard
+box",1,"[11, 21, 35]"
+stimuli_labeled/extra22__man_dog_stairs.jpg,0,33,0,0,0,1,"dog
+under
+desk",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_767__truck_towing_trailer.jpg,0,34,0,0,0,1,"man
+dog
+stairs",1,"[11, 21, 35]"
+blank.jpg,0,35,1,1,0,1,"truck
+towing
+trailer",0,"[11, 21, 35]"
