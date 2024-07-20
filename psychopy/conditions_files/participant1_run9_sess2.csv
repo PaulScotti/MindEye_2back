@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_417__woman_on_bench.jpg,0,0,0,0,9,2,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_896__yellow_floral_arrangement.jpg,0,1,0,0,9,2,"woman
+on
+bench",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_20320__dog_cat_cuddle.jpg,0,2,0,0,9,2,"yellow
+floral
+arrangement",1,"[11, 22, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,3,0,0,9,2,"dog
+cat
+cuddle",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_841__red_umbrella_overlook.jpg,0,4,0,0,9,2,"madison
+sq
+park
+trumpet",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_44729__ornate_christmas_room.jpg,0,5,0,0,9,2,"red
+umbrella
+overlook",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_928__ornate_antique_room.jpg,0,6,0,0,9,2,"ornate
+christmas
+room",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_31765__urban_cyclist_crossing.jpg,0,7,0,0,9,2,"ornate
+antique
+room",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_62829__hissing_black_cat.jpg,0,8,0,0,9,2,"urban
+cyclist
+crossing",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_33673__guitar_on_bed.jpg,0,9,0,0,9,2,"hissing
+black
+cat",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_211__orange_bnsf_locomotive.jpg,0,10,0,0,9,2,"guitar
+on
+bed",1,"[11, 22, 35]"
+blank.jpg,0,11,1,0,9,2,"orange
+bnsf
+locomotive",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_7912__cat_rocking_chair.jpg,0,12,0,0,9,2,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,13,0,0,9,2,"cat
+rocking
+chair",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_569__outdoor_bar_umbrella.jpg,0,14,0,0,9,2,"red
+telephone
+booth",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_806__umbrellas_rain_boots.jpg,0,15,0,0,9,2,"outdoor
+bar
+umbrella",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_544__lake_mountain_boat.jpg,0,16,0,0,9,2,"umbrellas
+rain
+boots",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_54136__cat_and_dog.jpg,0,17,0,0,9,2,"lake
+mountain
+boat",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_449__ornate_clock_tower.jpg,0,18,0,0,9,2,"cat
+and
+dog",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_225__red_umbrella_foreground.jpg,0,19,0,0,9,2,"ornate
+clock
+tower",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_33360__broadway_promotional_event.jpg,0,20,0,0,9,2,"red
+umbrella
+foreground",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_274__dog_in_car.jpg,0,21,0,0,9,2,"broadway
+promotional
+event",1,"[11, 22, 35]"
+blank.jpg,0,22,1,0,9,2,"dog
+in
+car",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_11343__chihuahua_laptop_takeout.jpg,0,23,0,0,9,2,blank,1,"[11, 22, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,1,24,0,0,9,2,"chihuahua
+laptop
+takeout",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_334__boat_in_algae.jpg,0,25,0,0,9,2,"madison
+sq
+park
+trumpet",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_553__fluffy_pomeranian_dog.jpg,0,26,0,0,9,2,"boat
+in
+algae",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_57739__urban_family_scene.jpg,0,27,0,0,9,2,"fluffy
+pomeranian
+dog",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_32793__vibrant_outdoor_cafe.jpg,0,28,0,0,9,2,"urban
+family
+scene",1,"[11, 22, 35]"
+stimuli_labeled/album1__dad_smiling.jpg,0,29,0,0,9,2,"vibrant
+outdoor
+cafe",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_726__clock_on_pattern.jpg,0,30,0,0,9,2,"dad
+smiling",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_606__man_on_phone.jpg,0,31,0,0,9,2,"clock
+on
+pattern",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_386__modern_white_bathroom.jpg,0,32,0,0,9,2,"man
+on
+phone",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_987__iconic_london_bus.jpg,0,33,0,0,9,2,"modern
+white
+bathroom",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_58728__guy_fawkes_mask.jpg,0,34,0,0,9,2,"iconic
+london
+bus",1,"[11, 22, 35]"
+blank.jpg,0,35,1,1,9,2,"guy
+fawkes
+mask",0,"[11, 22, 35]"

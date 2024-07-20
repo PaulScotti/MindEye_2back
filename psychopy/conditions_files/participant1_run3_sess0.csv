@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_473__cat_peeking_door.jpg,0,0,0,0,3,0,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_41399__bicycles_bench_chairs.jpg,0,1,0,0,3,0,"cat
+peeking
+door",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_874__pink_umbrella_foreground.jpg,0,2,0,0,3,0,"bicycles
+bench
+chairs",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_824__crowded_beach_umbrellas.jpg,0,3,0,0,3,0,"pink
+umbrella
+foreground",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_968__crowded_city_corner.jpg,0,4,0,0,3,0,"crowded
+beach
+umbrellas",1,"[9, 22, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,5,0,0,3,0,"crowded
+city
+corner",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_160__messy_porch_furniture.jpg,0,6,0,0,3,0,"madison
+sq
+park
+trumpet",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_547__bedroom_bathroom_television.jpg,0,7,0,0,3,0,"messy
+porch
+furniture",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_544__lake_mountain_boat.jpg,0,8,0,0,3,0,"bedroom
+bathroom
+television",1,"[9, 22, 35]"
+blank.jpg,0,9,1,0,3,0,"lake
+mountain
+boat",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_3__windsurfer_kayaks_lake.jpg,0,10,0,0,3,0,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_963__high_heels_subway.jpg,0,11,0,0,3,0,"windsurfer
+kayaks
+lake",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_70361__dog_with_remote.jpg,0,12,0,0,3,0,"high
+heels
+subway",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_867__church_clock_towers.jpg,0,13,0,0,3,0,"dog
+with
+remote",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_999__modern_urban_sunroom.jpg,0,14,0,0,3,0,"church
+clock
+towers",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_43177__kittens_on_bathmat.jpg,0,15,0,0,3,0,"modern
+urban
+sunroom",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_36651__person_holding_flowers.jpg,0,16,0,0,3,0,"kittens
+on
+bathmat",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_59217__portraits_on_bed.jpg,0,17,0,0,3,0,"person
+holding
+flowers",1,"[9, 22, 35]"
+stimuli_labeled/extra9__mustache_necklace_tanktop.jpg,0,18,0,0,3,0,"portraits
+on
+bed",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_6266__cyclist_in_stripes.jpg,0,19,0,0,3,0,"mustache
+necklace
+tanktop",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_87__wet_dog_bathtub.jpg,0,20,0,0,3,0,"cyclist
+in
+stripes",1,"[9, 22, 35]"
+stimuli_labeled/extra39__black_poodle_sitting.jpg,0,21,0,0,3,0,"wet
+dog
+bathtub",1,"[9, 22, 35]"
+blank.jpg,0,22,1,0,3,0,"black
+poodle
+sitting",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_657__small_beige_bathroom.jpg,0,23,0,0,3,0,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_485__vintage_yamaha_motorcycles.jpg,0,24,0,0,3,0,"small
+beige
+bathroom",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_875__dog_on_boat.jpg,0,25,0,0,3,0,"vintage
+yamaha
+motorcycles",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_112__modern_kitchen_interior.jpg,0,26,0,0,3,0,"dog
+on
+boat",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_974__laptop_desk_lamp.jpg,0,27,0,0,3,0,"modern
+kitchen
+interior",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_20737__vintage_scooter_storefront.jpg,0,28,0,0,3,0,"laptop
+desk
+lamp",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_34013__dog_nose_computer.jpg,0,29,0,0,3,0,"vintage
+scooter
+storefront",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,30,0,0,3,0,"dog
+nose
+computer",1,"[9, 22, 35]"
+stimuli_labeled/extra46__trumpeter_playing_outdoors.jpg,0,31,0,0,3,0,"woman
+brushing
+teeth",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_974__laptop_desk_lamp.jpg,1,32,0,0,3,0,"trumpeter
+playing
+outdoors",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_40814__cat_and_dog.jpg,0,33,0,0,3,0,"laptop
+desk
+lamp",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_11132__unmade_messy_bed.jpg,0,34,0,0,3,0,"cat
+and
+dog",1,"[9, 22, 35]"
+blank.jpg,0,35,1,1,3,0,"unmade
+messy
+bed",0,"[9, 22, 35]"

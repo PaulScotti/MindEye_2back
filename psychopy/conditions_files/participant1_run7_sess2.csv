@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_396__messy_coffee_table.jpg,0,0,0,0,7,2,blank,1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_68090__shaggy_office_dog.jpg,0,1,0,0,7,2,"messy
+coffee
+table",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_32__cat_on_bed.jpg,0,2,0,0,7,2,"shaggy
+office
+dog",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_990__boat_on_beach.jpg,0,3,0,0,7,2,"cat
+on
+bed",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_366__welldressed_asian_man.jpg,0,4,0,0,7,2,"boat
+on
+beach",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_304__colorful_locomotive_approaching.jpg,0,5,0,0,7,2,"welldressed
+asian
+man",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_39488__dilapidated_window_books.jpg,0,6,0,0,7,2,"colorful
+locomotive
+approaching",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_620__urban_bus_scene.jpg,0,7,0,0,7,2,"dilapidated
+window
+books",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_62171__beer_delivery_truck.jpg,0,8,0,0,7,2,"urban
+bus
+scene",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_347__park_bench_pathway.jpg,0,9,0,0,7,2,"beer
+delivery
+truck",1,"[10, 19, 35]"
+blank.jpg,0,10,1,0,7,2,"park
+bench
+pathway",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_805__roadwork_warning_sign.jpg,0,11,0,0,7,2,blank,1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_193__yellow_school_bus.jpg,0,12,0,0,7,2,"roadwork
+warning
+sign",1,"[10, 19, 35]"
+stimuli_labeled/extra13__man_smoking_cigarette.jpg,0,13,0,0,7,2,"yellow
+school
+bus",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,14,0,0,7,2,"man
+smoking
+cigarette",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_31__laptop_on_couch.jpg,0,15,0,0,7,2,"woman
+walking
+telephoning",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_283__ancient_stone_tower.jpg,0,16,0,0,7,2,"laptop
+on
+couch",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_56887__simple_vintage_bedroom.jpg,0,17,0,0,7,2,"ancient
+stone
+tower",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_44856__man_in_courtyard.jpg,0,18,0,0,7,2,"simple
+vintage
+bedroom",1,"[10, 19, 35]"
+blank.jpg,0,19,1,0,7,2,"man
+in
+courtyard",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_43813__ancient_greek_vases.jpg,0,20,0,0,7,2,blank,1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_57__vintage_royal_scotsman.jpg,0,21,0,0,7,2,"ancient
+greek
+vases",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_36__bus_in_street.jpg,0,22,0,0,7,2,"vintage
+royal
+scotsman",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_257__subway_smartphone_users.jpg,0,23,0,0,7,2,"bus
+in
+street",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,24,0,0,7,2,"subway
+smartphone
+users",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_121__students_studying_outdoors.jpg,0,25,0,0,7,2,"boat
+on
+lake",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_404__child_playing_frisbee.jpg,0,26,0,0,7,2,"students
+studying
+outdoors",1,"[10, 19, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,27,0,0,7,2,"child
+playing
+frisbee",1,"[10, 19, 35]"
+stimuli_labeled/extra8__man_with_mustache.jpg,0,28,0,0,7,2,"madison
+sq
+park
+trumpet",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_604__vintage_orange_pickup.jpg,0,29,0,0,7,2,"man
+with
+mustache",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_164__luxurious_bathroom_counter.jpg,0,30,0,0,7,2,"vintage
+orange
+pickup",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_143__outdoor_wine_tasting.jpg,0,31,0,0,7,2,"luxurious
+bathroom
+counter",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_245__large_sailing_ship.jpg,0,32,0,0,7,2,"outdoor
+wine
+tasting",1,"[10, 19, 35]"
+stimuli_labeled/extra23__red_wooden_crate.jpg,0,33,0,0,7,2,"large
+sailing
+ship",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_708__smiling_toddler_couch.jpg,0,34,0,0,7,2,"red
+wooden
+crate",1,"[10, 19, 35]"
+blank.jpg,0,35,1,1,7,2,"smiling
+toddler
+couch",0,"[10, 19, 35]"

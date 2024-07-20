@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_340__students_eating_pizza.jpg,0,0,0,0,1,0,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_696__bathtub_toilet_faucet.jpg,0,1,0,0,1,0,"students
+eating
+pizza",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_842__colorful_openplan_living_room.jpg,0,2,0,0,1,0,"bathtub
+toilet
+faucet",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_51214__childs_bedroom_stuffedanimal.jpg,0,3,0,0,1,0,"colorful
+openplan
+living
+room",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_480__garden_park_bench.jpg,0,4,0,0,1,0,"childs
+bedroom
+stuffedanimal",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_814__chicago_police_boat.jpg,0,5,0,0,1,0,"garden
+park
+bench",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_338__modern_kitchen_appliances.jpg,0,6,0,0,1,0,"chicago
+police
+boat",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_313__wii_bowling_player.jpg,0,7,0,0,1,0,"modern
+kitchen
+appliances",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_872__boat_between_rocks.jpg,0,8,0,0,1,0,"wii
+bowling
+player",1,"[9, 22, 35]"
+blank.jpg,0,9,1,0,1,0,"boat
+between
+rocks",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_720__urban_bike_lane.jpg,0,10,0,0,1,0,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_478__gold_pole_foreground.jpg,0,11,0,0,1,0,"urban
+bike
+lane",1,"[9, 22, 35]"
+stimuli_labeled/extra31__elderly_man_portrait.jpg,0,12,0,0,1,0,"gold
+pole
+foreground",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_298__modern_bathroom_interior.jpg,0,13,0,0,1,0,"elderly
+man
+portrait",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_422__modern_bathroom_sink.jpg,0,14,0,0,1,0,"modern
+bathroom
+interior",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_38249__cat_face_closeup.jpg,0,15,0,0,1,0,"modern
+bathroom
+sink",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_110__illuminated_clock_tower.jpg,0,16,0,0,1,0,"cat
+face
+closeup",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,17,0,0,1,0,"illuminated
+clock
+tower",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_425__three_businessmen_walking.jpg,0,18,0,0,1,0,"woman
+walking
+telephoning",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_26181__cat_and_couch.jpg,0,19,0,0,1,0,"three
+businessmen
+walking",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_513__maroon_kitchen_cabinets.jpg,0,20,0,0,1,0,"cat
+and
+couch",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_682__old_rusty_hydrant.jpg,0,21,0,0,1,0,"maroon
+kitchen
+cabinets",1,"[9, 22, 35]"
+blank.jpg,0,22,1,0,1,0,"old
+rusty
+hydrant",1,"[9, 22, 35]"
+stimuli_labeled/extra11__happy_smiling_dog.jpg,0,23,0,0,1,0,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_435__modern_white_kitchen.jpg,0,24,0,0,1,0,"happy
+smiling
+dog",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_13108__motorcyclist_passing_bicycles.jpg,0,25,0,0,1,0,"modern
+white
+kitchen",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_470__tiled_bathroom_interior.jpg,0,26,0,0,1,0,"motorcyclist
+passing
+bicycles",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_347__park_bench_pathway.jpg,0,27,0,0,1,0,"tiled
+bathroom
+interior",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_508__cluttered_computer_desk.jpg,0,28,0,0,1,0,"park
+bench
+pathway",1,"[9, 22, 35]"
+stimuli_labeled/extra7__sealing_cardboard_box.jpg,0,29,0,0,1,0,"cluttered
+computer
+desk",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_231__vintage_steam_locomotive.jpg,0,30,0,0,1,0,"sealing
+cardboard
+box",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_66952__nighttime_street_scene.jpg,0,31,0,0,1,0,"vintage
+steam
+locomotive",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_613__solar_parking_meter.jpg,0,32,0,0,1,0,"nighttime
+street
+scene",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_109__vintage_steam_locomotive.jpg,0,33,0,0,1,0,"solar
+parking
+meter",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_904__elegant_kitchen_island.jpg,0,34,0,0,1,0,"vintage
+steam
+locomotive",1,"[9, 22, 35]"
+blank.jpg,0,35,1,1,1,0,"elegant
+kitchen
+island",0,"[9, 22, 35]"

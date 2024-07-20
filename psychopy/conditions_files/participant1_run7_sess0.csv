@@ -1,0 +1,105 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/album5__dad_crouching_outdoors.jpg,0,0,0,0,7,0,blank,1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_808__yellow_doubledecker_bus.jpg,0,1,0,0,7,0,"dad
+crouching
+outdoors",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_13816__yellow_taxi_pedestrian.jpg,0,2,0,0,7,0,"yellow
+doubledecker
+bus",1,"[10, 19, 35]"
+stimuli_labeled/extra10__smiling_violinist_performing.jpg,0,3,0,0,7,0,"yellow
+taxi
+pedestrian",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_854__rusty_river_boat.jpg,0,4,0,0,7,0,"smiling
+violinist
+performing",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_15900__person_falling_midair.jpg,0,5,0,0,7,0,"rusty
+river
+boat",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_996__blue_train_passing.jpg,0,6,0,0,7,0,"person
+falling
+midair",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_36334__red_outdoor_umbrellas.jpg,0,7,0,0,7,0,"blue
+train
+passing",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_446__oval_bathroom_sink.jpg,0,8,0,0,7,0,"red
+outdoor
+umbrellas",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_831__calm_winter_river.jpg,0,9,0,0,7,0,"oval
+bathroom
+sink",1,"[10, 19, 35]"
+blank.jpg,0,10,1,0,7,0,"calm
+winter
+river",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_4532__dog_drinking_water.jpg,0,11,0,0,7,0,blank,1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_30254__colorful_cultural_display.jpg,0,12,0,0,7,0,"dog
+drinking
+water",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_157__computer_setup_soccer.jpg,0,13,0,0,7,0,"colorful
+cultural
+display",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_652__black_dog_panting.jpg,0,14,0,0,7,0,"computer
+setup
+soccer",1,"[10, 19, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,15,0,0,7,0,"black
+dog
+panting",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_9814__dogs_cuddling_together.jpg,0,16,0,0,7,0,"orange
+crate
+fruit
+shop",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_68501__person_jumping_bed.jpg,0,17,0,0,7,0,"dogs
+cuddling
+together",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_898__striped_alert_cat.jpg,0,18,0,0,7,0,"person
+jumping
+bed",1,"[10, 19, 35]"
+blank.jpg,0,19,1,0,7,0,"striped
+alert
+cat",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_747__white_city_bus.jpg,0,20,0,0,7,0,blank,1,"[10, 19, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,21,0,0,7,0,"white
+city
+bus",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_41314__sleeping_cats_dog.jpg,0,22,0,0,7,0,"dad
+dog
+lick
+feet",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_726__clock_on_pattern.jpg,0,23,0,0,7,0,"sleeping
+cats
+dog",1,"[10, 19, 35]"
+stimuli_labeled/extra35__wooden_crate_foreground.jpg,0,24,0,0,7,0,"clock
+on
+pattern",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_67237__hats_on_wall.jpg,0,25,0,0,7,0,"wooden
+crate
+foreground",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_38116__pink_costume_character.jpg,0,26,0,0,7,0,"hats
+on
+wall",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_81__blue_diesel_locomotive.jpg,0,27,0,0,7,0,"pink
+costume
+character",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_507__man_holding_pastry.jpg,0,28,0,0,7,0,"blue
+diesel
+locomotive",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_50129__dinner_table_setup.jpg,0,29,0,0,7,0,"man
+holding
+pastry",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_33205__protesters_holding_signs.jpg,0,30,0,0,7,0,"dinner
+table
+setup",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_39__boats_on_lake.jpg,0,31,0,0,7,0,"protesters
+holding
+signs",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_819__laptop_mouse_notebook.jpg,0,32,0,0,7,0,"boats
+on
+lake",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_8313__man_cat_bed.jpg,0,33,0,0,7,0,"laptop
+mouse
+notebook",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_63881__charging_phones_outdoors.jpg,0,34,0,0,7,0,"man
+cat
+bed",1,"[10, 19, 35]"
+blank.jpg,0,35,1,1,7,0,"charging
+phones
+outdoors",0,"[10, 19, 35]"

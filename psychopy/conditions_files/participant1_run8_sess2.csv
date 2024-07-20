@@ -1,0 +1,105 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_732__child_flying_kite.jpg,0,0,0,0,8,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_650__rainbow_umbrella_person.jpg,0,1,0,0,8,2,"child
+flying
+kite",1,"[9, 20, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,2,0,0,8,2,"rainbow
+umbrella
+person",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_896__yellow_floral_arrangement.jpg,0,3,0,0,8,2,"orange
+crate
+fruit
+shop",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_225__red_umbrella_foreground.jpg,0,4,0,0,8,2,"yellow
+floral
+arrangement",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_28659__dogs_faces_closeup.jpg,0,5,0,0,8,2,"red
+umbrella
+foreground",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_14582__two_sleeping_cats.jpg,0,6,0,0,8,2,"dogs
+faces
+closeup",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_741__cyclists_flowers_park.jpg,0,7,0,0,8,2,"two
+sleeping
+cats",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_32762__ancient_minoan_vase.jpg,0,8,0,0,8,2,"cyclists
+flowers
+park",1,"[9, 20, 35]"
+blank.jpg,0,9,1,0,8,2,"ancient
+minoan
+vase",1,"[9, 20, 35]"
+stimuli_labeled/extra45__rustic_orange_crate.jpg,0,10,0,0,8,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_1037__food_cart_radio_city.jpg,0,11,0,0,8,2,"rustic
+orange
+crate",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_51497__zine_library_table.jpg,0,12,0,0,8,2,"food
+cart
+radio
+city",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_898__striped_alert_cat.jpg,0,13,0,0,8,2,"zine
+library
+table",1,"[9, 20, 35]"
+stimuli_labeled/extra20__trumpeter_playing_park.jpg,0,14,0,0,8,2,"striped
+alert
+cat",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_159__dog_frisbee_grass.jpg,0,15,0,0,8,2,"trumpeter
+playing
+park",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_306__cat_shoes_sunlight.jpg,0,16,0,0,8,2,"dog
+frisbee
+grass",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_29390__cats_child_blankets.jpg,0,17,0,0,8,2,"cat
+shoes
+sunlight",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_511__freight_trains_passing.jpg,0,18,0,0,8,2,"cats
+child
+blankets",1,"[9, 20, 35]"
+stimuli_labeled/album2__children_photo.jpg,0,19,0,0,8,2,"freight
+trains
+passing",1,"[9, 20, 35]"
+blank.jpg,0,20,1,0,8,2,"children
+photo",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_44__red_roses_vase.jpg,0,21,0,0,8,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_685__lighthouse_rocks_boat.jpg,0,22,0,0,8,2,"red
+roses
+vase",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_692__yellow_commuter_trains.jpg,0,23,0,0,8,2,"lighthouse
+rocks
+boat",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_42662__dog_cat_slippers.jpg,0,24,0,0,8,2,"yellow
+commuter
+trains",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_861__busy_restaurant_kitchen.jpg,0,25,0,0,8,2,"dog
+cat
+slippers",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_14616__dog_at_desk.jpg,0,26,0,0,8,2,"busy
+restaurant
+kitchen",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_738__home_office_workspace.jpg,0,27,0,0,8,2,"dog
+at
+desk",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_747__white_city_bus.jpg,0,28,0,0,8,2,"home
+office
+workspace",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_159__dog_frisbee_grass.jpg,1,29,0,0,8,2,"white
+city
+bus",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_33304__cats_person_bed.jpg,0,30,0,0,8,2,"dog
+frisbee
+grass",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_264__red_umbrella_person.jpg,0,31,0,0,8,2,"cats
+person
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_30064__cat_bed_companionship.jpg,0,32,0,0,8,2,"red
+umbrella
+person",1,"[9, 20, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,33,0,0,8,2,"cat
+bed
+companionship",1,"[9, 20, 35]"
+stimuli_labeled/extra28__colorful_fruit_stand.jpg,0,34,0,0,8,2,"dad
+dog
+lick
+feet",1,"[9, 20, 35]"
+blank.jpg,0,35,1,1,8,2,"colorful
+fruit
+stand",0,"[9, 20, 35]"

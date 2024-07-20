@@ -1,0 +1,105 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_744__happy_smiling_dog.jpg,0,0,0,0,13,2,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,1,0,0,13,2,"happy
+smiling
+dog",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_819__laptop_mouse_notebook.jpg,0,2,0,0,13,2,"urban
+stadium
+view",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_137__boats_marina_cityscape.jpg,0,3,0,0,13,2,"laptop
+mouse
+notebook",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_230__passenger_train_approaching.jpg,0,4,0,0,13,2,"boats
+marina
+cityscape",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_69063__horse_bicycle_intersection.jpg,0,5,0,0,13,2,"passenger
+train
+approaching",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_638__tricolored_corgi_dog.jpg,0,6,0,0,13,2,"horse
+bicycle
+intersection",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_135__man_speaking_microphone.jpg,0,7,0,0,13,2,"tricolored
+corgi
+dog",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_348__heartshaped_kite_flying.jpg,0,8,0,0,13,2,"man
+speaking
+microphone",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_69314__blended_bicycle_drink.jpg,0,9,0,0,13,2,"heartshaped
+kite
+flying",1,"[10, 20, 35]"
+blank.jpg,0,10,1,0,13,2,"blended
+bicycle
+drink",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_9330__bicycle_wheel_fallen.jpg,0,11,0,0,13,2,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_898__striped_alert_cat.jpg,0,12,0,0,13,2,"bicycle
+wheel
+fallen",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_37234__cats_on_bed.jpg,0,13,0,0,13,2,"striped
+alert
+cat",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_165__london_doubledecker_bus.jpg,0,14,0,0,13,2,"cats
+on
+bed",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_29__girl_on_bed.jpg,0,15,0,0,13,2,"london
+doubledecker
+bus",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_34311__wet_black_cats.jpg,0,16,0,0,13,2,"girl
+on
+bed",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_344__messy_unmade_bed.jpg,0,17,0,0,13,2,"wet
+black
+cats",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_849__man_with_beard.jpg,0,18,0,0,13,2,"messy
+unmade
+bed",1,"[10, 20, 35]"
+stimuli_labeled/extra25__autumn_maple_leaves.jpg,0,19,0,0,13,2,"man
+with
+beard",1,"[10, 20, 35]"
+blank.jpg,0,20,1,0,13,2,"autumn
+maple
+leaves",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_52752__yellow_taxi_fruit.jpg,0,21,0,0,13,2,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_178__metal_scissors_closeup.jpg,0,22,0,0,13,2,"yellow
+taxi
+fruit",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_481__black_cat_car.jpg,0,23,0,0,13,2,"metal
+scissors
+closeup",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_36566__cats_watching_tv.jpg,0,24,0,0,13,2,"black
+cat
+car",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_791__historic_clock_tower.jpg,0,25,0,0,13,2,"cats
+watching
+tv",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_19905__busy_new_york_intersection.jpg,0,26,0,0,13,2,"historic
+clock
+tower",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_548__smartphone_flip_phone_charger.jpg,0,27,0,0,13,2,"busy
+new
+york
+intersection",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_5478__cyclist_in_city.jpg,0,28,0,0,13,2,"smartphone
+flip
+phone
+charger",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_26750__clock_purse_vintage.jpg,0,29,0,0,13,2,"cyclist
+in
+city",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_477__woman_opening_refrigerator.jpg,0,30,0,0,13,2,"clock
+purse
+vintage",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_233__man_feeding_meter.jpg,0,31,0,0,13,2,"woman
+opening
+refrigerator",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_232__toilet_and_sink.jpg,0,32,0,0,13,2,"man
+feeding
+meter",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_55765__patriotic_hydrant_bicycle.jpg,0,33,0,0,13,2,"toilet
+and
+sink",1,"[10, 20, 35]"
+stimuli_labeled/extra48__gothic_church_spire.jpg,0,34,0,0,13,2,"patriotic
+hydrant
+bicycle",1,"[10, 20, 35]"
+blank.jpg,0,35,1,0,13,2,"gothic
+church
+spire",0,"[10, 20, 35]"

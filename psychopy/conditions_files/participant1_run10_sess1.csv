@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_nonshared_29521__ornate_chinese_furniture.jpg,0,0,0,0,10,1,blank,1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_720__urban_bike_lane.jpg,0,1,0,0,10,1,"ornate
+chinese
+furniture",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_401__highway_directional_signs.jpg,0,2,0,0,10,1,"urban
+bike
+lane",1,"[12, 18, 35]"
+stimuli_labeled/coco_nonshared_30262__cat_getting_brushed.jpg,0,3,0,0,10,1,"highway
+directional
+signs",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_36__bus_in_street.jpg,0,4,0,0,10,1,"cat
+getting
+brushed",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_263__train_passing_lighthouse.jpg,0,5,0,0,10,1,"bus
+in
+street",1,"[12, 18, 35]"
+stimuli_labeled/coco_nonshared_33876__antique_grandfather_clock.jpg,0,6,0,0,10,1,"train
+passing
+lighthouse",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_283__ancient_stone_tower.jpg,0,7,0,0,10,1,"antique
+grandfather
+clock",1,"[12, 18, 35]"
+stimuli_labeled/album6__three_young_girls.jpg,0,8,0,0,10,1,"ancient
+stone
+tower",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,0,9,0,0,10,1,"three
+young
+girls",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_182__toilet_plunger_paper.jpg,0,10,0,0,10,1,"brick
+terraced
+houses",1,"[12, 18, 35]"
+stimuli_labeled/coco_nonshared_55656__turquoise_decorative_objects.jpg,0,11,0,0,10,1,"toilet
+plunger
+paper",1,"[12, 18, 35]"
+blank.jpg,0,12,1,0,10,1,"turquoise
+decorative
+objects",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_556__sleepy_cat_face.jpg,0,13,0,0,10,1,blank,1,"[12, 18, 35]"
+stimuli_labeled/coco_nonshared_35317__dog_beside_laptop.jpg,0,14,0,0,10,1,"sleepy
+cat
+face",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_122__hanging_kitchen_pots.jpg,0,15,0,0,10,1,"dog
+beside
+laptop",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_698__computer_classroom_setup.jpg,0,16,0,0,10,1,"hanging
+kitchen
+pots",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_564__marc_locomotive_passing.jpg,0,17,0,0,10,1,"computer
+classroom
+setup",1,"[12, 18, 35]"
+blank.jpg,0,18,1,0,10,1,"marc
+locomotive
+passing",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_199__train_passing_countryside.jpg,0,19,0,0,10,1,blank,1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_400__blue_yellow_locomotive.jpg,0,20,0,0,10,1,"train
+passing
+countryside",1,"[12, 18, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,21,0,0,10,1,"blue
+yellow
+locomotive",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_285__woman_walking_dog.jpg,0,22,0,0,10,1,"orange
+crate
+fruit
+shop",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_276__dining_women_smiling.jpg,0,23,0,0,10,1,"woman
+walking
+dog",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_430__computer_workstation_setup.jpg,0,24,0,0,10,1,"dining
+women
+smiling",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_925__clean_white_bathroom.jpg,0,25,0,0,10,1,"computer
+workstation
+setup",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_450__bookshelf_chairs_tiles.jpg,0,26,0,0,10,1,"clean
+white
+bathroom",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_561__two_men_dining.jpg,0,27,0,0,10,1,"bookshelf
+chairs
+tiles",1,"[12, 18, 35]"
+stimuli_labeled/coco_nonshared_12720__bicycle_sign_hydrant.jpg,0,28,0,0,10,1,"two
+men
+dining",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_143__outdoor_wine_tasting.jpg,0,29,0,0,10,1,"bicycle
+sign
+hydrant",1,"[12, 18, 35]"
+stimuli_labeled/extra41__man_dog_stairs.jpg,0,30,0,0,10,1,"outdoor
+wine
+tasting",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_478__gold_pole_foreground.jpg,0,31,0,0,10,1,"man
+dog
+stairs",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_476__dogs_on_boat.jpg,0,32,0,0,10,1,"gold
+pole
+foreground",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_112__modern_kitchen_interior.jpg,0,33,0,0,10,1,"dogs
+on
+boat",1,"[12, 18, 35]"
+stimuli_labeled/coco_shared_743__tourist_photographing_waterfall.jpg,0,34,0,0,10,1,"modern
+kitchen
+interior",1,"[12, 18, 35]"
+blank.jpg,0,35,1,1,10,1,"tourist
+photographing
+waterfall",0,"[12, 18, 35]"

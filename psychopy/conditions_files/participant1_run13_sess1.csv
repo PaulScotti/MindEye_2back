@@ -1,0 +1,103 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_341__messy_computer_desk.jpg,0,0,0,0,13,1,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_54449__protestors_against_foreclosures.jpg,0,1,0,0,13,1,"messy
+computer
+desk",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_938__potted_plant_clock.jpg,0,2,0,0,13,1,"protestors
+against
+foreclosures",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_852__ornate_street_clock.jpg,0,3,0,0,13,1,"potted
+plant
+clock",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_166__crowded_indian_bus.jpg,0,4,0,0,13,1,"ornate
+street
+clock",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_37395__ancient_greek_pottery.jpg,0,5,0,0,13,1,"crowded
+indian
+bus",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_233__man_feeding_meter.jpg,0,6,0,0,13,1,"ancient
+greek
+pottery",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_422__modern_bathroom_sink.jpg,0,7,0,0,13,1,"man
+feeding
+meter",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_487__elegant_wedding_cake.jpg,0,8,0,0,13,1,"modern
+bathroom
+sink",1,"[10, 20, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,9,0,0,13,1,"elegant
+wedding
+cake",1,"[10, 20, 35]"
+blank.jpg,0,10,1,0,13,1,"orange
+crate
+fruit
+shop",1,"[10, 20, 35]"
+stimuli_labeled/extra15__oranges_in_storefront.jpg,0,11,0,0,13,1,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_922__seagull_post_lighthouse.jpg,0,12,0,0,13,1,"oranges
+in
+storefront",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_798__modern_bathroom_interior.jpg,0,13,0,0,13,1,"seagull
+post
+lighthouse",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,0,14,0,0,13,1,"modern
+bathroom
+interior",1,"[10, 20, 35]"
+stimuli_labeled/album6__three_young_girls.jpg,0,15,0,0,13,1,"brick
+terraced
+houses",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_53943__urban_street_scene.jpg,0,16,0,0,13,1,"three
+young
+girls",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_813__dogs_family_waterfront.jpg,0,17,0,0,13,1,"urban
+street
+scene",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_963__high_heels_subway.jpg,0,18,0,0,13,1,"dogs
+family
+waterfront",1,"[10, 20, 35]"
+stimuli_labeled/album13__fruit_store_storefront.jpg,0,19,0,0,13,1,"high
+heels
+subway",1,"[10, 20, 35]"
+blank.jpg,0,20,1,0,13,1,"fruit
+store
+storefront",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_742__bathroom_cabinet_sink.jpg,0,21,0,0,13,1,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_31076__black_cat_heterochromia.jpg,0,22,0,0,13,1,"bathroom
+cabinet
+sink",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_9915__abandoned_mattress_bedroom.jpg,0,23,0,0,13,1,"black
+cat
+heterochromia",1,"[10, 20, 35]"
+stimuli_labeled/album8__empire_state_building.jpg,0,24,0,0,13,1,"abandoned
+mattress
+bedroom",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_45693__sleeping_child_cat.jpg,0,25,0,0,13,1,"empire
+state
+building",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_145__bike_hydrant_doorway.jpg,0,26,0,0,13,1,"sleeping
+child
+cat",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_51__yellow_fire_hydrant.jpg,0,27,0,0,13,1,"bike
+hydrant
+doorway",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_17737__snowcovered_bicycle.jpg,0,28,0,0,13,1,"yellow
+fire
+hydrant",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_11270__man_jumping_bed.jpg,0,29,0,0,13,1,"snowcovered
+bicycle",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_658__clock_tower_sculpture.jpg,0,30,0,0,13,1,"man
+jumping
+bed",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_604__vintage_orange_pickup.jpg,0,31,0,0,13,1,"clock
+tower
+sculpture",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_34706__dog_under_desk.jpg,0,32,0,0,13,1,"vintage
+orange
+pickup",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_26164__child_cat_sleeping.jpg,0,33,0,0,13,1,"dog
+under
+desk",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_309__vintage_bathroom_tub.jpg,0,34,0,0,13,1,"child
+cat
+sleeping",1,"[10, 20, 35]"
+blank.jpg,0,35,1,0,13,1,"vintage
+bathroom
+tub",0,"[10, 20, 35]"

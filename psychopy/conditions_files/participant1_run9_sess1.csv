@@ -1,0 +1,107 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_405__yellow_traffic_light.jpg,0,0,0,0,9,1,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_181__freight_train_locomotive.jpg,0,1,0,0,9,1,"yellow
+traffic
+light",1,"[11, 22, 35]"
+stimuli_labeled/album4__fresh_produce_market.jpg,0,2,0,0,9,1,"freight
+train
+locomotive",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_48838__sleepy_dog_keyboard.jpg,0,3,0,0,9,1,"fresh
+produce
+market",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_15__cluttered_living_room.jpg,0,4,0,0,9,1,"sleepy
+dog
+keyboard",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_221__lakeside_bell_tower.jpg,0,5,0,0,9,1,"cluttered
+living
+room",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_502__red_doubledecker_buses.jpg,0,6,0,0,9,1,"lakeside
+bell
+tower",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_102__garbage_truck_collecting_branches.jpg,0,7,0,0,9,1,"red
+doubledecker
+buses",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_98__cat_mirror_photographer.jpg,0,8,0,0,9,1,"garbage
+truck
+collecting
+branches",1,"[11, 22, 35]"
+stimuli_labeled/extra47__grocer_holding_vegetables.jpg,0,9,0,0,9,1,"cat
+mirror
+photographer",1,"[11, 22, 35]"
+stimuli_labeled/extra21__brindle_pit_bull.jpg,0,10,0,0,9,1,"grocer
+holding
+vegetables",1,"[11, 22, 35]"
+blank.jpg,0,11,1,0,9,1,"brindle
+pit
+bull",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_11917__cat_on_shoulders.jpg,0,12,0,0,9,1,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_752__bathroom_vanity_toilet.jpg,0,13,0,0,9,1,"cat
+on
+shoulders",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,0,14,0,0,9,1,"bathroom
+vanity
+toilet",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_985__colorful_vintage_motorcycles.jpg,0,15,0,0,9,1,"vintage
+red
+motorcycle",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_143__outdoor_wine_tasting.jpg,0,16,0,0,9,1,"colorful
+vintage
+motorcycles",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_37754__person_facing_street.jpg,0,17,0,0,9,1,"outdoor
+wine
+tasting",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_49429__dog_under_desk.jpg,0,18,0,0,9,1,"person
+facing
+street",1,"[11, 22, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,19,0,0,9,1,"dog
+under
+desk",1,"[11, 22, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,20,0,0,9,1,"orange
+crate
+fruit
+shop",1,"[11, 22, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,21,0,0,9,1,"madison
+sq
+park
+trumpet",1,"[11, 22, 35]"
+blank.jpg,0,22,1,0,9,1,"dad
+dog
+lick
+feet",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_951__coffee_mug_keyboard.jpg,0,23,0,0,9,1,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_650__rainbow_umbrella_person.jpg,0,24,0,0,9,1,"coffee
+mug
+keyboard",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_164__luxurious_bathroom_counter.jpg,0,25,0,0,9,1,"rainbow
+umbrella
+person",1,"[11, 22, 35]"
+stimuli_labeled/album16__father_daughter_embrace.jpg,0,26,0,0,9,1,"luxurious
+bathroom
+counter",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_991__cyclists_crossing_intersection.jpg,0,27,0,0,9,1,"father
+daughter
+embrace",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_622__night_traffic_intersection.jpg,0,28,0,0,9,1,"cyclists
+crossing
+intersection",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_14700__unmade_bed_teddy.jpg,0,29,0,0,9,1,"night
+traffic
+intersection",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_448__sleep_number_remotes.jpg,0,30,0,0,9,1,"unmade
+bed
+teddy",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_55088__fluffy_dog_collage.jpg,0,31,0,0,9,1,"sleep
+number
+remotes",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_772__ornate_eagle_clock.jpg,0,32,0,0,9,1,"fluffy
+dog
+collage",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_633__vintage_portable_electronics.jpg,0,33,0,0,9,1,"ornate
+eagle
+clock",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_813__dogs_family_waterfront.jpg,0,34,0,0,9,1,"vintage
+portable
+electronics",1,"[11, 22, 35]"
+blank.jpg,0,35,1,1,9,1,"dogs
+family
+waterfront",0,"[11, 22, 35]"

@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/album15__family_gathering_snapshot.jpg,0,0,0,0,8,1,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_600__seagulls_on_boat.jpg,0,1,0,0,8,1,"family
+gathering
+snapshot",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_10466__polymer_clay_books.jpg,0,2,0,0,8,1,"seagulls
+on
+boat",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_678__baby_teddy_laughing.jpg,0,3,0,0,8,1,"polymer
+clay
+books",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_58517__street_vendor_cart.jpg,0,4,0,0,8,1,"baby
+teddy
+laughing",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_27129__abandoned_dusty_bed.jpg,0,5,0,0,8,1,"street
+vendor
+cart",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_3594__ancient_stone_basin.jpg,0,6,0,0,8,1,"abandoned
+dusty
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_52261__pickup_truck_donation.jpg,0,7,0,0,8,1,"ancient
+stone
+basin",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_94__ornate_clock_tower.jpg,0,8,0,0,8,1,"pickup
+truck
+donation",1,"[9, 20, 35]"
+blank.jpg,0,9,1,0,8,1,"ornate
+clock
+tower",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,10,0,0,8,1,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_127__modern_kitchen_cabinets.jpg,0,11,0,0,8,1,"urban
+stadium
+view",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_8781__antique_iron_bed.jpg,0,12,0,0,8,1,"modern
+kitchen
+cabinets",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_814__chicago_police_boat.jpg,0,13,0,0,8,1,"antique
+iron
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_36409__courtyard_garden_chairs.jpg,0,14,0,0,8,1,"chicago
+police
+boat",1,"[9, 20, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,15,0,0,8,1,"courtyard
+garden
+chairs",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_991__cyclists_crossing_intersection.jpg,0,16,0,0,8,1,"orange
+crate
+fruit
+shop",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_951__coffee_mug_keyboard.jpg,0,17,0,0,8,1,"cyclists
+crossing
+intersection",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_363__modern_bathroom_interior.jpg,0,18,0,0,8,1,"coffee
+mug
+keyboard",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_837__dog_in_mirror.jpg,0,19,0,0,8,1,"modern
+bathroom
+interior",1,"[9, 20, 35]"
+blank.jpg,0,20,1,0,8,1,"dog
+in
+mirror",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,21,0,0,8,1,blank,1,"[9, 20, 35]"
+stimuli_labeled/extra46__trumpeter_playing_outdoors.jpg,0,22,0,0,8,1,"yawning
+kitchen
+person",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_357__kitten_on_laptop.jpg,0,23,0,0,8,1,"trumpeter
+playing
+outdoors",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_419__boy_dog_kite.jpg,0,24,0,0,8,1,"kitten
+on
+laptop",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_38380__puppy_eating_food.jpg,0,25,0,0,8,1,"boy
+dog
+kite",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,26,0,0,8,1,"puppy
+eating
+food",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_847__man_in_suit.jpg,0,27,0,0,8,1,"boat
+on
+lake",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_50638__man_with_cats.jpg,0,28,0,0,8,1,"man
+in
+suit",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_622__night_traffic_intersection.jpg,0,29,0,0,8,1,"man
+with
+cats",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_26969__abandoned_open_suitcase.jpg,0,30,0,0,8,1,"night
+traffic
+intersection",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_46321__vintage_metal_bed.jpg,0,31,0,0,8,1,"abandoned
+open
+suitcase",1,"[9, 20, 35]"
+stimuli_labeled/album4__fresh_produce_market.jpg,0,32,0,0,8,1,"vintage
+metal
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_52966__pink_racing_bicycle.jpg,0,33,0,0,8,1,"fresh
+produce
+market",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_275__cozy_hotel_bedroom.jpg,0,34,0,0,8,1,"pink
+racing
+bicycle",1,"[9, 20, 35]"
+blank.jpg,0,35,1,1,8,1,"cozy
+hotel
+bedroom",0,"[9, 20, 35]"

@@ -1,0 +1,103 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_shared_98__cat_mirror_photographer.jpg,0,0,0,0,5,2,blank,1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_29021__dog_cat_window.jpg,0,1,0,0,5,2,"cat
+mirror
+photographer",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_56318__cyclist_in_snow.jpg,0,2,0,0,5,2,"dog
+cat
+window",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,3,0,0,5,2,"cyclist
+in
+snow",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_968__crowded_city_corner.jpg,0,4,0,0,5,2,"woman
+brushing
+teeth",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_372__red_dining_room.jpg,0,5,0,0,5,2,"crowded
+city
+corner",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_59380__man_jumping_bed.jpg,0,6,0,0,5,2,"red
+dining
+room",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_55611__ornate_console_table.jpg,0,7,0,0,5,2,"man
+jumping
+bed",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_872__boat_between_rocks.jpg,0,8,0,0,5,2,"ornate
+console
+table",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_1666__new_york_street.jpg,0,9,0,0,5,2,"boat
+between
+rocks",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_40287__bicycle_smoothie_vendor.jpg,0,10,0,0,5,2,"new
+york
+street",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_32625__teapot_on_bench.jpg,0,11,0,0,5,2,"bicycle
+smoothie
+vendor",1,"[12, 20, 35]"
+blank.jpg,0,12,1,0,5,2,"teapot
+on
+bench",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_109__vintage_steam_locomotive.jpg,0,13,0,0,5,2,blank,1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_12605__hooded_figure_crossing.jpg,0,14,0,0,5,2,"vintage
+steam
+locomotive",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_218__friends_eating_sandwiches.jpg,0,15,0,0,5,2,"hooded
+figure
+crossing",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_29__girl_on_bed.jpg,0,16,0,0,5,2,"friends
+eating
+sandwiches",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_420__refrigerator_plant_kitchen.jpg,0,17,0,0,5,2,"girl
+on
+bed",1,"[12, 20, 35]"
+stimuli_labeled/album7__child_on_tv.jpg,0,18,0,0,5,2,"refrigerator
+plant
+kitchen",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_2909__rolling_pins_globes.jpg,0,19,0,0,5,2,"child
+on
+tv",1,"[12, 20, 35]"
+blank.jpg,0,20,1,0,5,2,"rolling
+pins
+globes",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_630__cat_on_couch.jpg,0,21,0,0,5,2,blank,1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_15__cluttered_living_room.jpg,0,22,0,0,5,2,"cat
+on
+couch",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_9841__two_relaxed_cats.jpg,0,23,0,0,5,2,"cluttered
+living
+room",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_44__red_roses_vase.jpg,0,24,0,0,5,2,"two
+relaxed
+cats",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_169__historic_clock_tower.jpg,0,25,0,0,5,2,"red
+roses
+vase",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_22976__free_cell_charging.jpg,0,26,0,0,5,2,"historic
+clock
+tower",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_6292__bustling_times_square.jpg,0,27,0,0,5,2,"free
+cell
+charging",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_652__black_dog_panting.jpg,0,28,0,0,5,2,"bustling
+times
+square",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_580__scissors_marker_gel.jpg,0,29,0,0,5,2,"black
+dog
+panting",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_605__light_rail_train.jpg,0,30,0,0,5,2,"scissors
+marker
+gel",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_7911__abandoned_hospital_bed.jpg,0,31,0,0,5,2,"light
+rail
+train",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_51348__two_playful_cats.jpg,0,32,0,0,5,2,"abandoned
+hospital
+bed",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_11615__snowy_bicycle_streetscape.jpg,0,33,0,0,5,2,"two
+playful
+cats",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_21193__street_artist_painting.jpg,0,34,0,0,5,2,"snowy
+bicycle
+streetscape",1,"[12, 20, 35]"
+blank.jpg,0,35,1,1,5,2,"street
+artist
+painting",0,"[12, 20, 35]"

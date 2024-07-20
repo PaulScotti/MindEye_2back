@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/coco_nonshared_13631__sleeping_dogs_cuddling.jpg,0,0,0,0,13,0,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_21546__two_blackandwhite_cats.jpg,0,1,0,0,13,0,"sleeping
+dogs
+cuddling",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_40671__child_cuddling_cat.jpg,0,2,0,0,13,0,"two
+blackandwhite
+cats",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_56089__vintage_decorative_wall.jpg,0,3,0,0,13,0,"child
+cuddling
+cat",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_272__broadway_street_sign.jpg,0,4,0,0,13,0,"vintage
+decorative
+wall",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_315__vintage_motel_sign.jpg,0,5,0,0,13,0,"broadway
+street
+sign",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_60772__flowers_in_vase.jpg,0,6,0,0,13,0,"vintage
+motel
+sign",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_779__luggage_compartment_packed.jpg,0,7,0,0,13,0,"flowers
+in
+vase",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_107__boats_on_dock.jpg,0,8,0,0,13,0,"luggage
+compartment
+packed",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_1563__ancient_greek_chariot.jpg,0,9,0,0,13,0,"boats
+on
+dock",1,"[10, 20, 35]"
+blank.jpg,0,10,1,0,13,0,"ancient
+greek
+chariot",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_839__cat_near_car.jpg,0,11,0,0,13,0,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_722__vintage_ornate_bathroom.jpg,0,12,0,0,13,0,"cat
+near
+car",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_234__blue_garbage_truck.jpg,0,13,0,0,13,0,"vintage
+ornate
+bathroom",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,14,0,0,13,0,"blue
+garbage
+truck",1,"[10, 20, 35]"
+stimuli_labeled/extra44__smiling_man_glasses.jpg,0,15,0,0,13,0,"red
+telephone
+booth",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_31100__pink_scooter_coffee.jpg,0,16,0,0,13,0,"smiling
+man
+glasses",1,"[10, 20, 35]"
+stimuli_labeled/extra1__boxer_dog_outdoors.jpg,0,17,0,0,13,0,"pink
+scooter
+coffee",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_868__computer_workspace_setup.jpg,0,18,0,0,13,0,"boxer
+dog
+outdoors",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_542__baby_on_keyboard.jpg,0,19,0,0,13,0,"computer
+workspace
+setup",1,"[10, 20, 35]"
+blank.jpg,0,20,1,0,13,0,"baby
+on
+keyboard",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_867__church_clock_towers.jpg,0,21,0,0,13,0,blank,1,"[10, 20, 35]"
+stimuli_labeled/extra1__boxer_dog_outdoors.jpg,1,22,0,0,13,0,"church
+clock
+towers",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_12416__sleeper_cats_bed.jpg,0,23,0,0,13,0,"boxer
+dog
+outdoors",1,"[10, 20, 35]"
+stimuli_labeled/extra3__trumpet_player_outdoors.jpg,0,24,0,0,13,0,"sleeper
+cats
+bed",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_322__white_microwave_oven.jpg,0,25,0,0,13,0,"trumpet
+player
+outdoors",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_810__messy_unmade_bed.jpg,0,26,0,0,13,0,"white
+microwave
+oven",1,"[10, 20, 35]"
+stimuli_labeled/extra9__mustache_necklace_tanktop.jpg,0,27,0,0,13,0,"messy
+unmade
+bed",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_918__spice_rack_kitchen.jpg,0,28,0,0,13,0,"mustache
+necklace
+tanktop",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_781__child_holding_hairbrush.jpg,0,29,0,0,13,0,"spice
+rack
+kitchen",1,"[10, 20, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,30,0,0,13,0,"child
+holding
+hairbrush",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_943__bird_over_beach.jpg,0,31,0,0,13,0,"madison
+sq
+park
+trumpet",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_289__floral_upholstered_headboard.jpg,0,32,0,0,13,0,"bird
+over
+beach",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_48046__lamp_with_crow.jpg,0,33,0,0,13,0,"floral
+upholstered
+headboard",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_27988__distorted_mirror_reflection.jpg,0,34,0,0,13,0,"lamp
+with
+crow",1,"[10, 20, 35]"
+blank.jpg,0,35,1,0,13,0,"distorted
+mirror
+reflection",0,"[10, 20, 35]"

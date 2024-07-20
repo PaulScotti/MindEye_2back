@@ -1,0 +1,104 @@
+current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
+stimuli_labeled/extra0__man_dog_stairs.jpg,0,0,0,0,3,2,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_615__wine_tasting_bottles.jpg,0,1,0,0,3,2,"man
+dog
+stairs",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_54479__white_lacy_pillow.jpg,0,2,0,0,3,2,"wine
+tasting
+bottles",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,3,0,0,3,2,"white
+lacy
+pillow",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_540__white_clock_tower.jpg,0,4,0,0,3,2,"boat
+on
+lake",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_60481__dog_at_desk.jpg,0,5,0,0,3,2,"white
+clock
+tower",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_129__modern_bathroom_interior.jpg,0,6,0,0,3,2,"dog
+at
+desk",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_727__night_italian_cafe.jpg,0,7,0,0,3,2,"modern
+bathroom
+interior",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_571__cozy_living_room.jpg,0,8,0,0,3,2,"night
+italian
+cafe",1,"[9, 22, 35]"
+blank.jpg,0,9,1,0,3,2,"cozy
+living
+room",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_976__blue_orbit_bus.jpg,0,10,0,0,3,2,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_765__teddy_bear_hug.jpg,0,11,0,0,3,2,"blue
+orbit
+bus",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_112__modern_kitchen_interior.jpg,0,12,0,0,3,2,"teddy
+bear
+hug",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_281__clock_tower_building.jpg,0,13,0,0,3,2,"modern
+kitchen
+interior",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_8__cat_on_car.jpg,0,14,0,0,3,2,"clock
+tower
+building",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_91__cozy_christmas_livingroom.jpg,0,15,0,0,3,2,"cat
+on
+car",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_75__train_crossing_bridge.jpg,0,16,0,0,3,2,"cozy
+christmas
+livingroom",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_449__ornate_clock_tower.jpg,0,17,0,0,3,2,"train
+crossing
+bridge",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_578__woman_with_umbrella.jpg,0,18,0,0,3,2,"ornate
+clock
+tower",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_652__black_dog_panting.jpg,0,19,0,0,3,2,"woman
+with
+umbrella",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,20,0,0,3,2,"black
+dog
+panting",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_12137__messy_bed_cat.jpg,0,21,0,0,3,2,"woman
+brushing
+teeth",1,"[9, 22, 35]"
+blank.jpg,0,22,1,0,3,2,"messy
+bed
+cat",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,0,23,0,0,3,2,blank,1,"[9, 22, 35]"
+stimuli_labeled/extra40__man_in_white.jpg,0,24,0,0,3,2,"yellow
+umbrella
+woman",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_667__elegant_wine_tasting.jpg,0,25,0,0,3,2,"man
+in
+white",1,"[9, 22, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,26,0,0,3,2,"elegant
+wine
+tasting",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_55__historic_clock_tower.jpg,0,27,0,0,3,2,"orange
+crate
+fruit
+shop",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_240__cat_in_suitcase.jpg,0,28,0,0,3,2,"historic
+clock
+tower",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_68887__cats_watching_window.jpg,0,29,0,0,3,2,"cat
+in
+suitcase",1,"[9, 22, 35]"
+stimuli_labeled/extra32__park_violinist_performing.jpg,0,30,0,0,3,2,"cats
+watching
+window",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_313__wii_bowling_player.jpg,0,31,0,0,3,2,"park
+violinist
+performing",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_21895__person_levitating_bed.jpg,0,32,0,0,3,2,"wii
+bowling
+player",1,"[9, 22, 35]"
+stimuli_labeled/extra18__southern_park_woman.jpg,0,33,0,0,3,2,"person
+levitating
+bed",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_57892__busy_urban_street.jpg,0,34,0,0,3,2,"southern
+park
+woman",1,"[9, 22, 35]"
+blank.jpg,0,35,1,1,3,2,"busy
+urban
+street",0,"[9, 22, 35]"
