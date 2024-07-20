@@ -1,35 +1,35 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_nonshared_33360__broadway_promotional_event.jpg,0,0,0,0,2,0,blank,1,"[8, 18, 35]"
-stimuli_labeled/extra2__rusty_crate.jpg,0,1,0,0,2,0,"broadway
-promotional
-event",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_449__ornate_clock_tower.jpg,0,2,0,0,2,0,"rusty
+stimuli_labeled/coco_nonshared_17724__ancient_terracotta_urns.jpg,0,0,0,0,2,0,blank,1,"[8, 18, 35]"
+stimuli_labeled/extra2__rusty_crate.jpg,0,1,0,0,2,0,"ancient
+terracotta
+urns",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_210__red_stop_sign.jpg,0,2,0,0,2,0,"rusty
 crate",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_659__ornate_outdoor_clock.jpg,0,3,0,0,2,0,"ornate
-clock
-tower",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_659__ornate_outdoor_clock.jpg,0,3,0,0,2,0,"red
+stop
+sign",1,"[8, 18, 35]"
 stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,0,4,0,0,2,0,"ornate
 outdoor
 clock",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_941__airport_luggage_carousel.jpg,0,5,0,0,2,0,"yellow
+stimuli_labeled/coco_shared_39__boats_on_lake.jpg,0,5,0,0,2,0,"yellow
 umbrella
 woman",1,"[8, 18, 35]"
-stimuli_labeled/extra45__rustic_orange_crate.jpg,0,6,0,0,2,0,"airport
-luggage
-carousel",1,"[8, 18, 35]"
-stimuli_labeled/extra47__grocer_holding_vegetables.jpg,0,7,0,0,2,0,"rustic
+stimuli_labeled/extra45__rustic_orange_crate.jpg,0,6,0,0,2,0,"boats
+on
+lake",1,"[8, 18, 35]"
+stimuli_labeled/extra4__trumpeter_playing_outdoors.jpg,0,7,0,0,2,0,"rustic
 orange
 crate",1,"[8, 18, 35]"
-blank.jpg,0,8,1,0,2,0,"grocer
-holding
-vegetables",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_580__scissors_marker_gel.jpg,0,9,0,0,2,0,blank,1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_196__patterned_rug_livingroom.jpg,0,10,0,0,2,0,"scissors
-marker
-gel",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_366__welldressed_asian_man.jpg,0,11,0,0,2,0,"patterned
-rug
-livingroom",1,"[8, 18, 35]"
+blank.jpg,0,8,1,0,2,0,"trumpeter
+playing
+outdoors",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_404__child_playing_frisbee.jpg,0,9,0,0,2,0,blank,1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_32__cat_on_bed.jpg,0,10,0,0,2,0,"child
+playing
+frisbee",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_366__welldressed_asian_man.jpg,0,11,0,0,2,0,"cat
+on
+bed",1,"[8, 18, 35]"
 stimuli_labeled/coco_shared_347__park_bench_pathway.jpg,0,12,0,0,2,0,"welldressed
 asian
 man",1,"[8, 18, 35]"
@@ -40,28 +40,28 @@ stimuli_labeled/coco_shared_718__dog_in_truck.jpg,0,14,0,0,2,0,"madison
 sq
 park
 trumpet",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_12605__hooded_figure_crossing.jpg,0,15,0,0,2,0,"dog
+stimuli_labeled/coco_nonshared_16048__man_kissing_cat.jpg,0,15,0,0,2,0,"dog
 in
 truck",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_793__big_ben_london.jpg,0,16,0,0,2,0,"hooded
-figure
-crossing",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_74__colorful_kites_flying.jpg,0,17,0,0,2,0,"big
-ben
-london",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_19__japanese_toilet_bathroom.jpg,0,16,0,0,2,0,"man
+kissing
+cat",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_74__colorful_kites_flying.jpg,0,17,0,0,2,0,"japanese
+toilet
+bathroom",1,"[8, 18, 35]"
 blank.jpg,0,18,1,0,2,0,"colorful
 kites
 flying",1,"[8, 18, 35]"
 stimuli_labeled/coco_nonshared_14700__unmade_bed_teddy.jpg,0,19,0,0,2,0,blank,1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_759__snowy_street_signs.jpg,0,20,0,0,2,0,"unmade
+stimuli_labeled/coco_shared_461__kitten_bottle_feeding.jpg,0,20,0,0,2,0,"unmade
 bed
 teddy",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_29521__ornate_chinese_furniture.jpg,0,21,0,0,2,0,"snowy
-street
-signs",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_50564__family_cats_bedspread.jpg,0,22,0,0,2,0,"ornate
-chinese
-furniture",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_71324__political_rally_speaker.jpg,0,21,0,0,2,0,"kitten
+bottle
+feeding",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_50564__family_cats_bedspread.jpg,0,22,0,0,2,0,"political
+rally
+speaker",1,"[8, 18, 35]"
 stimuli_labeled/coco_shared_442__cozy_green_livingroom.jpg,0,23,0,0,2,0,"family
 cats
 bedspread",1,"[8, 18, 35]"
@@ -74,30 +74,30 @@ street",1,"[8, 18, 35]"
 stimuli_labeled/coco_shared_447__red_locomotive_approaching.jpg,0,26,0,0,2,0,"motorcycles
 lined
 up",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_508__cluttered_computer_desk.jpg,0,27,0,0,2,0,"red
+stimuli_labeled/coco_shared_356__green_fire_hydrant.jpg,0,27,0,0,2,0,"red
 locomotive
 approaching",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_33876__antique_grandfather_clock.jpg,0,28,0,0,2,0,"cluttered
-computer
-desk",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_23746__red_patio_umbrella.jpg,0,29,0,0,2,0,"antique
-grandfather
-clock",1,"[8, 18, 35]"
-stimuli_labeled/extra4__trumpeter_playing_outdoors.jpg,0,30,0,0,2,0,"red
-patio
-umbrella",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_37395__ancient_greek_pottery.jpg,0,28,0,0,2,0,"green
+fire
+hydrant",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_33205__protesters_holding_signs.jpg,0,29,0,0,2,0,"ancient
+greek
+pottery",1,"[8, 18, 35]"
+stimuli_labeled/extra17__trumpeter_at_window.jpg,0,30,0,0,2,0,"protesters
+holding
+signs",1,"[8, 18, 35]"
 stimuli_labeled/coco_nonshared_67298__cats_on_bed.jpg,0,31,0,0,2,0,"trumpeter
-playing
-outdoors",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_210__red_stop_sign.jpg,0,32,0,0,2,0,"cats
+at
+window",1,"[8, 18, 35]"
+stimuli_labeled/coco_shared_814__chicago_police_boat.jpg,0,32,0,0,2,0,"cats
 on
 bed",1,"[8, 18, 35]"
-stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,33,0,0,2,0,"red
-stop
-sign",1,"[8, 18, 35]"
-stimuli_labeled/coco_nonshared_27988__distorted_mirror_reflection.jpg,0,34,0,0,2,0,"boat
+stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,33,0,0,2,0,"chicago
+police
+boat",1,"[8, 18, 35]"
+stimuli_labeled/coco_nonshared_3857__urban_subway_entrance.jpg,0,34,0,0,2,0,"boat
 on
 lake",1,"[8, 18, 35]"
-blank.jpg,0,35,1,1,2,0,"distorted
-mirror
-reflection",0,"[8, 18, 35]"
+blank.jpg,0,35,1,1,2,0,"urban
+subway
+entrance",0,"[8, 18, 35]"

@@ -1,67 +1,67 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_519__book_on_blanket.jpg,0,0,0,0,0,2,blank,1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_99__open_stocked_refrigerator.jpg,0,1,0,0,0,2,"book
-on
-blanket",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_309__vintage_bathroom_tub.jpg,0,0,0,0,0,2,blank,1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_99__open_stocked_refrigerator.jpg,0,1,0,0,0,2,"vintage
+bathroom
+tub",1,"[11, 21, 35]"
 stimuli_labeled/coco_shared_216__park_path_people.jpg,0,2,0,0,0,2,"open
 stocked
 refrigerator",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_544__lake_mountain_boat.jpg,0,3,0,0,0,2,"park
+stimuli_labeled/coco_shared_648__cozy_living_room.jpg,0,3,0,0,0,2,"park
 path
 people",1,"[11, 21, 35]"
-stimuli_labeled/extra39__black_poodle_sitting.jpg,0,4,0,0,0,2,"lake
-mountain
-boat",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_278__cat_in_suitcase.jpg,0,5,0,0,0,2,"black
+stimuli_labeled/extra39__black_poodle_sitting.jpg,0,4,0,0,0,2,"cozy
+living
+room",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_363__modern_bathroom_interior.jpg,0,5,0,0,0,2,"black
 poodle
 sitting",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_31076__black_cat_heterochromia.jpg,0,6,0,0,0,2,"cat
-in
-suitcase",1,"[11, 21, 35]"
-stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,7,0,0,0,2,"black
-cat
-heterochromia",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_404__child_playing_frisbee.jpg,0,8,0,0,0,2,"dad
+stimuli_labeled/coco_nonshared_65605__dog_computer_companion.jpg,0,6,0,0,0,2,"modern
+bathroom
+interior",1,"[11, 21, 35]"
+stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,7,0,0,0,2,"dog
+computer
+companion",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,8,0,0,0,2,"dad
 dog
 lick
 feet",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,0,9,0,0,0,2,"child
-playing
-frisbee",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_33850__red_window_glow.jpg,0,10,0,0,0,2,"yellow
+stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,0,9,0,0,0,2,"woman
+walking
+telephoning",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_7021__retro_kitchen_scene.jpg,0,10,0,0,0,2,"yellow
 umbrella
 woman",1,"[11, 21, 35]"
-blank.jpg,0,11,1,0,0,2,"red
-window
-glow",1,"[11, 21, 35]"
+blank.jpg,0,11,1,0,0,2,"retro
+kitchen
+scene",1,"[11, 21, 35]"
 stimuli_labeled/coco_shared_999__modern_urban_sunroom.jpg,0,12,0,0,0,2,blank,1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_730__boy_bench_cat.jpg,0,13,0,0,0,2,"modern
+stimuli_labeled/coco_shared_726__clock_on_pattern.jpg,0,13,0,0,0,2,"modern
 urban
 sunroom",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,0,14,0,0,0,2,"boy
-bench
-cat",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_386__modern_white_bathroom.jpg,0,15,0,0,0,2,"modern
+stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,0,14,0,0,0,2,"clock
+on
+pattern",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_56__bicycle_bus_rack.jpg,0,15,0,0,0,2,"modern
 kitchen
 cabinets",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_425__three_businessmen_walking.jpg,0,16,0,0,0,2,"modern
-white
-bathroom",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,17,0,0,0,2,"three
-businessmen
-walking",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_70590__woman_cat_couch.jpg,0,18,0,0,0,2,"yawning
+stimuli_labeled/coco_shared_190__cat_on_bench.jpg,0,16,0,0,0,2,"bicycle
+bus
+rack",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,17,0,0,0,2,"cat
+on
+bench",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_68480__rainy_manhattan_street.jpg,0,18,0,0,0,2,"yawning
 kitchen
 person",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_27905__dog_and_cat.jpg,0,19,0,0,0,2,"woman
-cat
-couch",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_620__urban_bus_scene.jpg,0,20,0,0,0,2,"dog
-and
-cat",1,"[11, 21, 35]"
-blank.jpg,0,21,1,0,0,2,"urban
-bus
-scene",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_22274__pedestrian_crossing_street.jpg,0,19,0,0,0,2,"rainy
+manhattan
+street",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_513__maroon_kitchen_cabinets.jpg,0,20,0,0,0,2,"pedestrian
+crossing
+street",1,"[11, 21, 35]"
+blank.jpg,0,21,1,0,0,2,"maroon
+kitchen
+cabinets",1,"[11, 21, 35]"
 stimuli_labeled/coco_shared_294__yellow_umbrella_woman.jpg,1,22,0,0,0,2,blank,1,"[11, 21, 35]"
 stimuli_labeled/coco_shared_781__child_holding_hairbrush.jpg,0,23,0,0,0,2,"yellow
 umbrella
@@ -72,33 +72,33 @@ hairbrush",1,"[11, 21, 35]"
 stimuli_labeled/album2__children_photo.jpg,0,25,0,0,0,2,"portraits
 on
 bed",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_145__bike_hydrant_doorway.jpg,0,26,0,0,0,2,"children
+stimuli_labeled/coco_shared_485__vintage_yamaha_motorcycles.jpg,0,26,0,0,0,2,"children
 photo",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_831__calm_winter_river.jpg,0,27,0,0,0,2,"bike
-hydrant
-doorway",1,"[11, 21, 35]"
-stimuli_labeled/coco_nonshared_8781__antique_iron_bed.jpg,0,28,0,0,0,2,"calm
-winter
-river",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_819__laptop_mouse_notebook.jpg,0,29,0,0,0,2,"antique
-iron
-bed",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,30,0,0,0,2,"laptop
-mouse
-notebook",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_143__outdoor_wine_tasting.jpg,0,31,0,0,0,2,"boat
+stimuli_labeled/coco_shared_164__luxurious_bathroom_counter.jpg,0,27,0,0,0,2,"vintage
+yamaha
+motorcycles",1,"[11, 21, 35]"
+stimuli_labeled/coco_nonshared_21602__people_on_terrace.jpg,0,28,0,0,0,2,"luxurious
+bathroom
+counter",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_396__messy_coffee_table.jpg,0,29,0,0,0,2,"people
+on
+terrace",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_256__boat_on_lake.jpg,0,30,0,0,0,2,"messy
+coffee
+table",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_145__bike_hydrant_doorway.jpg,0,31,0,0,0,2,"boat
 on
 lake",1,"[11, 21, 35]"
-stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,32,0,0,0,2,"outdoor
-wine
-tasting",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_87__wet_dog_bathtub.jpg,0,33,0,0,0,2,"orange
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,32,0,0,0,2,"bike
+hydrant
+doorway",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_768__elegant_bathroom_vanity.jpg,0,33,0,0,0,2,"orange
 crate
 fruit
 shop",1,"[11, 21, 35]"
-stimuli_labeled/coco_shared_860__train_station_platform.jpg,0,34,0,0,0,2,"wet
-dog
-bathtub",1,"[11, 21, 35]"
+stimuli_labeled/coco_shared_860__train_station_platform.jpg,0,34,0,0,0,2,"elegant
+bathroom
+vanity",1,"[11, 21, 35]"
 blank.jpg,0,35,1,1,0,2,"train
 station
 platform",0,"[11, 21, 35]"

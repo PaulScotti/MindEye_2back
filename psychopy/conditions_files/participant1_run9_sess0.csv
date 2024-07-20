@@ -1,21 +1,20 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
 stimuli_labeled/coco_shared_185__horse_statue_silhouette.jpg,0,0,0,0,9,0,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_42961__cat_shadow_circular.jpg,0,1,0,0,9,0,"horse
+stimuli_labeled/coco_nonshared_4532__dog_drinking_water.jpg,0,1,0,0,9,0,"horse
 statue
 silhouette",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_1037__food_cart_radio_city.jpg,0,2,0,0,9,0,"cat
-shadow
-circular",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_42__vintage_green_train.jpg,0,3,0,0,9,0,"food
-cart
-radio
-city",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_1666__new_york_street.jpg,0,4,0,0,9,0,"vintage
+stimuli_labeled/coco_nonshared_10648__cozy_bedroom_window.jpg,0,2,0,0,9,0,"dog
+drinking
+water",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_42__vintage_green_train.jpg,0,3,0,0,9,0,"cozy
+bedroom
+window",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_64057__modern_starburst_chandelier.jpg,0,4,0,0,9,0,"vintage
 green
 train",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_102__garbage_truck_collecting_branches.jpg,0,5,0,0,9,0,"new
-york
-street",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_102__garbage_truck_collecting_branches.jpg,0,5,0,0,9,0,"modern
+starburst
+chandelier",1,"[11, 22, 35]"
 stimuli_labeled/coco_nonshared_30387__cat_watching_child.jpg,0,6,0,0,9,0,"garbage
 truck
 collecting
@@ -26,81 +25,79 @@ child",1,"[11, 22, 35]"
 stimuli_labeled/album13__fruit_store_storefront.jpg,0,8,0,0,9,0,"cyclist
 using
 phone",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_791__historic_clock_tower.jpg,0,9,0,0,9,0,"fruit
+stimuli_labeled/coco_shared_991__cyclists_crossing_intersection.jpg,0,9,0,0,9,0,"fruit
 store
 storefront",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_952__train_crossing_countryside.jpg,0,10,0,0,9,0,"historic
-clock
-tower",1,"[11, 22, 35]"
-blank.jpg,0,11,1,0,9,0,"train
+stimuli_labeled/coco_shared_214__modern_dining_table.jpg,0,10,0,0,9,0,"cyclists
 crossing
-countryside",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_842__colorful_openplan_living_room.jpg,0,12,0,0,9,0,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,13,0,0,9,0,"colorful
-openplan
-living
-room",1,"[11, 22, 35]"
+intersection",1,"[11, 22, 35]"
+blank.jpg,0,11,1,0,9,0,"modern
+dining
+table",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_401__highway_directional_signs.jpg,0,12,0,0,9,0,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,13,0,0,9,0,"highway
+directional
+signs",1,"[11, 22, 35]"
 stimuli_labeled/coco_shared_285__woman_walking_dog.jpg,0,14,0,0,9,0,"red
 telephone
 booth",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_373__colorful_beach_umbrella.jpg,0,15,0,0,9,0,"woman
+stimuli_labeled/coco_shared_123__modern_sleek_kitchen.jpg,0,15,0,0,9,0,"woman
 walking
 dog",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_276__dining_women_smiling.jpg,0,16,0,0,9,0,"colorful
-beach
-umbrella",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_38116__pink_costume_character.jpg,0,17,0,0,9,0,"dining
-women
-smiling",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_206__urban_intersection_traffic.jpg,0,18,0,0,9,0,"pink
-costume
-character",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_263__train_passing_lighthouse.jpg,0,19,0,0,9,0,"urban
-intersection
-traffic",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_11132__unmade_messy_bed.jpg,0,20,0,0,9,0,"train
-passing
-lighthouse",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_918__spice_rack_kitchen.jpg,0,21,0,0,9,0,"unmade
-messy
-bed",1,"[11, 22, 35]"
-blank.jpg,0,22,1,0,9,0,"spice
-rack
+stimuli_labeled/coco_shared_36__bus_in_street.jpg,0,16,0,0,9,0,"modern
+sleek
 kitchen",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_363__modern_bathroom_interior.jpg,0,23,0,0,9,0,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_40__person_flying_kite.jpg,0,24,0,0,9,0,"modern
-bathroom
-interior",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_56365__woman_jumping_bed.jpg,0,25,0,0,9,0,"person
+stimuli_labeled/coco_nonshared_32504__dog_sleeping_couch.jpg,0,17,0,0,9,0,"bus
+in
+street",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_936__australian_road_train.jpg,0,18,0,0,9,0,"dog
+sleeping
+couch",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_289__floral_upholstered_headboard.jpg,0,19,0,0,9,0,"australian
+road
+train",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_1050__two_cuddling_cats.jpg,0,20,0,0,9,0,"floral
+upholstered
+headboard",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_652__black_dog_panting.jpg,0,21,0,0,9,0,"two
+cuddling
+cats",1,"[11, 22, 35]"
+blank.jpg,0,22,1,0,9,0,"black
+dog
+panting",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,0,23,0,0,9,0,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_40__person_flying_kite.jpg,0,24,0,0,9,0,"vintage
+red
+motorcycle",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_44375__television_shows_bedroom.jpg,0,25,0,0,9,0,"person
 flying
 kite",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_190__cat_on_bench.jpg,0,26,0,0,9,0,"woman
-jumping
-bed",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_941__airport_luggage_carousel.jpg,0,27,0,0,9,0,"cat
+stimuli_labeled/coco_shared_569__outdoor_bar_umbrella.jpg,0,26,0,0,9,0,"television
+shows
+bedroom",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_39__boats_on_lake.jpg,0,27,0,0,9,0,"outdoor
+bar
+umbrella",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_12963__old_dusty_bottle.jpg,0,28,0,0,9,0,"boats
 on
-bench",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_12963__old_dusty_bottle.jpg,0,28,0,0,9,0,"airport
-luggage
-carousel",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_56887__simple_vintage_bedroom.jpg,0,29,0,0,9,0,"old
+lake",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_26969__abandoned_open_suitcase.jpg,0,29,0,0,9,0,"old
 dusty
 bottle",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_838__man_eating_sandwich.jpg,0,30,0,0,9,0,"simple
-vintage
-bedroom",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_841__red_umbrella_overlook.jpg,0,31,0,0,9,0,"man
+stimuli_labeled/coco_shared_838__man_eating_sandwich.jpg,0,30,0,0,9,0,"abandoned
+open
+suitcase",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_182__toilet.jpg,0,31,0,0,9,0,"man
 eating
 sandwich",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_421__cozy_living_room.jpg,0,32,0,0,9,0,"red
-umbrella
-overlook",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_32762__ancient_minoan_vase.jpg,0,33,0,0,9,0,"cozy
+stimuli_labeled/coco_shared_421__cozy_living_room.jpg,0,32,0,0,9,0,toilet,1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_47682__busy_chinatown_street.jpg,0,33,0,0,9,0,"cozy
 living
 room",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_319__white_tulip_bouquet.jpg,0,34,0,0,9,0,"ancient
-minoan
-vase",1,"[11, 22, 35]"
-blank.jpg,0,35,1,1,9,0,"white
-tulip
-bouquet",0,"[11, 22, 35]"
+stimuli_labeled/coco_shared_548__smartphone_flip_phone_charger.jpg,0,34,0,0,9,0,"busy
+chinatown
+street",1,"[11, 22, 35]"
+blank.jpg,0,35,1,1,9,0,"smartphone
+flip
+phone
+charger",0,"[11, 22, 35]"

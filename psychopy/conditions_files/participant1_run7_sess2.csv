@@ -6,42 +6,42 @@ cabinets",1,"[10, 19, 35]"
 stimuli_labeled/coco_shared_784__tropical_flower_arrangement.jpg,0,2,0,0,7,2,"laptop
 on
 couch",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_372__red_dining_room.jpg,0,3,0,0,7,2,"tropical
+stimuli_labeled/coco_shared_449__ornate_clock_tower.jpg,0,3,0,0,7,2,"tropical
 flower
 arrangement",1,"[10, 19, 35]"
-stimuli_labeled/extra6__dog_in_snow.jpg,0,4,0,0,7,2,"red
-dining
-room",1,"[10, 19, 35]"
-stimuli_labeled/coco_nonshared_65476__pets_portrait_collage.jpg,0,5,0,0,7,2,"dog
-in
-snow",1,"[10, 19, 35]"
+stimuli_labeled/extra3__trumpet_player_outdoors.jpg,0,4,0,0,7,2,"ornate
+clock
+tower",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_65476__pets_portrait_collage.jpg,0,5,0,0,7,2,"trumpet
+player
+outdoors",1,"[10, 19, 35]"
 stimuli_labeled/coco_shared_756__woman_using_phone.jpg,0,6,0,0,7,2,"pets
 portrait
 collage",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_127__modern_kitchen_cabinets.jpg,0,7,0,0,7,2,"woman
+stimuli_labeled/coco_shared_172__decayed_wall_clock.jpg,0,7,0,0,7,2,"woman
 using
 phone",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_435__modern_white_kitchen.jpg,0,8,0,0,7,2,"modern
-kitchen
-cabinets",1,"[10, 19, 35]"
-stimuli_labeled/extra38__elderly_fruit_vendor.jpg,0,9,0,0,7,2,"modern
-white
-kitchen",1,"[10, 19, 35]"
-blank.jpg,0,10,1,0,7,2,"elderly
-fruit
-vendor",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_759__snowy_street_signs.jpg,0,8,0,0,7,2,"decayed
+wall
+clock",1,"[10, 19, 35]"
+stimuli_labeled/extra40__man_in_white.jpg,0,9,0,0,7,2,"snowy
+street
+signs",1,"[10, 19, 35]"
+blank.jpg,0,10,1,0,7,2,"man
+in
+white",1,"[10, 19, 35]"
 stimuli_labeled/coco_nonshared_55765__patriotic_hydrant_bicycle.jpg,0,11,0,0,7,2,blank,1,"[10, 19, 35]"
 stimuli_labeled/album0__crouching_curiously.jpg,0,12,0,0,7,2,"patriotic
 hydrant
 bicycle",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_315__vintage_motel_sign.jpg,0,13,0,0,7,2,"crouching
+stimuli_labeled/coco_shared_620__urban_bus_scene.jpg,0,13,0,0,7,2,"crouching
 curiously",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_33__bathroom_storage_cabinet.jpg,0,14,0,0,7,2,"vintage
-motel
-sign",1,"[10, 19, 35]"
-stimuli_labeled/coco_nonshared_10004__cats_on_bed.jpg,0,15,0,0,7,2,"bathroom
-storage
-cabinet",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_952__train_crossing_countryside.jpg,0,14,0,0,7,2,"urban
+bus
+scene",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_10004__cats_on_bed.jpg,0,15,0,0,7,2,"train
+crossing
+countryside",1,"[10, 19, 35]"
 stimuli_labeled/coco_nonshared_20737__vintage_scooter_storefront.jpg,0,16,0,0,7,2,"cats
 on
 bed",1,"[10, 19, 35]"
@@ -54,50 +54,51 @@ tabletop",1,"[10, 19, 35]"
 blank.jpg,0,19,1,0,7,2,"two
 men
 celebrating",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_319__white_tulip_bouquet.jpg,0,20,0,0,7,2,blank,1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_968__crowded_city_corner.jpg,0,21,0,0,7,2,"white
-tulip
-bouquet",1,"[10, 19, 35]"
-stimuli_labeled/coco_nonshared_44756__ancient_ceramic_vessel.jpg,0,22,0,0,7,2,"crowded
-city
-corner",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_36__bus_in_street.jpg,0,23,0,0,7,2,"ancient
-ceramic
-vessel",1,"[10, 19, 35]"
-stimuli_labeled/extra20__trumpeter_playing_park.jpg,0,24,0,0,7,2,"bus
-in
-street",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_812__electric_freight_locomotive.jpg,0,25,0,0,7,2,"trumpeter
+stimuli_labeled/coco_shared_548__smartphone_flip_phone_charger.jpg,0,20,0,0,7,2,blank,1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_75__train_crossing_bridge.jpg,0,21,0,0,7,2,"smartphone
+flip
+phone
+charger",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_22976__free_cell_charging.jpg,0,22,0,0,7,2,"train
+crossing
+bridge",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_819__laptop_mouse_notebook.jpg,0,23,0,0,7,2,"free
+cell
+charging",1,"[10, 19, 35]"
+stimuli_labeled/extra20__trumpeter_playing_park.jpg,0,24,0,0,7,2,"laptop
+mouse
+notebook",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_728__refrigerator_and_stove.jpg,0,25,0,0,7,2,"trumpeter
 playing
 park",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_143__outdoor_wine_tasting.jpg,0,26,0,0,7,2,"electric
-freight
-locomotive",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_653__people_using_phones.jpg,0,27,0,0,7,2,"outdoor
-wine
-tasting",1,"[10, 19, 35]"
-stimuli_labeled/extra49__smiling_sitting_elderly.jpg,0,28,0,0,7,2,"people
+stimuli_labeled/coco_shared_145__bike_hydrant_doorway.jpg,0,26,0,0,7,2,"refrigerator
+and
+stove",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_653__people_using_phones.jpg,0,27,0,0,7,2,"bike
+hydrant
+doorway",1,"[10, 19, 35]"
+stimuli_labeled/extra5__sun_hat_crocs.jpg,0,28,0,0,7,2,"people
 using
 phones",1,"[10, 19, 35]"
-stimuli_labeled/coco_nonshared_66898__rainy_outdoor_market.jpg,0,29,0,0,7,2,"smiling
-sitting
-elderly",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_987__iconic_london_bus.jpg,0,30,0,0,7,2,"rainy
-outdoor
-market",1,"[10, 19, 35]"
-stimuli_labeled/coco_nonshared_17420__woman_awaiting_taxi.jpg,0,31,0,0,7,2,"iconic
+stimuli_labeled/coco_nonshared_3927__bustling_chinatown_street.jpg,0,29,0,0,7,2,"sun
+hat
+crocs",1,"[10, 19, 35]"
+stimuli_labeled/coco_shared_987__iconic_london_bus.jpg,0,30,0,0,7,2,"bustling
+chinatown
+street",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_45354__sunlit_window_sill.jpg,0,31,0,0,7,2,"iconic
 london
 bus",1,"[10, 19, 35]"
-stimuli_labeled/coco_shared_540__white_clock_tower.jpg,0,32,0,0,7,2,"woman
-awaiting
-taxi",1,"[10, 19, 35]"
-stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,33,0,0,7,2,"white
-clock
-tower",1,"[10, 19, 35]"
-stimuli_labeled/coco_nonshared_67234__sunlit_urban_intersection.jpg,0,34,0,0,7,2,"madison
+stimuli_labeled/coco_shared_98__cat_mirror_photographer.jpg,0,32,0,0,7,2,"sunlit
+window
+sill",1,"[10, 19, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,33,0,0,7,2,"cat
+mirror
+photographer",1,"[10, 19, 35]"
+stimuli_labeled/coco_nonshared_45996__vintage_kitchen_collectibles.jpg,0,34,0,0,7,2,"madison
 sq
 park
 trumpet",1,"[10, 19, 35]"
-blank.jpg,0,35,1,1,7,2,"sunlit
-urban
-intersection",0,"[10, 19, 35]"
+blank.jpg,0,35,1,1,7,2,"vintage
+kitchen
+collectibles",0,"[10, 19, 35]"

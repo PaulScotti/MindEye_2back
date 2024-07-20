@@ -1,26 +1,26 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
 stimuli_labeled/coco_shared_658__clock_tower_sculpture.jpg,0,0,0,0,8,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_513__maroon_kitchen_cabinets.jpg,0,1,0,0,8,2,"clock
+stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,0,1,0,0,8,2,"clock
 tower
 sculpture",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_59662__old_wooden_bench.jpg,0,2,0,0,8,2,"maroon
-kitchen
-cabinets",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_612__cyclist_smoking_phone.jpg,0,3,0,0,8,2,"old
-wooden
-bench",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_15036__wooden_headboard_detail.jpg,0,4,0,0,8,2,"cyclist
-smoking
-phone",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_604__vintage_orange_pickup.jpg,0,5,0,0,8,2,"wooden
-headboard
-detail",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_6292__bustling_times_square.jpg,0,6,0,0,8,2,"vintage
+stimuli_labeled/coco_nonshared_2149__dog_on_couch.jpg,0,2,0,0,8,2,"brick
+terraced
+houses",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_892__turquoise_passenger_train.jpg,0,3,0,0,8,2,"dog
+on
+couch",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_68090__shaggy_office_dog.jpg,0,4,0,0,8,2,"turquoise
+passenger
+train",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_604__vintage_orange_pickup.jpg,0,5,0,0,8,2,"shaggy
+office
+dog",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_22250__sleeping_cats_curled.jpg,0,6,0,0,8,2,"vintage
 orange
 pickup",1,"[9, 20, 35]"
-stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,7,0,0,8,2,"bustling
-times
-square",1,"[9, 20, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,7,0,0,8,2,"sleeping
+cats
+curled",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_553__fluffy_pomeranian_dog.jpg,0,8,0,0,8,2,"madison
 sq
 park
@@ -28,16 +28,16 @@ trumpet",1,"[9, 20, 35]"
 blank.jpg,0,9,1,0,8,2,"fluffy
 pomeranian
 dog",1,"[9, 20, 35]"
-stimuli_labeled/extra0__man_dog_stairs.jpg,0,10,0,0,8,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_768__elegant_bathroom_vanity.jpg,0,11,0,0,8,2,"man
-dog
-stairs",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_240__cat_in_suitcase.jpg,0,12,0,0,8,2,"elegant
-bathroom
-vanity",1,"[9, 20, 35]"
-stimuli_labeled/extra19__fruit_store_entrance.jpg,0,13,0,0,8,2,"cat
-in
-suitcase",1,"[9, 20, 35]"
+stimuli_labeled/extra49__smiling_sitting_elderly.jpg,0,10,0,0,8,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_292__laptop_cat_bookshelf.jpg,0,11,0,0,8,2,"smiling
+sitting
+elderly",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_968__crowded_city_corner.jpg,0,12,0,0,8,2,"laptop
+cat
+bookshelf",1,"[9, 20, 35]"
+stimuli_labeled/extra19__fruit_store_entrance.jpg,0,13,0,0,8,2,"crowded
+city
+corner",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_977__cozy_bedroom_view.jpg,0,14,0,0,8,2,"fruit
 store
 entrance",1,"[9, 20, 35]"
@@ -47,58 +47,58 @@ view",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_610__retro_gas_station.jpg,0,16,0,0,8,2,"wooden
 crate
 foreground",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_936__australian_road_train.jpg,0,17,0,0,8,2,"retro
+stimuli_labeled/coco_shared_894__organized_computer_workspace.jpg,0,17,0,0,8,2,"retro
 gas
 station",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_34906__dog_on_cushion.jpg,0,18,0,0,8,2,"australian
-road
-train",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_282__colorful_fishing_boats.jpg,0,19,0,0,8,2,"dog
+stimuli_labeled/coco_nonshared_34906__dog_on_cushion.jpg,0,18,0,0,8,2,"organized
+computer
+workspace",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_16__man_at_podium.jpg,0,19,0,0,8,2,"dog
 on
 cushion",1,"[9, 20, 35]"
-blank.jpg,0,20,1,0,8,2,"colorful
-fishing
-boats",1,"[9, 20, 35]"
+blank.jpg,0,20,1,0,8,2,"man
+at
+podium",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_561__two_men_dining.jpg,0,21,0,0,8,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_260__dog_in_chair.jpg,0,22,0,0,8,2,"two
+stimuli_labeled/coco_shared_25__teddy_bears_piano.jpg,0,22,0,0,8,2,"two
 men
 dining",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_410__motorcycle_door_shutter.jpg,0,23,0,0,8,2,"dog
-in
-chair",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_898__striped_alert_cat.jpg,0,24,0,0,8,2,"motorcycle
-door
-shutter",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_785__boy_hydrant_yellow.jpg,0,23,0,0,8,2,"teddy
+bears
+piano",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_898__striped_alert_cat.jpg,0,24,0,0,8,2,"boy
+hydrant
+yellow",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_347__park_bench_pathway.jpg,0,25,0,0,8,2,"striped
 alert
 cat",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_251__red_cups_stacked.jpg,0,26,0,0,8,2,"park
 bench
 pathway",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_240__cat_in_suitcase.jpg,1,27,0,0,8,2,"red
+stimuli_labeled/coco_shared_968__crowded_city_corner.jpg,1,27,0,0,8,2,"red
 cups
 stacked",1,"[9, 20, 35]"
-stimuli_labeled/extra37__man_sitting_trumpet.jpg,0,28,0,0,8,2,"cat
-in
-suitcase",1,"[9, 20, 35]"
+stimuli_labeled/extra37__man_sitting_trumpet.jpg,0,28,0,0,8,2,"crowded
+city
+corner",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_15__cluttered_living_room.jpg,0,29,0,0,8,2,"man
 sitting
 trumpet",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_38380__puppy_eating_food.jpg,0,30,0,0,8,2,"cluttered
+stimuli_labeled/coco_nonshared_27988__distorted_mirror_reflection.jpg,0,30,0,0,8,2,"cluttered
 living
 room",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_14357__cats_hair_bed.jpg,0,31,0,0,8,2,"puppy
-eating
-food",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_919__smiling_schoolchild_portrait.jpg,0,32,0,0,8,2,"cats
-hair
-bed",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_164__luxurious_bathroom_counter.jpg,0,33,0,0,8,2,"smiling
+stimuli_labeled/coco_nonshared_18990__abandoned_suitcase_room.jpg,0,31,0,0,8,2,"distorted
+mirror
+reflection",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_919__smiling_schoolchild_portrait.jpg,0,32,0,0,8,2,"abandoned
+suitcase
+room",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_590__kite_between_trees.jpg,0,33,0,0,8,2,"smiling
 schoolchild
 portrait",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_608__elder_on_bench.jpg,0,34,0,0,8,2,"luxurious
-bathroom
-counter",1,"[9, 20, 35]"
-blank.jpg,0,35,1,1,8,2,"elder
-on
-bench",0,"[9, 20, 35]"
+stimuli_labeled/coco_shared_635__cozy_living_room.jpg,0,34,0,0,8,2,"kite
+between
+trees",1,"[9, 20, 35]"
+blank.jpg,0,35,1,1,8,2,"cozy
+living
+room",0,"[9, 20, 35]"

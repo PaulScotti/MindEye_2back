@@ -1,95 +1,96 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_nonshared_36566__cats_watching_tv.jpg,0,0,0,0,13,0,blank,1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_94__ornate_clock_tower.jpg,0,1,0,0,13,0,"cats
-watching
-tv",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_43177__kittens_on_bathmat.jpg,0,0,0,0,13,0,blank,1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_94__ornate_clock_tower.jpg,0,1,0,0,13,0,"kittens
+on
+bathmat",1,"[10, 20, 35]"
 stimuli_labeled/coco_shared_257__subway_smartphone_users.jpg,0,2,0,0,13,0,"ornate
 clock
 tower",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_30452__dog_between_legs.jpg,0,3,0,0,13,0,"subway
+stimuli_labeled/coco_nonshared_22582__colorful_patterned_bedspread.jpg,0,3,0,0,13,0,"subway
 smartphone
 users",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_70361__dog_with_remote.jpg,0,4,0,0,13,0,"dog
-between
-legs",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_121__students_studying_outdoors.jpg,0,5,0,0,13,0,"dog
+stimuli_labeled/coco_nonshared_70361__dog_with_remote.jpg,0,4,0,0,13,0,"colorful
+patterned
+bedspread",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_238__canal_boat_ride.jpg,0,5,0,0,13,0,"dog
 with
 remote",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_726__clock_on_pattern.jpg,0,6,0,0,13,0,"students
-studying
-outdoors",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,0,7,0,0,13,0,"clock
-on
-pattern",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_231__vintage_steam_locomotive.jpg,0,8,0,0,13,0,"vintage
-red
-motorcycle",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_53402__unmade_bed_corner.jpg,0,9,0,0,13,0,"vintage
+stimuli_labeled/coco_shared_692__yellow_commuter_trains.jpg,0,6,0,0,13,0,"canal
+boat
+ride",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_44__red_roses_vase.jpg,0,7,0,0,13,0,"yellow
+commuter
+trains",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_231__vintage_steam_locomotive.jpg,0,8,0,0,13,0,"red
+roses
+vase",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_37307__textured_blanket_closeup.jpg,0,9,0,0,13,0,"vintage
 steam
 locomotive",1,"[10, 20, 35]"
-blank.jpg,0,10,1,0,13,0,"unmade
-bed
-corner",1,"[10, 20, 35]"
+blank.jpg,0,10,1,0,13,0,"textured
+blanket
+closeup",1,"[10, 20, 35]"
 stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,11,0,0,13,0,blank,1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_652__black_dog_panting.jpg,0,12,0,0,13,0,"orange
+stimuli_labeled/coco_shared_127__modern_kitchen_cabinets.jpg,0,12,0,0,13,0,"orange
 crate
 fruit
 shop",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,1,13,0,0,13,0,"black
-dog
-panting",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_924__birds_on_table.jpg,0,14,0,0,13,0,"vintage
-red
-motorcycle",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_44__red_roses_vase.jpg,1,13,0,0,13,0,"modern
+kitchen
+cabinets",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_924__birds_on_table.jpg,0,14,0,0,13,0,"red
+roses
+vase",1,"[10, 20, 35]"
 stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,15,0,0,13,0,"birds
 on
 table",1,"[10, 20, 35]"
 stimuli_labeled/coco_shared_487__elegant_wedding_cake.jpg,0,16,0,0,13,0,"urban
 stadium
 view",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_62171__beer_delivery_truck.jpg,0,17,0,0,13,0,"elegant
+stimuli_labeled/coco_nonshared_15445__unmade_bed_plants.jpg,0,17,0,0,13,0,"elegant
 wedding
 cake",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_849__man_with_beard.jpg,0,18,0,0,13,0,"beer
-delivery
-truck",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_98__cat_mirror_photographer.jpg,0,19,0,0,13,0,"man
-with
-beard",1,"[10, 20, 35]"
-blank.jpg,0,20,1,0,13,0,"cat
-mirror
-photographer",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_23573__religious_statue_fruit.jpg,0,21,0,0,13,0,blank,1,"[10, 20, 35]"
-stimuli_labeled/album8__empire_state_building.jpg,0,22,0,0,13,0,"religious
-statue
-fruit",1,"[10, 20, 35]"
-stimuli_labeled/extra40__man_in_white.jpg,0,23,0,0,13,0,"empire
+stimuli_labeled/coco_shared_696__bathtub_toilet_faucet.jpg,0,18,0,0,13,0,"unmade
+bed
+plants",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_319__white_tulip_bouquet.jpg,0,19,0,0,13,0,"bathtub
+toilet
+faucet",1,"[10, 20, 35]"
+blank.jpg,0,20,1,0,13,0,"white
+tulip
+bouquet",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_29683__tiered_wooden_benches.jpg,0,21,0,0,13,0,blank,1,"[10, 20, 35]"
+stimuli_labeled/album8__empire_state_building.jpg,0,22,0,0,13,0,"tiered
+wooden
+benches",1,"[10, 20, 35]"
+stimuli_labeled/extra27__guitarist_playing_acoustic.jpg,0,23,0,0,13,0,"empire
 state
 building",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_896__yellow_floral_arrangement.jpg,0,24,0,0,13,0,"man
-in
-white",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_52670__blurry_plant_window.jpg,0,25,0,0,13,0,"yellow
-floral
-arrangement",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_36478__cluttered_antique_collection.jpg,0,26,0,0,13,0,"blurry
-plant
-window",1,"[10, 20, 35]"
-stimuli_labeled/coco_nonshared_36930__turquoise_orange_collage.jpg,0,27,0,0,13,0,"cluttered
-antique
-collection",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_622__night_traffic_intersection.jpg,0,28,0,0,13,0,"turquoise
-orange
-collage",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_918__spice_rack_kitchen.jpg,0,29,0,0,13,0,"night
-traffic
-intersection",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_732__child_flying_kite.jpg,0,30,0,0,13,0,"spice
-rack
-kitchen",1,"[10, 20, 35]"
-stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,31,0,0,13,0,"child
-flying
-kite",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_178__metal_scissors_closeup.jpg,0,24,0,0,13,0,"guitarist
+playing
+acoustic",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_36566__cats_watching_tv.jpg,0,25,0,0,13,0,"metal
+scissors
+closeup",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_55571__cat_person_couch.jpg,0,26,0,0,13,0,"cats
+watching
+tv",1,"[10, 20, 35]"
+stimuli_labeled/coco_nonshared_65574__busy_new_york_sidewalk.jpg,0,27,0,0,13,0,"cat
+person
+couch",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_828__vintage_steam_locomotive.jpg,0,28,0,0,13,0,"busy
+new
+york
+sidewalk",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_652__black_dog_panting.jpg,0,29,0,0,13,0,"vintage
+steam
+locomotive",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_126__beige_bathroom_vanity.jpg,0,30,0,0,13,0,"black
+dog
+panting",1,"[10, 20, 35]"
+stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,31,0,0,13,0,"beige
+bathroom
+vanity",1,"[10, 20, 35]"
 stimuli_labeled/coco_shared_698__computer_classroom_setup.jpg,0,32,0,0,13,0,"woman
 brushing
 teeth",1,"[10, 20, 35]"

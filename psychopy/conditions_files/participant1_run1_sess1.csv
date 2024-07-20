@@ -1,73 +1,73 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_210__red_stop_sign.jpg,0,0,0,0,1,1,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_21602__people_on_terrace.jpg,0,1,0,0,1,1,"red
-stop
-sign",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_540__white_clock_tower.jpg,0,2,0,0,1,1,"people
+stimuli_labeled/coco_shared_814__chicago_police_boat.jpg,0,0,0,0,1,1,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_37234__cats_on_bed.jpg,0,1,0,0,1,1,"chicago
+police
+boat",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_98__cat_mirror_photographer.jpg,0,2,0,0,1,1,"cats
 on
-terrace",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_376__flowers_in_vase.jpg,0,3,0,0,1,1,"white
-clock
-tower",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_37754__person_facing_street.jpg,0,4,0,0,1,1,"flowers
+bed",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_376__flowers_in_vase.jpg,0,3,0,0,1,1,"cat
+mirror
+photographer",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_11343__chihuahua_laptop_takeout.jpg,0,4,0,0,1,1,"flowers
 in
 vase",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_915__childrens_outdoor_meal.jpg,0,5,0,0,1,1,"person
-facing
-street",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_480__garden_park_bench.jpg,0,6,0,0,1,1,"childrens
-outdoor
-meal",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_272__broadway_street_sign.jpg,0,5,0,0,1,1,"chihuahua
+laptop
+takeout",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_480__garden_park_bench.jpg,0,6,0,0,1,1,"broadway
+street
+sign",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,7,0,0,1,1,"garden
 park
 bench",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_847__man_in_suit.jpg,0,8,0,0,1,1,"urban
+stimuli_labeled/coco_shared_732__child_flying_kite.jpg,0,8,0,0,1,1,"urban
 stadium
 view",1,"[9, 22, 35]"
-blank.jpg,0,9,1,0,1,1,"man
-in
-suit",1,"[9, 22, 35]"
+blank.jpg,0,9,1,0,1,1,"child
+flying
+kite",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_765__teddy_bear_hug.jpg,0,10,0,0,1,1,blank,1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_416__seniors_playing_videogames.jpg,0,11,0,0,1,1,"teddy
 bear
 hug",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_2967__man_reading_newspaper.jpg,0,12,0,0,1,1,"seniors
+stimuli_labeled/coco_nonshared_45324__antique_bed_pillows.jpg,0,12,0,0,1,1,"seniors
 playing
 videogames",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_160__messy_porch_furniture.jpg,0,13,0,0,1,1,"man
-reading
-newspaper",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_160__messy_porch_furniture.jpg,0,13,0,0,1,1,"antique
+bed
+pillows",1,"[9, 22, 35]"
 stimuli_labeled/coco_nonshared_28190__hospital_recovery_room.jpg,0,14,0,0,1,1,"messy
 porch
 furniture",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_747__white_city_bus.jpg,0,15,0,0,1,1,"hospital
 recovery
 room",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_662__train_bridge_river.jpg,0,16,0,0,1,1,"white
+stimuli_labeled/coco_shared_612__cyclist_smoking_phone.jpg,0,16,0,0,1,1,"white
 city
 bus",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,17,0,0,1,1,"train
-bridge
-river",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_167__red_telephone_booth.jpg,0,17,0,0,1,1,"cyclist
+smoking
+phone",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,18,0,0,1,1,"red
 telephone
 booth",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_99__open_stocked_refrigerator.jpg,0,19,0,0,1,1,"woman
 brushing
 teeth",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_84__boats_forest_harbor.jpg,0,20,0,0,1,1,"open
+stimuli_labeled/coco_shared_263__train_passing_lighthouse.jpg,0,20,0,0,1,1,"open
 stocked
 refrigerator",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_39764__man_jumping_midair.jpg,0,21,0,0,1,1,"boats
-forest
-harbor",1,"[9, 22, 35]"
-blank.jpg,0,22,1,0,1,1,"man
-jumping
-midair",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_845__woman_walking_telephoning.jpg,0,23,0,0,1,1,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_324__black_cat_resting.jpg,0,24,0,0,1,1,"woman
-walking
-telephoning",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_7031__unmade_messy_bed.jpg,0,21,0,0,1,1,"train
+passing
+lighthouse",1,"[9, 22, 35]"
+blank.jpg,0,22,1,0,1,1,"unmade
+messy
+bed",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_144__bathroom_sink_reflection.jpg,0,23,0,0,1,1,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_324__black_cat_resting.jpg,0,24,0,0,1,1,"bathroom
+sink
+reflection",1,"[9, 22, 35]"
 stimuli_labeled/album9__colorful_flower_display.jpg,0,25,0,0,1,1,"black
 cat
 resting",1,"[9, 22, 35]"
@@ -76,27 +76,27 @@ flower
 display",1,"[9, 22, 35]"
 stimuli_labeled/extra20__trumpeter_playing_park.jpg,0,27,0,0,1,1,"children
 photo",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_30954__protester_airstream_sign.jpg,0,28,0,0,1,1,"trumpeter
+stimuli_labeled/coco_nonshared_8108__street_fruit_vendors.jpg,0,28,0,0,1,1,"trumpeter
 playing
 park",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_233__man_feeding_meter.jpg,0,29,0,0,1,1,"protester
-airstream
-sign",1,"[9, 22, 35]"
-stimuli_labeled/extra14__orange_monolith_park.jpg,0,30,0,0,1,1,"man
+stimuli_labeled/coco_shared_233__man_feeding_meter.jpg,0,29,0,0,1,1,"street
+fruit
+vendors",1,"[9, 22, 35]"
+stimuli_labeled/extra23__red_wooden_crate.jpg,0,30,0,0,1,1,"man
 feeding
 meter",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_762__dinner_party_table.jpg,0,31,0,0,1,1,"orange
-monolith
-park",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_293__pizza_outdoor_eating.jpg,0,32,0,0,1,1,"dinner
-party
-table",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_883__bathroom_vanity_mirror.jpg,0,33,0,0,1,1,"pizza
+stimuli_labeled/coco_shared_790__patterned_bathroom_decor.jpg,0,31,0,0,1,1,"red
+wooden
+crate",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_293__pizza_outdoor_eating.jpg,0,32,0,0,1,1,"patterned
+bathroom
+decor",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_239__kite_flying_rocks.jpg,0,33,0,0,1,1,"pizza
 outdoor
 eating",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_556__sleepy_cat_face.jpg,0,34,0,0,1,1,"bathroom
-vanity
-mirror",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_556__sleepy_cat_face.jpg,0,34,0,0,1,1,"kite
+flying
+rocks",1,"[9, 22, 35]"
 blank.jpg,0,35,1,1,1,1,"sleepy
 cat
 face",0,"[9, 22, 35]"

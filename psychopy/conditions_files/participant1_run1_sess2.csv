@@ -3,15 +3,15 @@ stimuli_labeled/coco_nonshared_27129__abandoned_dusty_bed.jpg,0,0,0,0,1,2,blank,
 stimuli_labeled/coco_shared_51__yellow_fire_hydrant.jpg,0,1,0,0,1,2,"abandoned
 dusty
 bed",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_743__tourist_photographing_waterfall.jpg,0,2,0,0,1,2,"yellow
+stimuli_labeled/coco_shared_876__woman_dog_bench.jpg,0,2,0,0,1,2,"yellow
 fire
 hydrant",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_578__woman_with_umbrella.jpg,0,3,0,0,1,2,"tourist
-photographing
-waterfall",1,"[9, 22, 35]"
-stimuli_labeled/extra43__man_drinking_coffee.jpg,0,4,0,0,1,2,"woman
-with
-umbrella",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_60__cyclist_on_street.jpg,0,3,0,0,1,2,"woman
+dog
+bench",1,"[9, 22, 35]"
+stimuli_labeled/extra43__man_drinking_coffee.jpg,0,4,0,0,1,2,"cyclist
+on
+street",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_441__illuminated_waterfront_canopy.jpg,0,5,0,0,1,2,"man
 drinking
 coffee",1,"[9, 22, 35]"
@@ -27,78 +27,77 @@ bed",1,"[9, 22, 35]"
 blank.jpg,0,9,1,0,1,2,"colorful
 city
 buses",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_33733__cat_obscuring_face.jpg,0,10,0,0,1,2,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_548__smartphone_flip_phone_charger.jpg,0,11,0,0,1,2,"cat
-obscuring
-face",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_68__bus_stop_advertisement.jpg,0,12,0,0,1,2,"smartphone
-flip
-phone
-charger",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_49167__dog_under_desk.jpg,0,13,0,0,1,2,"bus
-stop
-advertisement",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_33304__cats_person_bed.jpg,0,14,0,0,1,2,"dog
-under
-desk",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_56908__vintage_wooden_skis.jpg,0,15,0,0,1,2,"cats
-person
-bed",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_379__train_bridge_skyscraper.jpg,0,16,0,0,1,2,"vintage
-wooden
-skis",1,"[9, 22, 35]"
-stimuli_labeled/extra30__man_trumpet_cat.jpg,0,17,0,0,1,2,"train
-bridge
-skyscraper",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_23248__cats_touching_paws.jpg,0,18,0,0,1,2,"man
-trumpet
-cat",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_968__crowded_city_corner.jpg,0,19,0,0,1,2,"cats
-touching
-paws",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_828__vintage_steam_locomotive.jpg,0,20,0,0,1,2,"crowded
-city
-corner",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_330__congested_urban_highway.jpg,0,21,0,0,1,2,"vintage
-steam
-locomotive",1,"[9, 22, 35]"
-blank.jpg,0,22,1,0,1,2,"congested
-urban
-highway",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_30262__cat_getting_brushed.jpg,0,23,0,0,1,2,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_75__train_crossing_bridge.jpg,0,24,0,0,1,2,"cat
-getting
-brushed",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_53926__cat_human_closeup.jpg,0,25,0,0,1,2,"train
+stimuli_labeled/coco_nonshared_19373__window_framing_barn.jpg,0,10,0,0,1,2,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_246__doubledecker_bus_parked.jpg,0,11,0,0,1,2,"window
+framing
+barn",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_622__night_traffic_intersection.jpg,0,12,0,0,1,2,"doubledecker
+bus
+parked",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_48838__sleepy_dog_keyboard.jpg,0,13,0,0,1,2,"night
+traffic
+intersection",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_29299__dog_cat_napping.jpg,0,14,0,0,1,2,"sleepy
+dog
+keyboard",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_2999__urban_street_scene.jpg,0,15,0,0,1,2,"dog
+cat
+napping",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_274__dog_in_car.jpg,0,16,0,0,1,2,"urban
+street
+scene",1,"[9, 22, 35]"
+stimuli_labeled/extra6__dog_in_snow.jpg,0,17,0,0,1,2,"dog
+in
+car",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_13108__motorcyclist_passing_bicycles.jpg,0,18,0,0,1,2,"dog
+in
+snow",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_75__train_crossing_bridge.jpg,0,19,0,0,1,2,"motorcyclist
+passing
+bicycles",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_847__man_in_suit.jpg,0,20,0,0,1,2,"train
 crossing
 bridge",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_166__crowded_indian_bus.jpg,0,26,0,0,1,2,"cat
-human
-closeup",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_42321__dog_camera_person.jpg,0,27,0,0,1,2,"crowded
+stimuli_labeled/coco_shared_859__fluffy_cat_windowsill.jpg,0,21,0,0,1,2,"man
+in
+suit",1,"[9, 22, 35]"
+blank.jpg,0,22,1,0,1,2,"fluffy
+cat
+windowsill",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_1666__new_york_street.jpg,0,23,0,0,1,2,blank,1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_70__yellow_fire_hydrant.jpg,0,24,0,0,1,2,"new
+york
+street",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_67146__antique_wicker_wheelchair.jpg,0,25,0,0,1,2,"yellow
+fire
+hydrant",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_166__crowded_indian_bus.jpg,0,26,0,0,1,2,"antique
+wicker
+wheelchair",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_13631__sleeping_dog_cat.jpg,0,27,0,0,1,2,"crowded
 indian
 bus",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_194__creamcolored_lounging_cat.jpg,0,28,0,0,1,2,"dog
-camera
-person",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_300__cat_on_quilt.jpg,0,29,0,0,1,2,"creamcolored
-lounging
+stimuli_labeled/coco_shared_744__happy_smiling_dog.jpg,0,28,0,0,1,2,"sleeping
+dog
 cat",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_18990__abandoned_suitcase_room.jpg,0,30,0,0,1,2,"cat
+stimuli_labeled/coco_shared_300__cat_on_quilt.jpg,0,29,0,0,1,2,"happy
+smiling
+dog",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_43641__colorful_spiked_wood.jpg,0,30,0,0,1,2,"cat
 on
 quilt",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_127__modern_kitchen_cabinets.jpg,0,31,0,0,1,2,"abandoned
-suitcase
-room",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_757__small_toilet_room.jpg,0,32,0,0,1,2,"modern
-kitchen
-cabinets",1,"[9, 22, 35]"
-stimuli_labeled/album11__colorful_fruit_stand.jpg,0,33,0,0,1,2,"small
-toilet
-room",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_44375__television_shows_bedroom.jpg,0,34,0,0,1,2,"colorful
+stimuli_labeled/coco_shared_172__decayed_wall_clock.jpg,0,31,0,0,1,2,"colorful
+spiked
+wood",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_791__historic_clock_tower.jpg,0,32,0,0,1,2,"decayed
+wall
+clock",1,"[9, 22, 35]"
+stimuli_labeled/album11__colorful_fruit_stand.jpg,0,33,0,0,1,2,"historic
+clock
+tower",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_28973__model_boat_display.jpg,0,34,0,0,1,2,"colorful
 fruit
 stand",1,"[9, 22, 35]"
-blank.jpg,0,35,1,1,1,2,"television
-shows
-bedroom",0,"[9, 22, 35]"
+blank.jpg,0,35,1,1,1,2,"model
+boat
+display",0,"[9, 22, 35]"

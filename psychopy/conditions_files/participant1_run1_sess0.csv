@@ -1,29 +1,29 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
 stimuli_labeled/coco_shared_706__dogs_playing_outdoors.jpg,0,0,0,0,1,0,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_54136__cat_and_dog.jpg,0,1,0,0,1,0,"dogs
+stimuli_labeled/coco_nonshared_55656__turquoise_decorative_objects.jpg,0,1,0,0,1,0,"dogs
 playing
 outdoors",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_251__red_cups_stacked.jpg,0,2,0,0,1,0,"cat
-and
-dog",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_251__red_cups_stacked.jpg,0,2,0,0,1,0,"turquoise
+decorative
+objects",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_898__striped_alert_cat.jpg,0,3,0,0,1,0,"red
 cups
 stacked",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_178__metal_scissors_closeup.jpg,0,4,0,0,1,0,"striped
+stimuli_labeled/coco_shared_544__lake_mountain_boat.jpg,0,4,0,0,1,0,"striped
 alert
 cat",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,5,0,0,1,0,"metal
-scissors
-closeup",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_993__woman_brushing_teeth.jpg,0,5,0,0,1,0,"lake
+mountain
+boat",1,"[9, 22, 35]"
 stimuli_labeled/album3__dad_at_store.jpg,0,6,0,0,1,0,"woman
 brushing
 teeth",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_648__cozy_living_room.jpg,0,7,0,0,1,0,"dad
+stimuli_labeled/coco_shared_220__karaoke_party_scene.jpg,0,7,0,0,1,0,"dad
 at
 store",1,"[9, 22, 35]"
-stimuli_labeled/album6__three_young_girls.jpg,0,8,0,0,1,0,"cozy
-living
-room",1,"[9, 22, 35]"
+stimuli_labeled/album6__three_young_girls.jpg,0,8,0,0,1,0,"karaoke
+party
+scene",1,"[9, 22, 35]"
 blank.jpg,0,9,1,0,1,0,"three
 young
 girls",1,"[9, 22, 35]"
@@ -31,33 +31,33 @@ stimuli_labeled/coco_shared_159__dog_frisbee_grass.jpg,0,10,0,0,1,0,blank,1,"[9,
 stimuli_labeled/coco_shared_838__man_eating_sandwich.jpg,0,11,0,0,1,0,"dog
 frisbee
 grass",1,"[9, 22, 35]"
-stimuli_labeled/extra17__trumpeter_at_window.jpg,0,12,0,0,1,0,"man
+stimuli_labeled/extra44__smiling_man_glasses.jpg,0,12,0,0,1,0,"man
 eating
 sandwich",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_135__man_speaking_microphone.jpg,0,13,0,0,1,0,"trumpeter
-at
-window",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_825__wooden_bunk_beds.jpg,0,14,0,0,1,0,"man
+stimuli_labeled/coco_shared_135__man_speaking_microphone.jpg,0,13,0,0,1,0,"smiling
+man
+glasses",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_260__dog_in_chair.jpg,0,14,0,0,1,0,"man
 speaking
 microphone",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_856__boardwalk_benches_oceanfront.jpg,0,15,0,0,1,0,"wooden
-bunk
-beds",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_856__boardwalk_benches_oceanfront.jpg,0,15,0,0,1,0,"dog
+in
+chair",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_747__white_city_bus.jpg,0,16,0,0,1,0,"boardwalk
 benches
 oceanfront",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_779__luggage_compartment_packed.jpg,0,17,0,0,1,0,"white
 city
 bus",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_363__modern_bathroom_interior.jpg,0,18,0,0,1,0,"luggage
+stimuli_labeled/coco_shared_712__vintage_red_motorcycle.jpg,0,18,0,0,1,0,"luggage
 compartment
 packed",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_831__calm_winter_river.jpg,0,19,0,0,1,0,"modern
+stimuli_labeled/coco_shared_164__luxurious_bathroom_counter.jpg,0,19,0,0,1,0,"vintage
+red
+motorcycle",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_638__tricolored_corgi_dog.jpg,0,20,0,0,1,0,"luxurious
 bathroom
-interior",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_638__tricolored_corgi_dog.jpg,0,20,0,0,1,0,"calm
-winter
-river",1,"[9, 22, 35]"
+counter",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_285__woman_walking_dog.jpg,0,21,0,0,1,0,"tricolored
 corgi
 dog",1,"[9, 22, 35]"
@@ -65,40 +65,40 @@ blank.jpg,0,22,1,0,1,0,"woman
 walking
 dog",1,"[9, 22, 35]"
 stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,23,0,0,1,0,blank,1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_57892__busy_urban_street.jpg,0,24,0,0,1,0,"dad
+stimuli_labeled/coco_nonshared_2967__man_reading_newspaper.jpg,0,24,0,0,1,0,"dad
 dog
 lick
 feet",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_6148__bed_by_window.jpg,0,25,0,0,1,0,"busy
-urban
-street",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_726__clock_on_pattern.jpg,0,26,0,0,1,0,"bed
-by
-window",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_52752__yellow_taxi_fruit.jpg,0,27,0,0,1,0,"clock
-on
-pattern",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_807__computer_desk_workspace.jpg,0,28,0,0,1,0,"yellow
-taxi
-fruit",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_66302__political_sign_man.jpg,0,25,0,0,1,0,"man
+reading
+newspaper",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_692__yellow_commuter_trains.jpg,0,26,0,0,1,0,"political
+sign
+man",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_20320__dog_cat_cuddle.jpg,0,27,0,0,1,0,"yellow
+commuter
+trains",1,"[9, 22, 35]"
+stimuli_labeled/coco_shared_807__computer_desk_workspace.jpg,0,28,0,0,1,0,"dog
+cat
+cuddle",1,"[9, 22, 35]"
 stimuli_labeled/coco_shared_561__two_men_dining.jpg,0,29,0,0,1,0,"computer
 desk
 workspace",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_657__small_beige_bathroom.jpg,0,30,0,0,1,0,"two
+stimuli_labeled/coco_shared_196__patterned_rug_livingroom.jpg,0,30,0,0,1,0,"two
 men
 dining",1,"[9, 22, 35]"
-stimuli_labeled/coco_shared_348__heartshaped_kite_flying.jpg,0,31,0,0,1,0,"small
-beige
-bathroom",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_37395__ancient_greek_pottery.jpg,0,32,0,0,1,0,"heartshaped
+stimuli_labeled/coco_shared_348__heartshaped_kite_flying.jpg,0,31,0,0,1,0,"patterned
+rug
+livingroom",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_14116__woman_cat_couch.jpg,0,32,0,0,1,0,"heartshaped
 kite
 flying",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_4884__mannequin_with_skeletons.jpg,0,33,0,0,1,0,"ancient
-greek
-pottery",1,"[9, 22, 35]"
-stimuli_labeled/coco_nonshared_34706__dog_under_desk.jpg,0,34,0,0,1,0,"mannequin
-with
-skeletons",1,"[9, 22, 35]"
-blank.jpg,0,35,1,1,1,0,"dog
-under
-desk",0,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_22766__cyclist_pedestrians_intersection.jpg,0,33,0,0,1,0,"woman
+cat
+couch",1,"[9, 22, 35]"
+stimuli_labeled/coco_nonshared_27393__teddy_bear_bed.jpg,0,34,0,0,1,0,"cyclist
+pedestrians
+intersection",1,"[9, 22, 35]"
+blank.jpg,0,35,1,1,1,0,"teddy
+bear
+bed",0,"[9, 22, 35]"

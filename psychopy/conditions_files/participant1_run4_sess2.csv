@@ -1,33 +1,33 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_nonshared_53593__fluffy_chihuahua_reading.jpg,0,0,0,0,4,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,1,0,0,4,2,"fluffy
-chihuahua
-reading",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_8__cat_on_car.jpg,0,2,0,0,4,2,"orange
+stimuli_labeled/coco_nonshared_67234__sunlit_urban_intersection.jpg,0,0,0,0,4,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/target2__orange_crate_fruit_shop.jpg,0,1,0,0,4,2,"sunlit
+urban
+intersection",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_389__modern_kitchen_interior.jpg,0,2,0,0,4,2,"orange
 crate
 fruit
 shop",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,3,0,0,4,2,"cat
-on
-car",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_278__cat_in_suitcase.jpg,0,4,0,0,4,2,"yawning
+stimuli_labeled/coco_shared_364__yawning_kitchen_person.jpg,0,3,0,0,4,2,"modern
+kitchen
+interior",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_363__modern_bathroom_interior.jpg,0,4,0,0,4,2,"yawning
 kitchen
 person",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_26164__child_cat_sleeping.jpg,0,5,0,0,4,2,"cat
-in
-suitcase",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_214__modern_dining_table.jpg,0,6,0,0,4,2,"child
-cat
-sleeping",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_22__ornate_clock_tower.jpg,0,7,0,0,4,2,"modern
-dining
-table",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_13631__sleeping_dogs_cuddling.jpg,0,8,0,0,4,2,"ornate
-clock
-tower",1,"[9, 20, 35]"
-blank.jpg,0,9,1,0,4,2,"sleeping
-dogs
-cuddling",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_63881__charging_phones_outdoors.jpg,0,5,0,0,4,2,"modern
+bathroom
+interior",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_282__colorful_fishing_boats.jpg,0,6,0,0,4,2,"charging
+phones
+outdoors",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_608__elder_on_bench.jpg,0,7,0,0,4,2,"colorful
+fishing
+boats",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_36478__cluttered_antique_collection.jpg,0,8,0,0,4,2,"elder
+on
+bench",1,"[9, 20, 35]"
+blank.jpg,0,9,1,0,4,2,"cluttered
+antique
+collection",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_15__cluttered_living_room.jpg,0,10,0,0,4,2,blank,1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_638__tricolored_corgi_dog.jpg,0,11,0,0,4,2,"cluttered
 living
@@ -38,15 +38,15 @@ dog",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_360__yellow_fire_hydrant.jpg,0,13,0,0,4,2,"white
 microwave
 oven",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_6828__cats_hair_bed.jpg,0,14,0,0,4,2,"yellow
+stimuli_labeled/coco_nonshared_64709__messy_unmade_bed.jpg,0,14,0,0,4,2,"yellow
 fire
 hydrant",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_27116__protest_signs_displayed.jpg,0,15,0,0,4,2,"cats
-hair
+stimuli_labeled/coco_nonshared_66898__rainy_outdoor_market.jpg,0,15,0,0,4,2,"messy
+unmade
 bed",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_257__subway_smartphone_users.jpg,0,16,0,0,4,2,"protest
-signs
-displayed",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_257__subway_smartphone_users.jpg,0,16,0,0,4,2,"rainy
+outdoor
+market",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_708__smiling_toddler_couch.jpg,0,17,0,0,4,2,"subway
 smartphone
 users",1,"[9, 20, 35]"
@@ -60,46 +60,46 @@ trumpet",1,"[9, 20, 35]"
 blank.jpg,0,20,1,0,4,2,"colorful
 passenger
 train",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_613__solar_parking_meter.jpg,0,21,0,0,4,2,blank,1,"[9, 20, 35]"
-stimuli_labeled/extra10__smiling_violinist_performing.jpg,0,22,0,0,4,2,"solar
-parking
-meter",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_410__motorcycle_door_shutter.jpg,0,21,0,0,4,2,blank,1,"[9, 20, 35]"
+stimuli_labeled/extra10__smiling_violinist_performing.jpg,0,22,0,0,4,2,"motorcycle
+door
+shutter",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_109__vintage_steam_locomotive.jpg,0,23,0,0,4,2,"smiling
 violinist
 performing",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_7031__unmade_messy_bed.jpg,0,24,0,0,4,2,"vintage
+stimuli_labeled/coco_nonshared_31765__urban_cyclist_crossing.jpg,0,24,0,0,4,2,"vintage
 steam
 locomotive",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_33108__folded_wooden_chairs.jpg,0,25,0,0,4,2,"unmade
-messy
+stimuli_labeled/coco_nonshared_10466__books_on_bed.jpg,0,25,0,0,4,2,"urban
+cyclist
+crossing",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_21193__street_artist_painting.jpg,0,26,0,0,4,2,"books
+on
 bed",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_47682__busy_chinatown_street.jpg,0,26,0,0,4,2,"folded
-wooden
-chairs",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_69134__man_cats_couch.jpg,0,27,0,0,4,2,"busy
-chinatown
-street",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_21895__person_levitating_bed.jpg,0,28,0,0,4,2,"man
-cats
-couch",1,"[9, 20, 35]"
-stimuli_labeled/extra34__statue_in_park.jpg,0,29,0,0,4,2,"person
-levitating
-bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_19905__busy_new_york_intersection.jpg,0,27,0,0,4,2,"street
+artist
+painting",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_52752__yellow_taxi_fruit.jpg,0,28,0,0,4,2,"busy
+new
+york
+intersection",1,"[9, 20, 35]"
+stimuli_labeled/extra34__statue_in_park.jpg,0,29,0,0,4,2,"yellow
+taxi
+fruit",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_347__park_bench_pathway.jpg,0,30,0,0,4,2,"statue
 in
 park",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_826__redcoated_porters_boarding.jpg,0,31,0,0,4,2,"park
+stimuli_labeled/coco_shared_808__yellow_doubledecker_bus.jpg,0,31,0,0,4,2,"park
 bench
 pathway",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_692__yellow_commuter_trains.jpg,0,32,0,0,4,2,"redcoated
-porters
-boarding",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_17523__person_and_cat.jpg,0,33,0,0,4,2,"yellow
-commuter
-trains",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_729__umbrella_underpass_solitude.jpg,0,34,0,0,4,2,"person
-and
-cat",1,"[9, 20, 35]"
-blank.jpg,0,35,1,1,4,2,"umbrella
-underpass
-solitude",0,"[9, 20, 35]"
+stimuli_labeled/coco_shared_941__airport_luggage_carousel.jpg,0,32,0,0,4,2,"yellow
+doubledecker
+bus",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_11132__unmade_messy_bed.jpg,0,33,0,0,4,2,"airport
+luggage
+carousel",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_580__scissors_sharpie.jpg,0,34,0,0,4,2,"unmade
+messy
+bed",1,"[9, 20, 35]"
+blank.jpg,0,35,1,1,4,2,"scissors
+sharpie",0,"[9, 20, 35]"

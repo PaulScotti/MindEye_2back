@@ -1,105 +1,104 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_783__apple_computer_setup.jpg,0,0,0,0,9,2,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_255__hotel_bedroom_interior.jpg,0,1,0,0,9,2,"apple
-computer
-setup",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_235__hairdresser_blowdrying_customer.jpg,0,0,0,0,9,2,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_255__hotel_bedroom_interior.jpg,0,1,0,0,9,2,"hairdresser
+blowdrying
+customer",1,"[11, 22, 35]"
 stimuli_labeled/target0__dad_dog_lick_feet.jpg,0,2,0,0,9,2,"hotel
 bedroom
 interior",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_22976__free_cell_charging.jpg,0,3,0,0,9,2,"dad
+stimuli_labeled/coco_nonshared_41399__bicycles_bench_chairs.jpg,0,3,0,0,9,2,"dad
 dog
 lick
 feet",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_654__buddhist_temple_entrance.jpg,0,4,0,0,9,2,"free
-cell
-charging",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_654__buddhist_temple_entrance.jpg,0,4,0,0,9,2,"bicycles
+bench
+chairs",1,"[11, 22, 35]"
 stimuli_labeled/coco_shared_782__computer_setup_ergonomic.jpg,0,5,0,0,9,2,"buddhist
 temple
 entrance",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_813__dogs_family_waterfront.jpg,0,6,0,0,9,2,"computer
+stimuli_labeled/coco_shared_276__dining_women_smiling.jpg,0,6,0,0,9,2,"computer
 setup
 ergonomic",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_606__man_on_phone.jpg,0,7,0,0,9,2,"dogs
-family
-waterfront",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_561__two_men_dining.jpg,0,8,0,0,9,2,"man
-on
-phone",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_558__kite_flying_family.jpg,0,9,0,0,9,2,"two
+stimuli_labeled/coco_shared_722__vintage_ornate_bathroom.jpg,0,7,0,0,9,2,"dining
+women
+smiling",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_561__two_men_dining.jpg,0,8,0,0,9,2,"vintage
+ornate
+bathroom",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_122__hanging_kitchen_pots.jpg,0,9,0,0,9,2,"two
 men
 dining",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_216__park_path_people.jpg,0,10,0,0,9,2,"kite
-flying
-family",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_216__park_path_people.jpg,0,10,0,0,9,2,"hanging
+kitchen
+pots",1,"[11, 22, 35]"
 blank.jpg,0,11,1,0,9,2,"park
 path
 people",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_13__laptop_on_bed.jpg,0,12,0,0,9,2,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_926__bus_church_snow.jpg,0,13,0,0,9,2,"laptop
-on
-bed",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_727__night_italian_cafe.jpg,0,14,0,0,9,2,"bus
-church
-snow",1,"[11, 22, 35]"
-stimuli_labeled/album16__father_daughter_embrace.jpg,0,15,0,0,9,2,"night
-italian
-cafe",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_190__cat_on_bench.jpg,0,16,0,0,9,2,"father
+stimuli_labeled/coco_shared_382__illuminated_street_clock.jpg,0,12,0,0,9,2,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_304__colorful_locomotive_approaching.jpg,0,13,0,0,9,2,"illuminated
+street
+clock",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_306__cat_shoes_sunlight.jpg,0,14,0,0,9,2,"colorful
+locomotive
+approaching",1,"[11, 22, 35]"
+stimuli_labeled/album16__father_daughter_embrace.jpg,0,15,0,0,9,2,"cat
+shoes
+sunlight",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_569__outdoor_bar_umbrella.jpg,0,16,0,0,9,2,"father
 daughter
 embrace",1,"[11, 22, 35]"
-stimuli_labeled/extra29__trumpeter_in_park.jpg,0,17,0,0,9,2,"cat
-on
-bench",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_432__dog_under_lounger.jpg,0,18,0,0,9,2,"trumpeter
+stimuli_labeled/extra29__trumpeter_in_park.jpg,0,17,0,0,9,2,"outdoor
+bar
+umbrella",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_922__seagull_post_lighthouse.jpg,0,18,0,0,9,2,"trumpeter
 in
 park",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_36__bus_in_street.jpg,0,19,0,0,9,2,"dog
-under
-lounger",1,"[11, 22, 35]"
-stimuli_labeled/extra44__smiling_man_glasses.jpg,0,20,0,0,9,2,"bus
-in
-street",1,"[11, 22, 35]"
-stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,21,0,0,9,2,"smiling
-man
-glasses",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_819__laptop_mouse_notebook.jpg,0,19,0,0,9,2,"seagull
+post
+lighthouse",1,"[11, 22, 35]"
+stimuli_labeled/extra32__park_violinist_performing.jpg,0,20,0,0,9,2,"laptop
+mouse
+notebook",1,"[11, 22, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,21,0,0,9,2,"park
+violinist
+performing",1,"[11, 22, 35]"
 blank.jpg,0,22,1,0,9,2,"madison
 sq
 park
 trumpet",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_49685__urban_traffic_cylinder.jpg,0,23,0,0,9,2,blank,1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_685__lighthouse_rocks_boat.jpg,0,24,0,0,9,2,"urban
-traffic
-cylinder",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_56089__vintage_decorative_wall.jpg,0,23,0,0,9,2,blank,1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_685__lighthouse_rocks_boat.jpg,0,24,0,0,9,2,"vintage
+decorative
+wall",1,"[11, 22, 35]"
 stimuli_labeled/coco_shared_344__messy_unmade_bed.jpg,0,25,0,0,9,2,"lighthouse
 rocks
 boat",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_810__messy_unmade_bed.jpg,0,26,0,0,9,2,"messy
+stimuli_labeled/coco_nonshared_12137__messy_bed.jpg,0,26,0,0,9,2,"messy
 unmade
 bed",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_56089__vintage_decorative_wall.jpg,0,27,0,0,9,2,"messy
-unmade
+stimuli_labeled/coco_nonshared_8289__cat_on_bedding.jpg,0,27,0,0,9,2,"messy
 bed",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_897__yellow_fire_hydrant.jpg,0,28,0,0,9,2,"vintage
-decorative
-wall",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_897__yellow_fire_hydrant.jpg,0,28,0,0,9,2,"cat
+on
+bedding",1,"[11, 22, 35]"
 stimuli_labeled/coco_shared_820__children_playing_videogames.jpg,0,29,0,0,9,2,"yellow
 fire
 hydrant",1,"[11, 22, 35]"
 stimuli_labeled/extra24__smoking_man_stairs.jpg,0,30,0,0,9,2,"children
 playing
 videogames",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_64709__messy_unmade_bed.jpg,0,31,0,0,9,2,"smoking
+stimuli_labeled/coco_nonshared_11266__bicycle_pedestrians_motion.jpg,0,31,0,0,9,2,"smoking
 man
 stairs",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_726__clock_on_pattern.jpg,0,32,0,0,9,2,"messy
-unmade
-bed",1,"[11, 22, 35]"
-stimuli_labeled/coco_shared_706__dogs_playing_outdoors.jpg,0,33,0,0,9,2,"clock
-on
-pattern",1,"[11, 22, 35]"
-stimuli_labeled/coco_nonshared_26304__cats_snuggling_together.jpg,0,34,0,0,9,2,"dogs
+stimuli_labeled/coco_shared_692__yellow_commuter_trains.jpg,0,32,0,0,9,2,"bicycle
+pedestrians
+motion",1,"[11, 22, 35]"
+stimuli_labeled/coco_shared_706__dogs_playing_outdoors.jpg,0,33,0,0,9,2,"yellow
+commuter
+trains",1,"[11, 22, 35]"
+stimuli_labeled/coco_nonshared_8619__ancient_ceramic_vessel.jpg,0,34,0,0,9,2,"dogs
 playing
 outdoors",1,"[11, 22, 35]"
-blank.jpg,0,35,1,1,9,2,"cats
-snuggling
-together",0,"[11, 22, 35]"
+blank.jpg,0,35,1,1,9,2,"ancient
+ceramic
+vessel",0,"[11, 22, 35]"

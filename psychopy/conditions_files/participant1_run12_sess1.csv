@@ -1,100 +1,100 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_nonshared_33205__protesters_holding_signs.jpg,0,0,0,0,12,1,blank,1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_286__train_station_platform.jpg,0,1,0,0,12,1,"protesters
-holding
-signs",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_220__karaoke_party_scene.jpg,0,2,0,0,12,1,"train
+stimuli_labeled/coco_nonshared_45573__unmade_bed_curtains.jpg,0,0,0,0,12,1,blank,1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_286__train_station_platform.jpg,0,1,0,0,12,1,"unmade
+bed
+curtains",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_373__colorful_beach_umbrella.jpg,0,2,0,0,12,1,"train
 station
 platform",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_478__gold_pole_foreground.jpg,0,3,0,0,12,1,"karaoke
-party
-scene",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_42662__dog_cat_slippers.jpg,0,4,0,0,12,1,"gold
+stimuli_labeled/coco_shared_478__gold_pole_foreground.jpg,0,3,0,0,12,1,"colorful
+beach
+umbrella",1,"[11, 20, 35]"
+stimuli_labeled/coco_nonshared_10204__storefront_shoes_reflection.jpg,0,4,0,0,12,1,"gold
 pole
 foreground",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_55088__fluffy_dog_collage.jpg,0,5,0,0,12,1,"dog
-cat
-slippers",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_744__happy_smiling_dog.jpg,0,6,0,0,12,1,"fluffy
-dog
-collage",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_796__hospital_room_bed.jpg,0,7,0,0,12,1,"happy
-smiling
-dog",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_123__modern_sleek_kitchen.jpg,0,8,0,0,12,1,"hospital
+stimuli_labeled/coco_nonshared_26721__ancient_mayan_pottery.jpg,0,5,0,0,12,1,"storefront
+shoes
+reflection",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_443__wine_tasting_gathering.jpg,0,6,0,0,12,1,"ancient
+mayan
+pottery",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_796__hospital_room_bed.jpg,0,7,0,0,12,1,"wine
+tasting
+gathering",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_578__woman_with_umbrella.jpg,0,8,0,0,12,1,"hospital
 room
 bed",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_107__boats_on_dock.jpg,0,9,0,0,12,1,"modern
-sleek
-kitchen",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_513__maroon_kitchen_cabinets.jpg,0,10,0,0,12,1,"boats
+stimuli_labeled/coco_shared_107__boats_on_dock.jpg,0,9,0,0,12,1,"woman
+with
+umbrella",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,0,10,0,0,12,1,"boats
 on
 dock",1,"[11, 20, 35]"
-blank.jpg,0,11,1,0,12,1,"maroon
-kitchen
-cabinets",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_922__seagull_post_lighthouse.jpg,0,12,0,0,12,1,blank,1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,13,0,0,12,1,"seagull
-post
-lighthouse",1,"[11, 20, 35]"
+blank.jpg,0,11,1,0,12,1,"brick
+terraced
+houses",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_976__blue_orbit_bus.jpg,0,12,0,0,12,1,blank,1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_488__urban_stadium_view.jpg,0,13,0,0,12,1,"blue
+orbit
+bus",1,"[11, 20, 35]"
 stimuli_labeled/coco_nonshared_9915__abandoned_mattress_bedroom.jpg,0,14,0,0,12,1,"urban
 stadium
 view",1,"[11, 20, 35]"
 stimuli_labeled/coco_shared_393__modern_kitchen_island.jpg,0,15,0,0,12,1,"abandoned
 mattress
 bedroom",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_28659__dogs_faces_closeup.jpg,0,16,0,0,12,1,"modern
+stimuli_labeled/coco_nonshared_1855__cats_on_bedding.jpg,0,16,0,0,12,1,"modern
 kitchen
 island",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_32504__dog_sleeping_couch.jpg,0,17,0,0,12,1,"dogs
-faces
-closeup",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_405__yellow_traffic_light.jpg,0,18,0,0,12,1,"dog
-sleeping
-couch",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_393__modern_kitchen_island.jpg,1,19,0,0,12,1,"yellow
-traffic
-light",1,"[11, 20, 35]"
+stimuli_labeled/coco_nonshared_45693__sleeping_child_cat.jpg,0,17,0,0,12,1,"cats
+on
+bedding",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_269__roses_vases_green.jpg,0,18,0,0,12,1,"sleeping
+child
+cat",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_393__modern_kitchen_island.jpg,1,19,0,0,12,1,"roses
+vases
+green",1,"[11, 20, 35]"
 blank.jpg,0,20,1,0,12,1,"modern
 kitchen
 island",1,"[11, 20, 35]"
 stimuli_labeled/album15__family_gathering_snapshot.jpg,0,21,0,0,12,1,blank,1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_373__colorful_beach_umbrella.jpg,0,22,0,0,12,1,"family
+stimuli_labeled/coco_shared_123__modern_sleek_kitchen.jpg,0,22,0,0,12,1,"family
 gathering
 snapshot",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_416__seniors_playing_videogames.jpg,0,23,0,0,12,1,"colorful
-beach
-umbrella",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_416__seniors_playing_videogames.jpg,0,23,0,0,12,1,"modern
+sleek
+kitchen",1,"[11, 20, 35]"
 stimuli_labeled/extra25__autumn_maple_leaves.jpg,0,24,0,0,12,1,"seniors
 playing
 videogames",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_25383__relaxed_cats_dogs.jpg,0,25,0,0,12,1,"autumn
+stimuli_labeled/coco_nonshared_17420__woman_awaiting_taxi.jpg,0,25,0,0,12,1,"autumn
 maple
 leaves",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_919__smiling_schoolchild_portrait.jpg,0,26,0,0,12,1,"relaxed
-cats
-dogs",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_919__smiling_schoolchild_portrait.jpg,0,26,0,0,12,1,"woman
+awaiting
+taxi",1,"[11, 20, 35]"
 stimuli_labeled/coco_nonshared_67378__car_mirror_view.jpg,0,27,0,0,12,1,"smiling
 schoolchild
 portrait",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_306__cat_shoes_sunlight.jpg,0,28,0,0,12,1,"car
+stimuli_labeled/coco_shared_915__childrens_outdoor_meal.jpg,0,28,0,0,12,1,"car
 mirror
 view",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_6266__cyclist_in_stripes.jpg,0,29,0,0,12,1,"cat
-shoes
-sunlight",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_849__man_with_beard.jpg,0,30,0,0,12,1,"cyclist
-in
-stripes",1,"[11, 20, 35]"
-stimuli_labeled/coco_nonshared_5921__outdoor_community_gathering.jpg,0,31,0,0,12,1,"man
-with
-beard",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_513__maroon_kitchen_cabinets.jpg,1,32,0,0,12,1,"outdoor
-community
-gathering",1,"[11, 20, 35]"
-stimuli_labeled/coco_shared_945__red_london_bus.jpg,0,33,0,0,12,1,"maroon
-kitchen
-cabinets",1,"[11, 20, 35]"
+stimuli_labeled/coco_nonshared_6148__bed_by_window.jpg,0,29,0,0,12,1,"childrens
+outdoor
+meal",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_696__bathtub_toilet_faucet.jpg,0,30,0,0,12,1,"bed
+by
+window",1,"[11, 20, 35]"
+stimuli_labeled/coco_nonshared_4019__scissors_on_wall.jpg,0,31,0,0,12,1,"bathtub
+toilet
+faucet",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,1,32,0,0,12,1,"scissors
+on
+wall",1,"[11, 20, 35]"
+stimuli_labeled/coco_shared_945__red_london_bus.jpg,0,33,0,0,12,1,"brick
+terraced
+houses",1,"[11, 20, 35]"
 stimuli_labeled/coco_nonshared_19428__woman_cat_sunglasses.jpg,0,34,0,0,12,1,"red
 london
 bus",1,"[11, 20, 35]"

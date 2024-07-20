@@ -1,103 +1,101 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_shared_494__brick_terraced_houses.jpg,0,0,0,0,5,2,blank,1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_316__man_sleeping_bench.jpg,0,1,0,0,5,2,"brick
-terraced
-houses",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_169__historic_clock_tower.jpg,0,2,0,0,5,2,"man
-sleeping
-bench",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_45__red_kite_flying.jpg,0,3,0,0,5,2,"historic
-clock
-tower",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_34013__dog_nose_computer.jpg,0,4,0,0,5,2,"red
+stimuli_labeled/coco_shared_232__toilet_and_sink.jpg,0,0,0,0,5,2,blank,1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_854__rusty_river_boat.jpg,0,1,0,0,5,2,"toilet
+and
+sink",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_951__coffee_mug_keyboard.jpg,0,2,0,0,5,2,"rusty
+river
+boat",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_45__red_kite_flying.jpg,0,3,0,0,5,2,"coffee
+mug
+keyboard",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_25383__relaxed_cats_dogs.jpg,0,4,0,0,5,2,"red
 kite
 flying",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_61491__skulls_dracula_clock.jpg,0,5,0,0,5,2,"dog
-nose
-computer",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_61491__skulls_dracula_clock.jpg,0,5,0,0,5,2,"relaxed
+cats
+dogs",1,"[12, 20, 35]"
 stimuli_labeled/coco_shared_945__red_london_bus.jpg,0,6,0,0,5,2,"skulls
 dracula
 clock",1,"[12, 20, 35]"
 stimuli_labeled/coco_shared_604__vintage_orange_pickup.jpg,0,7,0,0,5,2,"red
 london
 bus",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_145__bike_hydrant_doorway.jpg,0,8,0,0,5,2,"vintage
+stimuli_labeled/coco_shared_485__vintage_yamaha_motorcycles.jpg,0,8,0,0,5,2,"vintage
 orange
 pickup",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_867__church_clock_towers.jpg,0,9,0,0,5,2,"bike
-hydrant
-doorway",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_991__cyclists_crossing_intersection.jpg,0,10,0,0,5,2,"church
+stimuli_labeled/coco_shared_87__wet_dog_bathtub.jpg,0,9,0,0,5,2,"vintage
+yamaha
+motorcycles",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_84__boats_forest_harbor.jpg,0,10,0,0,5,2,"wet
+dog
+bathtub",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_540__white_clock_tower.jpg,0,11,0,0,5,2,"boats
+forest
+harbor",1,"[12, 20, 35]"
+blank.jpg,0,12,1,0,5,2,"white
 clock
-towers",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_417__woman_on_bench.jpg,0,11,0,0,5,2,"cyclists
-crossing
-intersection",1,"[12, 20, 35]"
-blank.jpg,0,12,1,0,5,2,"woman
-on
-bench",1,"[12, 20, 35]"
+tower",1,"[12, 20, 35]"
 stimuli_labeled/coco_shared_987__iconic_london_bus.jpg,0,13,0,0,5,2,blank,1,"[12, 20, 35]"
 stimuli_labeled/extra22__man_dog_stairs.jpg,0,14,0,0,5,2,"iconic
 london
 bus",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_841__red_umbrella_overlook.jpg,0,15,0,0,5,2,"man
+stimuli_labeled/coco_shared_182__toilet.jpg,0,15,0,0,5,2,"man
 dog
 stairs",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_3594__ancient_stone_basin.jpg,0,16,0,0,5,2,"red
-umbrella
-overlook",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_39__boats_on_lake.jpg,0,17,0,0,5,2,"ancient
+stimuli_labeled/coco_nonshared_3594__ancient_stone_basin.jpg,0,16,0,0,5,2,toilet,1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_837__dog_in_mirror.jpg,0,17,0,0,5,2,"ancient
 stone
 basin",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_58728__guy_fawkes_mask.jpg,0,18,0,0,5,2,"boats
-on
-lake",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_546__hotel_room_interior.jpg,0,19,0,0,5,2,"guy
-fawkes
-mask",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_7401__ancient_egyptian_furniture.jpg,0,18,0,0,5,2,"dog
+in
+mirror",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_546__hotel_room_interior.jpg,0,19,0,0,5,2,"ancient
+egyptian
+furniture",1,"[12, 20, 35]"
 blank.jpg,0,20,1,0,5,2,"hotel
 room
 interior",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_230__passenger_train_approaching.jpg,0,21,0,0,5,2,blank,1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_52337__bookshelf_armchair_backpack.jpg,0,22,0,0,5,2,"passenger
-train
-approaching",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_29__girl_on_bed.jpg,0,23,0,0,5,2,"bookshelf
-armchair
-backpack",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_691__flowers_in_vase.jpg,0,21,0,0,5,2,blank,1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_39488__dilapidated_window_books.jpg,0,22,0,0,5,2,"flowers
+in
+vase",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_29__girl_on_bed.jpg,0,23,0,0,5,2,"dilapidated
+window
+books",1,"[12, 20, 35]"
 stimuli_labeled/coco_shared_638__tricolored_corgi_dog.jpg,0,24,0,0,5,2,"girl
 on
 bed",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_425__three_businessmen_walking.jpg,0,25,0,0,5,2,"tricolored
+stimuli_labeled/coco_shared_190__cat_on_bench.jpg,0,25,0,0,5,2,"tricolored
 corgi
 dog",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_1369__scooter_rider_downtown.jpg,0,26,0,0,5,2,"three
-businessmen
-walking",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_28973__model_boat_display.jpg,0,27,0,0,5,2,"scooter
-rider
-downtown",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_225__red_umbrella_foreground.jpg,0,28,0,0,5,2,"model
-boat
-display",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_953__luxurious_white_kitchen.jpg,0,29,0,0,5,2,"red
+stimuli_labeled/coco_nonshared_6828__cats_hair_bed.jpg,0,26,0,0,5,2,"cat
+on
+bench",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_15494__dog_in_office.jpg,0,27,0,0,5,2,"cats
+hair
+bed",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_225__red_umbrella_foreground.jpg,0,28,0,0,5,2,"dog
+in
+office",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_158__winetasting_bald_man.jpg,0,29,0,0,5,2,"red
 umbrella
 foreground",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_12720__bicycle_sign_hydrant.jpg,0,30,0,0,5,2,"luxurious
-white
-kitchen",1,"[12, 20, 35]"
-stimuli_labeled/coco_nonshared_45220__nightstand_with_electronics.jpg,0,31,0,0,5,2,"bicycle
-sign
-hydrant",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_545__asianstyle_interior_decor.jpg,0,32,0,0,5,2,"nightstand
-with
-electronics",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_15900__person_falling_midair.jpg,0,30,0,0,5,2,"winetasting
+bald
+man",1,"[12, 20, 35]"
+stimuli_labeled/coco_nonshared_5921__outdoor_community_gathering.jpg,0,31,0,0,5,2,"person
+falling
+midair",1,"[12, 20, 35]"
+stimuli_labeled/coco_shared_545__asianstyle_interior_decor.jpg,0,32,0,0,5,2,"outdoor
+community
+gathering",1,"[12, 20, 35]"
 stimuli_labeled/coco_shared_197__vintage_doubledecker_bus.jpg,0,33,0,0,5,2,"asianstyle
 interior
 decor",1,"[12, 20, 35]"
-stimuli_labeled/coco_shared_590__kite_between_trees.jpg,0,34,0,0,5,2,"vintage
+stimuli_labeled/coco_shared_720__urban_bike_lane.jpg,0,34,0,0,5,2,"vintage
 doubledecker
 bus",1,"[12, 20, 35]"
-blank.jpg,0,35,1,1,5,2,"kite
-between
-trees",0,"[12, 20, 35]"
+blank.jpg,0,35,1,1,5,2,"urban
+bike
+lane",0,"[12, 20, 35]"

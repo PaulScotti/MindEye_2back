@@ -1,105 +1,104 @@
 current_image,is_repeat,trial_index,is_blank_trial,is_new_run,run_num,sess_num,previous_image,is_not_last_trial,all_blanks_list
-stimuli_labeled/coco_nonshared_31765__urban_cyclist_crossing.jpg,0,0,0,0,4,1,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_208__ornate_clock_facade.jpg,0,1,0,0,4,1,"urban
-cyclist
-crossing",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_630__cat_on_couch.jpg,0,2,0,0,4,1,"ornate
-clock
-facade",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_53402__unmade_bed_corner.jpg,0,0,0,0,4,1,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_20__children_reading_book.jpg,0,1,0,0,4,1,"unmade
+bed
+corner",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_630__cat_on_couch.jpg,0,2,0,0,4,1,"children
+reading
+book",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_110__illuminated_clock_tower.jpg,0,3,0,0,4,1,"cat
 on
 couch",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_226__traffic_lights_suspended.jpg,0,4,0,0,4,1,"illuminated
 clock
 tower",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_951__coffee_mug_keyboard.jpg,0,5,0,0,4,1,"traffic
+stimuli_labeled/coco_shared_940__floral_bedding_set.jpg,0,5,0,0,4,1,"traffic
 lights
 suspended",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_808__yellow_doubledecker_bus.jpg,0,6,0,0,4,1,"coffee
-mug
-keyboard",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_144__bathroom_sink_reflection.jpg,0,7,0,0,4,1,"yellow
-doubledecker
-bus",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_8621__dogs_sharing_food.jpg,0,8,0,0,4,1,"bathroom
-sink
-reflection",1,"[9, 20, 35]"
-blank.jpg,0,9,1,0,4,1,"dogs
-sharing
-food",1,"[9, 20, 35]"
-stimuli_labeled/extra28__colorful_fruit_stand.jpg,0,10,0,0,4,1,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_184__soft_teddy_bear.jpg,0,11,0,0,4,1,"colorful
-fruit
-stand",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,0,12,0,0,4,1,"soft
+stimuli_labeled/coco_shared_184__soft_teddy_bear.jpg,0,6,0,0,4,1,"floral
+bedding
+set",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_904__elegant_kitchen_island.jpg,0,7,0,0,4,1,"soft
 teddy
 bear",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_40992__cats_on_bed.jpg,0,8,0,0,4,1,"elegant
+kitchen
+island",1,"[9, 20, 35]"
+blank.jpg,0,9,1,0,4,1,"cats
+on
+bed",1,"[9, 20, 35]"
+stimuli_labeled/extra28__colorful_fruit_stand.jpg,0,10,0,0,4,1,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_211__orange_locomotive.jpg,0,11,0,0,4,1,"colorful
+fruit
+stand",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_902__modern_kitchen_cabinets.jpg,0,12,0,0,4,1,"orange
+locomotive",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_79__hand_holding_remote.jpg,0,13,0,0,4,1,"modern
 kitchen
 cabinets",1,"[9, 20, 35]"
 stimuli_labeled/coco_shared_685__lighthouse_rocks_boat.jpg,0,14,0,0,4,1,"hand
 holding
 remote",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_14__highspeed_train_bridge.jpg,0,15,0,0,4,1,"lighthouse
+stimuli_labeled/coco_shared_615__wine_tasting_bottles.jpg,0,15,0,0,4,1,"lighthouse
 rocks
 boat",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_144__bathroom_sink_reflection.jpg,1,16,0,0,4,1,"highspeed
-train
-bridge",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_44856__man_in_courtyard.jpg,0,17,0,0,4,1,"bathroom
-sink
-reflection",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_904__elegant_kitchen_island.jpg,1,16,0,0,4,1,"wine
+tasting
+bottles",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_44856__man_in_courtyard.jpg,0,17,0,0,4,1,"elegant
+kitchen
+island",1,"[9, 20, 35]"
 stimuli_labeled/target1__madison_sq_park_trumpet.jpg,0,18,0,0,4,1,"man
 in
 courtyard",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_40582__lacecovered_bed.jpg,0,19,0,0,4,1,"madison
+stimuli_labeled/coco_nonshared_15036__wooden_headboard_detail.jpg,0,19,0,0,4,1,"madison
 sq
 park
 trumpet",1,"[9, 20, 35]"
-blank.jpg,0,20,1,0,4,1,"lacecovered
-bed",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_60__cyclist_on_street.jpg,0,21,0,0,4,1,blank,1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_3__windsurfer_kayaks_lake.jpg,0,22,0,0,4,1,"cyclist
-on
-street",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_752__bathroom_vanity_toilet.jpg,0,23,0,0,4,1,"windsurfer
+blank.jpg,0,20,1,0,4,1,"wooden
+headboard
+detail",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_76__child_holding_kite.jpg,0,21,0,0,4,1,blank,1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_3__windsurfer_kayaks_lake.jpg,0,22,0,0,4,1,"child
+holding
+kite",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_405__yellow_traffic_light.jpg,0,23,0,0,4,1,"windsurfer
 kayaks
 lake",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_178__metal_scissors_closeup.jpg,0,24,0,0,4,1,"bathroom
-vanity
-toilet",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_836__floral_patterned_couch.jpg,0,25,0,0,4,1,"metal
-scissors
-closeup",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_696__bathtub_toilet_faucet.jpg,0,26,0,0,4,1,"floral
+stimuli_labeled/coco_shared_544__lake_mountain_boat.jpg,0,24,0,0,4,1,"yellow
+traffic
+light",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_836__floral_patterned_couch.jpg,0,25,0,0,4,1,"lake
+mountain
+boat",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_730__boy_bench_cat.jpg,0,26,0,0,4,1,"floral
 patterned
 couch",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_10535__man_viewing_times_square.jpg,0,27,0,0,4,1,"bathtub
-toilet
-faucet",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_8313__man_cat_bed.jpg,0,27,0,0,4,1,"boy
+bench
+cat",1,"[9, 20, 35]"
 stimuli_labeled/extra31__elderly_man_portrait.jpg,0,28,0,0,4,1,"man
-viewing
-times
-square",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_547__bedroom_bathroom_television.jpg,0,29,0,0,4,1,"elderly
+cat
+bed",1,"[9, 20, 35]"
+stimuli_labeled/coco_shared_848__cat_on_laptop.jpg,0,29,0,0,4,1,"elderly
 man
 portrait",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_71091__sheep_by_fence.jpg,0,30,0,0,4,1,"bedroom
-bathroom
-television",1,"[9, 20, 35]"
-stimuli_labeled/target1__madison_sq_park_trumpet.jpg,1,31,0,0,4,1,"sheep
-by
-fence",1,"[9, 20, 35]"
-stimuli_labeled/coco_nonshared_44540__ornate_antique_commode.jpg,0,32,0,0,4,1,"madison
+stimuli_labeled/coco_nonshared_38461__outdoor_concert_crowd.jpg,0,30,0,0,4,1,"cat
+on
+laptop",1,"[9, 20, 35]"
+stimuli_labeled/target1__madison_sq_park_trumpet.jpg,1,31,0,0,4,1,"outdoor
+concert
+crowd",1,"[9, 20, 35]"
+stimuli_labeled/coco_nonshared_21048__cats_on_bed.jpg,0,32,0,0,4,1,"madison
 sq
 park
 trumpet",1,"[9, 20, 35]"
-stimuli_labeled/coco_shared_448__laptop_with_stickers.jpg,0,33,0,0,4,1,"ornate
-antique
-commode",1,"[9, 20, 35]"
-stimuli_labeled/extra5__sun_hat_crocs.jpg,0,34,0,0,4,1,"laptop
-with
-stickers",1,"[9, 20, 35]"
-blank.jpg,0,35,1,1,4,1,"sun
-hat
-crocs",0,"[9, 20, 35]"
+stimuli_labeled/coco_shared_863__hightech_computer_workspace.jpg,0,33,0,0,4,1,"cats
+on
+bed",1,"[9, 20, 35]"
+stimuli_labeled/extra30__man_trumpet_sitting.jpg,0,34,0,0,4,1,"hightech
+computer
+workspace",1,"[9, 20, 35]"
+blank.jpg,0,35,1,1,4,1,"man
+trumpet
+sitting",0,"[9, 20, 35]"
